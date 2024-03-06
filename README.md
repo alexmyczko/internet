@@ -2,7 +2,7 @@
 The Internet
 
 # The Internet between 1990-1999
-When IRC was hip. And people used mirc32 and some wrote, pressing "alt-f4" starts a hidden flightsimulator.
+When IRC (try `dict IRC`) was hip. And people used mirc32 and some wrote, pressing "alt-f4" starts a hidden flightsimulator.
 
 # DNS at that time
 Yes you could simply get a zone transfer, dig them out and put them [here](dns), for the fun.
