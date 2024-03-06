@@ -17,6 +17,9 @@ CEO short summary, try `dict DNS` and read the RFC. The important RRs are SOA, N
 So why we create tools to setup your own DNS server? Map your network?
 Because the given DNS servers are unreliable. Because there is no network documentation. Because...
 
+# Really fast.
+So where to start, how to get an overview? <TBD>. Once it works quite good and is fast, the plan is to also make appealing visualisations of it, and then have it via https://github.com/alexmyczko/ruptime
+
 # A bit about security
 "secure by default is only good for good press - that way clueless users get
 'secure' install. It's the admin that makes system secure, not having closed everything
