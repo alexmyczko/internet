@@ -1,0 +1,210 @@
+honda.com.          	SOA	ns1.honda.com. hostmaster.ahm.honda.com. (
+			2003062601	;serial (version)
+			1800	;refresh period (30 minutes)
+			900	;retry interval (15 minutes)
+			3600000	;expire time (5 weeks, 6 days, 16 hours)
+			600	;default ttl (10 minutes)
+			)
+honda.com.          	NS	auth120.ns.uu.net.
+honda.com.          	NS	NS2.AMERHONDA.com.
+honda.com.          	NS	la-dns1.digilink.net.
+honda.com.          	NS	la-dns2.digilink.net.
+honda.com.          	NS	NS1.AMERHONDA.com.
+honda.com.          	NS	ns1.honda.com.
+honda.com.          	NS	ns3.cw.net.
+honda.com.          	NS	MIA03-1.DIGEX.com.
+honda.com.          	A	164.109.25.248
+honda.com.          	MX	1 border3.honda.com.
+honda.com.          	MX	5 border2.honda.com.
+honda.com.          	MX	10 border1.honda.com.
+smtp.honda.com.     	MX	0 border3.honda.com.
+smtp.honda.com.     	MX	5 border2.honda.com.
+smtp.honda.com.     	MX	10 border1.honda.com.
+smtp.honda.com.     	A	170.108.3.14
+dealermaps.honda.com.	CNAME	honda.vicinity.com.
+elb01.honda.com.    	A	207.130.95.60
+e-staging.honda.com.	A	164.109.24.245
+elb02.honda.com.    	A	207.130.95.40
+civicgx.honda.com.  	A	164.109.25.194
+estore.honda.com.   	A	164.109.27.144
+pat.estore.honda.com.	A	164.109.27.170
+staging.estore.honda.com.	A	164.109.24.213
+metrics.honda.com.  	A	164.109.25.207
+htm.honda.com.      	MX	0 nhhtm001.honda.com.
+htm.honda.com.      	MX	5 nzham001.honda.com.
+staging.eshop.honda.com.	A	164.109.24.213
+staging.honda.com.  	A	207.130.95.57
+nhhtm001.honda.com. 	A	208.4.211.44
+ecmsin.honda.com.   	A	207.130.95.36
+serviceexpress.honda.com.	A	164.109.25.194
+pat.serviceexpress.honda.com.	A	164.109.27.155
+www.serviceexpress.honda.com.	A	164.109.25.249
+staging.serviceexpress.honda.com.	A	164.109.24.240
+*.honda.com.        	MX	10 border1.honda.com.
+*.honda.com.        	MX	1 border3.honda.com.
+*.honda.com.        	MX	5 border2.honda.com.
+documentum.honda.com.	A	164.109.25.194
+nhhdm001.honda.com. 	A	208.4.211.57
+reminder.honda.com. 	MX	5 unitymail.minacsusa.com.
+reminder.honda.com. 	A	164.109.25.194
+www.reminder.honda.com.	MX	5 unitymail.minacsusa.com.
+www.reminder.honda.com.	A	164.109.25.194
+owners.honda.com.   	A	164.109.25.194
+www.owners.honda.com.	A	164.109.25.194
+staging.estoredealer.honda.com.	A	164.109.27.25
+crv.honda.com.      	A	164.109.25.194
+unspec1.honda.com.  	A	207.130.84.152
+unspec2.honda.com.  	A	207.130.69.43
+nshcmg01.honda.com. 	A	64.187.29.254
+element.honda.com.  	A	164.109.25.194
+staging.element.honda.com.	A	164.109.24.221
+www.element.honda.com.	A	164.109.25.194
+bonus.element.honda.com.	A	164.109.25.194
+stupidhurts.honda.com.	A	164.109.25.194
+www.stupidhurts.honda.com.	A	164.109.25.194
+adventuretest.honda.com.	A	209.85.60.134
+ahm.honda.com.      	A	207.130.95.62
+ahm.honda.com.      	MX	1 border3.honda.com.
+ahm.honda.com.      	MX	5 border2.honda.com.
+ahm.honda.com.      	MX	10 border1.honda.com.
+*.ahm.honda.com.    	MX	1 border3.honda.com.
+*.ahm.honda.com.    	MX	5 border2.honda.com.
+*.ahm.honda.com.    	MX	10 border1.honda.com.
+vpn.ahm.honda.com.  	A	207.130.95.11
+portal.ahm.honda.com.	A	207.130.95.35
+portal-qa.ahm.honda.com.	A	207.130.95.38
+ohio.honda.com.     	A	216.99.131.49
+www.ohio.honda.com. 	CNAME	ohio.honda.com.
+sweepstakes.honda.com.	A	216.133.236.234
+www.sweepstakes.honda.com.	A	216.133.236.234
+intest.honda.com.   	A	63.75.128.47
+www.intest.honda.com.	A	63.75.128.47
+ch.honda.com.       	MX	10 border1.honda.com.
+ch.honda.com.       	MX	1 border3.honda.com.
+ch.honda.com.       	MX	5 border2.honda.com.
+border1.honda.com.  	A	207.130.95.37
+border1.honda.com.  	MX	5 border1.honda.com.
+htaoh.honda.com.    	MX	5 nzham001.honda.com.
+htaoh.honda.com.    	MX	0 nhhta001.honda.com.
+border2.honda.com.  	A	207.130.95.40
+border2.honda.com.  	MX	5 border2.honda.com.
+border3.honda.com.  	A	207.130.95.62
+border3.honda.com.  	MX	5 border3.honda.com.
+portal-qa.honda.com.	A	207.130.95.38
+riders.honda.com.   	A	164.109.25.194
+www.riders.honda.com.	A	164.109.25.194
+pat.honda.com.      	A	164.109.27.168
+ega.honda.com.      	MX	0 nhega001.honda.com.
+ega.honda.com.      	MX	5 nzham001.honda.com.
+powersports.honda.com.	A	164.109.25.194
+www.powersports.honda.com.	A	164.109.25.194
+staging.powersports.honda.com.	A	164.109.28.51
+htaal.honda.com.    	MX	0 nhhta001.honda.com.
+htaal.honda.com.    	MX	5 nzham001.honda.com.
+hpdweb.honda.com.   	A	207.130.95.36
+isis.honda.com.     	A	216.133.236.235
+newcrv.honda.com.   	A	164.109.25.194
+flexnet.honda.com.  	CNAME	megapath.net.
+www.flexnet.honda.com.	CNAME	megapath.net.
+ite.eshopping.honda.com.	A	164.109.28.22
+eReports.honda.com. 	A	164.109.26.197
+civictourpresale.honda.com.	A	216.188.37.52
+nhham010.honda.com. 	A	208.4.211.40
+ns1.honda.com.      	A	207.130.95.60
+pqr.honda.com.      	CNAME	hondaweb.hostepoch.net.
+www.pqr.honda.com.  	CNAME	hondaweb.hostepoch.net.
+odyssey.honda.com.  	A	164.109.25.194
+email.honda.com.    	A	164.109.25.194
+hma.honda.com.      	MX	0 nhham010.honda.com.
+hma.honda.com.      	MX	5 nzham001.honda.com.
+asimo.honda.com.    	A	164.109.25.71
+pat.asimo.honda.com.	A	164.109.27.143
+staging.asimo.honda.com.	A	164.109.27.204
+www.asimo.honda.com.	A	164.109.25.71
+studioe.honda.com.  	A	164.109.25.194
+civiccoupe.honda.com.	A	164.109.25.194
+adventure.honda.com.	A	63.236.13.22
+civichybrid.honda.com.	A	164.109.25.194
+www.civichybrid.honda.com.	A	164.109.25.194
+staging.civichybrid.honda.com.	A	164.109.24.252
+hna.honda.com.      	NS	NS1.AMERHONDA.com.
+hna.honda.com.      	NS	ns1.honda.com.
+hna.honda.com.      	NS	NS2.AMERHONDA.com.
+nhega001.honda.com. 	A	208.4.211.41
+nettracker.honda.com.	A	164.109.25.194
+civicsedan.honda.com.	A	164.109.25.194
+accordcoupe.honda.com.	A	164.109.25.194
+htasc.honda.com.    	MX	0 nhhta001.honda.com.
+htasc.honda.com.    	MX	5 nzham001.honda.com.
+ebizmail.honda.com. 	A	164.109.26.27
+ebizmail.honda.com. 	MX	5 ebizmail.honda.com.
+staging.ebizmail.honda.com.	MX	5 staging.ebizmail.honda.com.
+staging.ebizmail.honda.com.	A	164.109.24.101
+accordsedan.honda.com.	A	164.109.25.194
+waitlist.honda.com. 	A	164.109.25.241
+staging.waitlist.honda.com.	A	164.109.24.237
+s2000.honda.com.    	A	164.109.25.194
+cars.honda.com.     	A	164.109.25.194
+whc.honda.com.      	A	202.211.201.20
+hrca.honda.com.     	A	164.109.24.62
+pat.hrca.honda.com. 	A	164.109.27.198
+staging.hrca.honda.com.	A	164.109.24.104
+insight.honda.com.  	A	164.109.25.194
+nhhta001.honda.com. 	A	208.4.211.42
+hpe.honda.com.      	MX	0 nhhdm001.honda.com.
+hpe.honda.com.      	MX	5 nzham001.honda.com.
+tcs.honda.com.      	A	207.130.95.56
+ham.honda.com.      	MX	5 nzham001.honda.com.
+ham.honda.com.      	MX	0 nhham010.honda.com.
+world.honda.com.    	A	202.211.201.10
+world.honda.com.    	MX	5 nc.honda.co.jp.
+www.world.honda.com.	CNAME	world.honda.com.
+www.in.honda.com.   	A	63.78.185.120
+www.in.honda.com.   	A	63.75.128.56
+estore.in.honda.com.	A	164.109.27.145
+civicsi.honda.com.  	A	164.109.25.194
+staging.civicsi.honda.com.	A	164.109.24.247
+pilot.honda.com.    	A	164.109.25.194
+www.pilot.honda.com.	A	164.109.25.194
+staging.pilot.honda.com.	A	164.109.24.217
+websvcs1.honda.com. 	A	207.130.95.57
+websvcs2.honda.com. 	A	207.130.95.36
+nzham001.honda.com. 	A	208.4.211.36
+research.honda.com. 	CNAME	www.hondacorporate.com.
+registration.honda.com.	A	207.130.95.38
+redirect.honda.com. 	A	164.109.25.194
+civictour.honda.com.	A	164.109.25.171
+pat.civictour.honda.com.	A	164.109.27.199
+staging.civictour.honda.com.	A	164.109.24.243
+hcm.honda.com.      	MX	0 nshcmg01.honda.com.
+hcm.honda.com.      	MX	5 nzham001.honda.com.
+hcm.honda.com.      	MX	10 nhham010.honda.com.
+www.honda.com.      	A	164.109.25.248
+www.honda.com.      	MX	0 toaster.rpa.com.
+littleleague.honda.com.	A	164.109.25.194
+www.littleleague.honda.com.	A	164.109.25.194
+automobiles.honda.com.	A	164.109.25.194
+www.automobiles.honda.com.	A	164.109.25.194
+staging.automobiles.honda.com.	A	164.109.28.50
+hsc.honda.com.      	MX	0 nhhdm001.honda.com.
+hsc.honda.com.      	MX	5 nzham001.honda.com.
+ite.services.honda.com.	A	164.109.28.24
+dealerlocator.honda.com.	A	164.109.25.197
+staging.dealerlocator.honda.com.	A	164.109.24.45
+ite.dealerlocator.honda.com.	A	164.109.28.23
+ldra.honda.com.     	A	164.109.24.64
+staging.ldra.honda.com.	A	164.109.26.87
+hdm.honda.com.      	MX	0 nhhdm001.honda.com.
+hdm.honda.com.      	MX	5 nzham001.honda.com.
+direct.honda.com.   	A	164.109.25.194
+register.honda.com. 	A	216.133.236.244
+htc.honda.com.      	MX	0 nshcmg01.honda.com.
+htc.honda.com.      	MX	5 nzham001.honda.com.
+htc.honda.com.      	MX	10 nhham010.honda.com.
+honda.com.          	SOA	ns1.honda.com. hostmaster.ahm.honda.com. (
+			2003062601	;serial (version)
+			1800	;refresh period (30 minutes)
+			900	;retry interval (15 minutes)
+			3600000	;expire time (5 weeks, 6 days, 16 hours)
+			600	;default ttl (10 minutes)
+			)

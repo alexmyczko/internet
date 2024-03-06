@@ -1,0 +1,350 @@
+freebsd.org.        	SOA	ns0.freebsd.org. hostmaster.freebsd.org. (
+			103062000	;serial (version)
+			1800	;refresh period (30 minutes)
+			900	;retry interval (15 minutes)
+			604800	;expire time (1 week)
+			1800	;default ttl (30 minutes)
+			)
+FreeBSD.org.        	NS	ns0.FreeBSD.org.
+FreeBSD.org.        	NS	ns1.iafrica.com.
+FreeBSD.org.        	NS	ns1.downloadtech.com.
+FreeBSD.org.        	NS	ns2.downloadtech.com.
+FreeBSD.org.        	NS	ns2.iafrica.com.
+FreeBSD.org.        	MX	10 mx1.FreeBSD.org.
+FreeBSD.org.        	A	216.136.204.21
+docs.FreeBSD.org.   	CNAME	www.FreeBSD.org.
+ref5.FreeBSD.org.   	A	216.136.204.102
+ref5.FreeBSD.org.   	MX	10 mx1.FreeBSD.org.
+www2.FreeBSD.org.   	CNAME	www.ie.FreeBSD.org.
+lt.FreeBSD.org.     	NS	ns1.delfi.lt.
+lt.FreeBSD.org.     	NS	ns2.delfi.lt.
+www3.FreeBSD.org.   	CNAME	www.se.FreeBSD.org.
+hub.FreeBSD.org.    	A	216.136.204.18
+hub.FreeBSD.org.    	MX	10 mx1.FreeBSD.org.
+www4.FreeBSD.org.   	CNAME	freebsd.n.flirble.org.
+lv.FreeBSD.org.     	NS	ns.lv.FreeBSD.org.
+ns.lv.FreeBSD.org.  	A	195.114.52.166
+lv.FreeBSD.org.     	NS	dns.mpe.lv.
+www5.FreeBSD.org.   	CNAME	freebsd.isc.org.
+localhost.FreeBSD.org.	A	127.0.0.1
+www7.FreeBSD.org.   	CNAME	freebsd.bigmirror.com.
+kerberos.FreeBSD.org.	A	216.136.204.27
+kerberos.FreeBSD.org.	MX	10 mx1.FreeBSD.org.
+kerberos.FreeBSD.org.	HINFO	"Intel"	"FreeBSD"
+lists.FreeBSD.org.  	CNAME	www.FreeBSD.org.
+nl.FreeBSD.org.     	NS	ns1.iaehv.nl.
+nl.FreeBSD.org.     	NS	ns2.iaehv.nl.
+uswps2.FreeBSD.org. 	A	63.224.12.161
+no.FreeBSD.org.     	NS	midten.fast.no.
+no.FreeBSD.org.     	NS	c2h5oh.idi.ntnu.no.
+ns.FreeBSD.org.     	A	209.102.106.178
+stable.FreeBSD.org. 	CNAME	usw3.FreeBSD.org.
+ezine.FreeBSD.org.  	CNAME	peloton.physics.montana.edu.
+anoncvs.FreeBSD.org.	CNAME	usw7.FreeBSD.org.
+be.FreeBSD.org.     	NS	ns.digibel.be.
+bg.FreeBSD.org.     	NS	ns.bse.bg.
+mail.FreeBSD.org.   	CNAME	mx1.FreeBSD.org.
+mx1.FreeBSD.org.    	A	216.136.204.125
+mx1.FreeBSD.org.    	MX	10 mx1.FreeBSD.org.
+current.FreeBSD.org.	CNAME	snapshots.jp.FreeBSD.org.
+mx2.FreeBSD.org.    	A	216.136.204.119
+mx2.FreeBSD.org.    	MX	10 mx1.FreeBSD.org.
+ca.FreeBSD.org.     	NS	ns1.dreamlabs.com.
+ca.FreeBSD.org.     	NS	ns2.dreamlabs.com.
+ca.FreeBSD.org.     	NS	ns3.dreamlabs.com.
+nz.FreeBSD.org.     	NS	ns2.unixathome.org.
+ctm.FreeBSD.org.    	CNAME	ftp.uni-trier.de.
+ar.FreeBSD.org.     	NS	cactus.fi.uba.ar.
+beast.FreeBSD.org.  	A	216.136.204.28
+beast.FreeBSD.org.  	MX	10 mx1.FreeBSD.org.
+beast.FreeBSD.org.  	HINFO	"Alpha"	"FreeBSD"
+pl.FreeBSD.org.     	NS	ns.icm.edu.pl.
+at.FreeBSD.org.     	NS	easy.wu-wien.ac.at.
+at.FreeBSD.org.     	NS	buddy.wu-wien.ac.at.
+au.FreeBSD.org.     	NS	ns.xfree86.org.
+au.FreeBSD.org.     	NS	silk.planetmirror.com.
+au.FreeBSD.org.     	NS	manhattan.netlead.com.au.
+conserver.FreeBSD.org.	CNAME	ns0.FreeBSD.org.
+ch.FreeBSD.org.     	NS	ns1.basis06.ch.
+ch.FreeBSD.org.     	NS	ns2.basis06.ch.
+ch.FreeBSD.org.     	NS	ns3.basis06.ch.
+nwww.FreeBSD.org.   	CNAME	www.FreeBSD.org.
+cvsup-master.FreeBSD.org.	CNAME	ncvsup.FreeBSD.org.
+br.FreeBSD.org.     	NS	ns.br.FreeBSD.org.
+ns.br.FreeBSD.org.  	A	143.106.13.62
+pt.FreeBSD.org.     	NS	dns.ua.pt.
+pt.FreeBSD.org.     	NS	zeus.ci.ua.pt.
+beta.FreeBSD.org.   	CNAME	axp0.FreeBSD.org.
+de.FreeBSD.org.     	NS	ns.nacamar.net.
+de.FreeBSD.org.     	NS	dalx1.nacamar.net.
+de.FreeBSD.org.     	NS	baerenklau.de.FreeBSD.org.
+baerenklau.de.FreeBSD.org.	A	195.185.195.14
+de.FreeBSD.org.     	NS	sol.terramedia.de.
+de.FreeBSD.org.     	NS	ns.cs.tu-berlin.de.
+cn.FreeBSD.org.     	NS	freebsd.tepus.com.
+uswstor1.FreeBSD.org.	A	63.224.12.165
+pluto1.FreeBSD.org. 	A	216.136.204.97
+pluto1.FreeBSD.org. 	MX	10 mx1.FreeBSD.org.
+dk.FreeBSD.org.     	NS	ptah.dkuug.dk.
+dk.FreeBSD.org.     	NS	ns1.cybercity.dk.
+daemon-news.FreeBSD.org.	CNAME	peloton.physics.montana.edu.
+sup.FreeBSD.org.    	CNAME	burka.rdy.com.
+pluto2.FreeBSD.org. 	A	216.136.204.98
+pluto2.FreeBSD.org. 	MX	10 mx1.FreeBSD.org.
+se.FreeBSD.org.     	NS	zed.ludd.luth.se.
+se.FreeBSD.org.     	NS	dns5.telia.com.
+axp0.FreeBSD.org.   	A	216.136.204.64
+axp0.FreeBSD.org.   	MX	10 mx1.FreeBSD.org.
+ee.FreeBSD.org.     	NS	ns.uninet.ee.
+axp1.FreeBSD.org.   	A	216.136.204.65
+axp1.FreeBSD.org.   	MX	10 does.not.accept.mail.
+ro.FreeBSD.org.     	NS	ns.ro.FreeBSD.org.
+ns.ro.FreeBSD.org.  	A	193.226.13.15
+ro.FreeBSD.org.     	NS	router.uvt.ro.
+sg.FreeBSD.org.     	NS	ns1.edylie.net.
+sg.FreeBSD.org.     	NS	ns2.edylie.net.
+axp2.FreeBSD.org.   	A	216.136.204.66
+axp2.FreeBSD.org.   	MX	10 does.not.accept.mail.
+ns0.FreeBSD.org.    	A	216.136.204.126
+ns0.FreeBSD.org.    	MX	10 mx1.FreeBSD.org.
+cvs.FreeBSD.org.    	CNAME	repoman.FreeBSD.org.
+axp3.FreeBSD.org.   	A	216.136.204.67
+axp3.FreeBSD.org.   	MX	10 does.not.accept.mail.
+si.FreeBSD.org.     	NS	ns1.amis.net.
+si.FreeBSD.org.     	NS	ns2.amis.net.
+si.FreeBSD.org.     	NS	ns3.amis.net.
+axp4.FreeBSD.org.   	A	216.136.204.68
+axp4.FreeBSD.org.   	MX	10 does.not.accept.mail.
+axp5.FreeBSD.org.   	A	216.136.204.69
+axp5.FreeBSD.org.   	MX	10 does.not.accept.mail.
+java.FreeBSD.org.   	CNAME	skul.FreeBSD.org.
+cz.FreeBSD.org.     	NS	ns.ms.mff.cuni.cz.
+cz.FreeBSD.org.     	NS	sns.ms.mff.cuni.cz.
+sk.FreeBSD.org.     	NS	ns.wbsk.sk.
+sk.FreeBSD.org.     	NS	ns1.wbsk.sk.
+internat.FreeBSD.org.	NS	internat.FreeBSD.org.
+internat.freebsd.org.	A	146.64.8.4
+internat.FreeBSD.org.	NS	ns1.iafrica.com.
+internat.FreeBSD.org.	NS	ns2.iafrica.com.
+cvsup10.FreeBSD.org.	CNAME	ocvsup.FreeBSD.org.
+axp6.FreeBSD.org.   	A	216.136.204.70
+axp6.FreeBSD.org.   	MX	10 does.not.accept.mail.
+cvsup11.FreeBSD.org.	CNAME	freebsd-mirror0.research.uu.net.
+axp7.FreeBSD.org.   	A	216.136.204.71
+axp7.FreeBSD.org.   	MX	10 does.not.accept.mail.
+ru.FreeBSD.org.     	NS	dns.ru.FreeBSD.org.
+dns.ru.FreeBSD.org. 	A	194.87.0.8
+dns.ru.FreeBSD.org. 	A	194.87.0.9
+ru.FreeBSD.org.     	NS	ns1.demos.net.
+sm.FreeBSD.org.     	NS	ns1.sm.FreeBSD.org.
+ns1.sm.FreeBSD.org. 	A	194.183.89.1
+sm.FreeBSD.org.     	NS	ns2.sm.FreeBSD.org.
+ns2.sm.FreeBSD.org. 	A	194.183.89.8
+cvsup12.FreeBSD.org.	CNAME	sanmateo.ecn.purdue.edu.
+axp8.FreeBSD.org.   	A	216.136.204.72
+axp8.FreeBSD.org.   	MX	10 does.not.accept.mail.
+so.FreeBSD.org.     	CNAME	so.celabo.org.
+cvsup13.FreeBSD.org.	CNAME	cvsup.valueclick.com.
+axp9.FreeBSD.org.   	A	216.136.204.73
+axp9.FreeBSD.org.   	MX	10 does.not.accept.mail.
+oldbeast.FreeBSD.org.	A	216.136.204.116
+oldbeast.FreeBSD.org.	MX	10 mx1.FreeBSD.org.
+cvsup14.FreeBSD.org.	CNAME	cvsup.above.net.
+th.FreeBSD.org.     	NS	ns.riubon.ac.th.
+th.FreeBSD.org.     	NS	ns.th.FreeBSD.org.
+ns.th.FreeBSD.org.  	A	203.154.230.20
+cvsup15.FreeBSD.org.	CNAME	cvsup.math.uic.edu.
+ua.FreeBSD.org.     	NS	ns.lucky.net.
+ua.FreeBSD.org.     	NS	ns1.dnepr.net.
+ua.FreeBSD.org.     	NS	ns2.dnepr.net.
+ua.FreeBSD.org.     	NS	ns.luckynet.co.il.
+cvsup16.FreeBSD.org.	CNAME	warhammer.mcc.virginia.edu.
+fi.FreeBSD.org.     	NS	ns.sms.fi.
+cvsup17.FreeBSD.org.	CNAME	cvsup.mirrortree.com.
+ftp10.FreeBSD.org.  	CNAME	mirrors.blackened.com.
+freefall.FreeBSD.org.	A	216.136.204.21
+freefall.FreeBSD.org.	MX	10 mx1.FreeBSD.org.
+freefall.FreeBSD.org.	HINFO	"Intel"	"FreeBSD"
+ftp11.FreeBSD.org.  	CNAME	onion.valueclick.com.
+es.FreeBSD.org.     	NS	www.es.FreeBSD.org.
+www.es.FreeBSD.org. 	A	212.7.38.45
+es.FreeBSD.org.     	NS	ns2.worldonline.es.
+ftp12.FreeBSD.org.  	CNAME	reflection.ncsa.uiuc.edu.
+gohan10.FreeBSD.org.	A	216.136.204.50
+gohan10.FreeBSD.org.	MX	10 does.not.accept.mail.
+skunk.FreeBSD.org.  	CNAME	skunkworks.FreeBSD.org.
+ftp13.FreeBSD.org.  	CNAME	archive.progeny.com.
+gohan11.FreeBSD.org.	A	216.136.204.51
+gohan11.FreeBSD.org.	MX	10 does.not.accept.mail.
+eu.FreeBSD.org.     	NS	ns.nacamar.net.
+eu.FreeBSD.org.     	NS	dalx1.nacamar.net.
+eu.FreeBSD.org.     	NS	server.zsb.th-darmstadt.de.
+eu.FreeBSD.org.     	NS	gilberto.physik.rwth-aachen.de.
+dcvs.FreeBSD.org.   	CNAME	repoman.FreeBSD.org.
+ftp14.FreeBSD.org.  	CNAME	warhammer.mcc.virginia.edu.
+ocvsup.FreeBSD.org. 	A	216.136.204.25
+ocvsup.FreeBSD.org. 	MX	10 mx1.FreeBSD.org.
+ocvsup.FreeBSD.org. 	HINFO	"Intel"	"FreeBSD"
+gohan12.FreeBSD.org.	A	216.136.204.52
+gohan12.FreeBSD.org.	MX	10 does.not.accept.mail.
+deo-ultra5.FreeBSD.org.	A	216.136.204.95
+deo-ultra5.FreeBSD.org.	MX	10 mx1.FreeBSD.org.
+hitter.FreeBSD.org. 	A	207.192.64.20
+gohan13.FreeBSD.org.	A	216.136.204.53
+gohan13.FreeBSD.org.	MX	10 does.not.accept.mail.
+gohan14.FreeBSD.org.	A	216.136.204.54
+gohan14.FreeBSD.org.	MX	10 does.not.accept.mail.
+ncvsup.FreeBSD.org. 	A	216.136.204.121
+ncvsup.FreeBSD.org. 	MX	10 mx1.FreeBSD.org.
+gohan15.FreeBSD.org.	A	216.136.204.55
+gohan15.FreeBSD.org.	MX	10 does.not.accept.mail.
+tr.FreeBSD.org.     	NS	finland.ispro.net.tr.
+tr.FreeBSD.org.     	NS	turkey.ispro.net.tr.
+gohan16.FreeBSD.org.	A	216.136.204.56
+gohan16.FreeBSD.org.	MX	10 does.not.accept.mail.
+fr.FreeBSD.org.     	NS	lagaffe.univ-angers.fr.
+fr.FreeBSD.org.     	NS	efr.med.univ-tours.fr.
+fr.FreeBSD.org.     	NS	ns.eu.org.
+uk.FreeBSD.org.     	NS	ns.tao.org.uk.
+uk.FreeBSD.org.     	NS	storm.freebsd.org.uk.
+uk.FreeBSD.org.     	NS	ns0.cloaked.org.uk.
+uk.FreeBSD.org.     	NS	hobbes.bsd-dk.dk.
+releng4.FreeBSD.org.	CNAME	usw4.FreeBSD.org.
+gohan17.FreeBSD.org.	A	216.136.204.57
+gohan17.FreeBSD.org.	MX	10 does.not.accept.mail.
+bugs.FreeBSD.org.   	CNAME	www.FreeBSD.org.
+uswps.FreeBSD.org.  	A	209.181.243.17
+tw.FreeBSD.org.     	NS	freebsd.csie.nctu.edu.tw.
+tw.FreeBSD.org.     	NS	cpu.com.tw.
+tw.FreeBSD.org.     	NS	ns1.neto.net.
+bento.FreeBSD.org.  	A	216.136.204.23
+bento.FreeBSD.org.  	MX	10 mx1.FreeBSD.org.
+bento.FreeBSD.org.  	HINFO	"Intel"	"FreeBSD"
+anoncvs1.FreeBSD.org.	CNAME	usw7.FreeBSD.org.
+anoncvs2.FreeBSD.org.	CNAME	blitzkrieg.blackened.com.
+crashes.FreeBSD.org.	A	216.136.204.122
+crashes.FreeBSD.org.	MX	10 mx1.FreeBSD.org.
+ripcord.FreeBSD.org.	CNAME	freefall.FreeBSD.org.
+winston.FreeBSD.org.	CNAME	winston.queasyweasel.com.
+gr.FreeBSD.org.     	NS	ns1.duth.gr.
+gr.FreeBSD.org.     	NS	ns2.duth.gr.
+gr.FreeBSD.org.     	NS	achilles.noc.ntua.gr.
+cvsup1.FreeBSD.org. 	CNAME	n.cwu.edu.
+backup.FreeBSD.org. 	A	216.136.204.123
+backup.FreeBSD.org. 	MX	10 mx1.FreeBSD.org.
+usw10.FreeBSD.org.  	A	63.224.12.163
+hk.FreeBSD.org.     	NS	NS1.HK-SITE.COM.
+hk.FreeBSD.org.     	NS	NS2.HK-SITE.COM.
+hk.FreeBSD.org.     	NS	NS3.HK-SITE.COM.
+hk.FreeBSD.org.     	NS	NS4.HK-SITE.COM.
+cvsup2.FreeBSD.org. 	A	130.94.149.166
+usw11.FreeBSD.org.  	A	63.224.12.164
+cvsup3.FreeBSD.org. 	CNAME	freebsd.lcs.mit.edu.
+ie.FreeBSD.org.     	NS	ann.indigo.ie.
+ie.FreeBSD.org.     	NS	una.indigo.ie.
+ie.FreeBSD.org.     	NS	ns2.xensei.com.
+cvsup4.FreeBSD.org. 	CNAME	freebsd.isc.org.
+usw1.FreeBSD.org.   	A	209.180.6.225
+cvsup5.FreeBSD.org. 	CNAME	cvsup.freebsd.blackened.com.
+usw2.FreeBSD.org.   	A	209.180.6.226
+cvsup6.FreeBSD.org. 	CNAME	cvsup.adelphiacom.net.
+usw3.FreeBSD.org.   	A	209.180.6.227
+cvsup7.FreeBSD.org. 	A	129.250.31.140
+ocvsup-22.FreeBSD.org.	A	216.136.204.26
+ocvsup-22.FreeBSD.org.	MX	10 mx1.FreeBSD.org.
+ocvsup-22.FreeBSD.org.	HINFO	"Intel"	"FreeBSD"
+usw4.FreeBSD.org.   	A	209.180.6.228
+cvsup8.FreeBSD.org. 	CNAME	cvsup.bigmirror.com.
+builder.FreeBSD.org.	A	216.136.204.24
+builder.FreeBSD.org.	MX	10 mx1.FreeBSD.org.
+builder.FreeBSD.org.	HINFO	"Intel"	"FreeBSD"
+deo-panther.FreeBSD.org.	A	216.136.204.94
+deo-panther.FreeBSD.org.	MX	10 mx1.FreeBSD.org.
+usw5.FreeBSD.org.   	A	209.181.243.18
+cvsup9.FreeBSD.org. 	CNAME	usw8.FreeBSD.org.
+usw6.FreeBSD.org.   	A	209.181.243.19
+skunkworks.FreeBSD.org.	A	216.136.204.100
+skunkworks.FreeBSD.org.	MX	10 mx1.FreeBSD.org.
+usw7.FreeBSD.org.   	A	209.181.243.20
+il.FreeBSD.org.     	NS	dns.netvision.net.il.
+il.FreeBSD.org.     	NS	nypop.elron.net.
+perforce.FreeBSD.org.	CNAME	repoman.FreeBSD.org.
+usw8.FreeBSD.org.   	A	209.181.243.21
+rtp.FreeBSD.org.    	NS	rtp.FreeBSD.org.
+rtp.FreeBSD.org.    	A	192.58.184.34
+hu.FreeBSD.org.     	NS	zeus.iit.uni-miskolc.hu.
+hu.FreeBSD.org.     	NS	ns1.kyaritsu.com.
+hu.FreeBSD.org.     	NS	ns.bmf.hu.
+usw9.FreeBSD.org.   	A	63.224.12.162
+ftp-master.FreeBSD.org.	A	216.136.204.118
+ftp-master.FreeBSD.org.	MX	10 mx1.FreeBSD.org.
+mozilla.FreeBSD.org.	CNAME	bento.FreeBSD.org.
+ftp1.FreeBSD.org.   	CNAME	freebsd.secsup.org.
+ftp2.FreeBSD.org.   	A	130.94.149.162
+vmtest.FreeBSD.org. 	A	216.136.204.120
+vmtest.FreeBSD.org. 	MX	10 mx1.FreeBSD.org.
+is.FreeBSD.org.     	NS	draupnir.rhnet.is.
+is.FreeBSD.org.     	NS	seth.isnic.is.
+is.FreeBSD.org.     	NS	dvalinn.rhnet.is.
+cvsup.FreeBSD.org.  	CNAME	n.cwu.edu.
+ftp3.FreeBSD.org.   	CNAME	freebsd.isc.org.
+current.dev.FreeBSD.org.	CNAME	ref5.FreeBSD.org.
+stable.dev.FreeBSD.org.	CNAME	ref4.FreeBSD.org.
+it.FreeBSD.org.     	NS	dscna1.unina.it.
+it.FreeBSD.org.     	NS	dscna2.unina.it.
+ftp4.FreeBSD.org.   	CNAME	freebsd.isc.org.
+ftp5.FreeBSD.org.   	CNAME	xyz.lcs.mit.edu.
+ftp6.FreeBSD.org.   	CNAME	mirrors.rcn.com.
+ftp7.FreeBSD.org.   	CNAME	ftp.arl.mil.
+panther.FreeBSD.org.	A	216.136.204.99
+panther.FreeBSD.org.	MX	10 mx1.FreeBSD.org.
+repoman.FreeBSD.org.	A	216.136.204.115
+repoman.FreeBSD.org.	MX	10 mx1.FreeBSD.org.
+jp.FreeBSD.org.     	NS	castle.jp.FreeBSD.org.
+castle.jp.FreeBSD.org.	A	210.226.20.15
+jp.FreeBSD.org.     	NS	hito.eccosys.com.
+jp.FreeBSD.org.     	NS	ns.isoternet.org.
+jp.FreeBSD.org.     	NS	ns2.spnet.ne.jp.
+za.FreeBSD.org.     	NS	internat.FreeBSD.org.
+internat.freebsd.org.	A	146.64.8.4
+za.FreeBSD.org.     	NS	ns1.iafrica.com.
+za.FreeBSD.org.     	NS	ns2.iafrica.com.
+ncvs.FreeBSD.org.   	CNAME	repoman.FreeBSD.org.
+ftp8.FreeBSD.org.   	CNAME	ftp.stealth.net.
+www.FreeBSD.org.    	A	216.136.204.117
+www.FreeBSD.org.    	MX	10 mx1.FreeBSD.org.
+projcvs.FreeBSD.org.	CNAME	repoman.FreeBSD.org.
+ftp9.FreeBSD.org.   	CNAME	ftp.cerias.purdue.edu.
+cvsup10-22.FreeBSD.org.	CNAME	ocvsup-22.FreeBSD.org.
+people.FreeBSD.org. 	CNAME	freefall.FreeBSD.org.
+cvsweb.FreeBSD.org. 	CNAME	www.FreeBSD.org.
+uswts.FreeBSD.org.  	A	209.180.6.229
+skul.FreeBSD.org.   	A	216.136.204.19
+skul.FreeBSD.org.   	MX	10 mx1.FreeBSD.org.
+axp82.FreeBSD.org.  	CNAME	axp2.FreeBSD.org.
+pcvs.FreeBSD.org.   	CNAME	repoman.FreeBSD.org.
+axp83.FreeBSD.org.  	CNAME	axp3.FreeBSD.org.
+axp84.FreeBSD.org.  	CNAME	axp4.FreeBSD.org.
+axp85.FreeBSD.org.  	CNAME	axp5.FreeBSD.org.
+kr.FreeBSD.org.     	NS	ns.openbird.com.
+kr.FreeBSD.org.     	NS	ns2.openbird.com.
+axp86.FreeBSD.org.  	CNAME	axp6.FreeBSD.org.
+ftp.FreeBSD.org.    	A	204.152.184.73
+ftp.FreeBSD.org.    	A	62.243.72.50
+ftp.FreeBSD.org.    	AAAA	2001:4F8:0:2:0:0:0:E
+axp87.FreeBSD.org.  	CNAME	axp7.FreeBSD.org.
+panther2.FreeBSD.org.	A	216.136.204.96
+panther2.FreeBSD.org.	MX	10 mx1.FreeBSD.org.
+yu.FreeBSD.org.     	NS	ns.lagged.net.
+kw.FreeBSD.org.     	NS	dns.kems.net.
+kw.FreeBSD.org.     	NS	ncc.kems.net.
+kw.FreeBSD.org.     	NS	nccdns.kems.net.
+ref4.FreeBSD.org.   	A	216.136.204.101
+ref4.FreeBSD.org.   	MX	10 mx1.FreeBSD.org.
+freebsd.org.        	SOA	ns0.freebsd.org. hostmaster.freebsd.org. (
+			103062000	;serial (version)
+			1800	;refresh period (30 minutes)
+			900	;retry interval (15 minutes)
+			604800	;expire time (1 week)
+			1800	;default ttl (30 minutes)
+			)

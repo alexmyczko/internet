@@ -1,0 +1,225 @@
+netbsd.org.         	SOA	ns.netbsd.org. hostmaster.netbsd.org. (
+			2003052600	;serial (version)
+			21600	;refresh period (6 hours)
+			3600	;retry interval (1 hour)
+			2419200	;expire time (4 weeks)
+			3600	;default ttl (1 hour)
+			)
+netbsd.org.         	NS	ns.netbsd.org.
+netbsd.org.         	NS	ns1.berkeley.edu.
+netbsd.org.         	NS	ns2.berkeley.edu.
+netbsd.org.         	NS	uucp-gw-1.pa.dec.com.
+netbsd.org.         	NS	uucp-gw-2.pa.dec.com.
+netbsd.org.         	A	204.152.184.116
+netbsd.org.         	MX	10 mail.netbsd.org.
+netbsd.org.         	MX	50 www.netbsd.org.
+rsync6.netbsd.org.  	AAAA	2001:4F8:4:B:2E0:81FF:FE21:6563
+archives.netbsd.org.	CNAME	above.warped.net.
+ftp.lt.netbsd.org.  	CNAME	ftp.vejas.lt.
+www.lt.netbsd.org.  	CNAME	netbsd.vejas.lt.
+loghost.netbsd.org. 	CNAME	localhost.netbsd.org.
+www.lu.netbsd.org.  	CNAME	netbsd.wagener-consulting.lu.
+www4.netbsd.org.    	A	204.152.184.116
+localhost.netbsd.org.	A	127.0.0.1
+news.netbsd.org.    	CNAME	news.gw.com.
+sundry.netbsd.org.  	A	204.152.186.131
+sundry.netbsd.org.  	AAAA	3FFE:8050:201:1860:2A0:C9FF:FEED:B7EA
+www6.netbsd.org.    	AAAA	2001:4F8:4:B:290:27FF:FEAB:19A7
+www.conference.netbsd.org.	A	160.79.46.164
+alpha.conference.netbsd.org.	A	10.3.0.1
+imac.conference.netbsd.org.	A	10.3.0.2
+mmeye.conference.netbsd.org.	A	10.3.0.3
+shark.conference.netbsd.org.	A	10.3.0.4
+pc.conference.netbsd.org.	A	10.3.0.5
+ftp.nl.netbsd.org.  	CNAME	ftp.nluug.nl.
+ftp2.nl.netbsd.org. 	CNAME	info.wins.uva.nl.
+iso.nl.netbsd.org.  	CNAME	ftp.nluug.nl.
+www.nl.netbsd.org.  	CNAME	www.netbsd.nl.
+anoncvs.no.netbsd.org.	CNAME	server6.pasta.cs.uit.no.
+sup.no.netbsd.org.  	CNAME	chur.math.ntnu.no.
+cvsup.no.netbsd.org.	CNAME	cvsup.pasta.cs.uit.no.
+www.no.netbsd.org.  	CNAME	netbsdwww.bitcon.no.
+www2.no.netbsd.org. 	CNAME	server6.pasta.cs.uit.no.
+cvsweb.no.netbsd.org.	CNAME	server6.pasta.cs.uit.no.
+ftp2.no.netbsd.org. 	CNAME	server6.pasta.cs.uit.no.
+ftp.no.netbsd.org.  	CNAME	ftp.bitcon.no.
+www.my.netbsd.org.  	A	202.157.183.150
+ns.netbsd.org.      	A	155.53.1.253
+releng.netbsd.org.  	A	166.84.0.12
+releng.netbsd.org.  	MX	10 zathras.daemon.org.
+tix.netbsd.org.     	CNAME	www.netbsd.org.
+cvsweb.be.netbsd.org.	CNAME	igwesl4.vub.ac.be.
+ftp.be.netbsd.org.  	CNAME	igwesl4.vub.ac.be.
+www2.be.netbsd.org. 	CNAME	igwesl4.vub.ac.be.
+www.be.netbsd.org.  	CNAME	netbsd.unixtech.be.
+anoncvs.netbsd.org. 	A	204.152.184.161
+www.bg.netbsd.org.  	CNAME	netbsd.triada.bg.
+mail.netbsd.org.    	A	155.53.1.253
+mail.netbsd.org.    	MX	10 mail.netbsd.org.
+mail.netbsd.org.    	MX	50 www.netbsd.org.
+anoncvs.pl.netbsd.org.	CNAME	animal.chem.uw.edu.pl.
+cvsup.pl.netbsd.org.	CNAME	animal.chem.uw.edu.pl.
+www.pl.netbsd.org.  	CNAME	web.netbsd.mirror.arhea.net.
+cvsweb.pl.netbsd.org.	CNAME	animal.chem.uw.edu.pl.
+www2.pl.netbsd.org. 	CNAME	netbsd.3miasto.net.
+www3.pl.netbsd.org. 	CNAME	netbsdwww.cordef.com.pl.
+ftp.pl.netbsd.org.  	CNAME	netbsd.osowa.3miasto.net.
+ftp.at.netbsd.org.  	CNAME	gd.tuwien.ac.at.
+www.at.netbsd.org.  	CNAME	gd.tuwien.ac.at.
+ftp.au.netbsd.org.  	CNAME	melanoma.cs.rmit.edu.au.
+ftp2.au.netbsd.org. 	CNAME	mirror.aarnet.edu.au.
+www2.au.netbsd.org. 	CNAME	netbsd.netlead.com.au.
+iso.au.netbsd.org.  	CNAME	melanoma.cs.rmit.edu.au.
+www.au.netbsd.org.  	CNAME	netbsdwww.cs.rmit.edu.au.
+sup4.netbsd.org.    	A	204.152.184.75
+ftp.br.netbsd.org.  	CNAME	mirror.netbsd.com.br.
+iso.br.netbsd.org.  	CNAME	mirror.netbsd.com.br.
+www.br.netbsd.org.  	CNAME	mirror.netbsd.com.br.
+www.pt.netbsd.org.  	CNAME	netbsd.zarco.org.
+sup6.netbsd.org.    	AAAA	2001:4F8:4:B:2E0:81FF:FE21:6563
+www.cl.netbsd.org.  	CNAME	www.netbsd.cl.
+gnats.netbsd.org.   	A	155.53.1.253
+gnats.netbsd.org.   	MX	10 mail.netbsd.org.
+gnats.netbsd.org.   	MX	50 www.netbsd.org.
+homeworld.netbsd.org.	CNAME	mail.netbsd.org.
+ftp3.de.netbsd.org. 	CNAME	netbsd.ftp.fu-berlin.de.
+iso2.de.netbsd.org. 	CNAME	netbsd.ftp.fu-berlin.de.
+anoncvs.de.netbsd.org.	CNAME	anoncvs.leo.org.
+cvsup.de.netbsd.org.	CNAME	baerenklau.de.freebsd.org.
+iso.de.netbsd.org.  	CNAME	ftp.leo.org.
+cvsup2.de.netbsd.org.	CNAME	cvsup-netbsd.leo.org.
+www.de.netbsd.org.  	CNAME	netbsd.serpens.de.
+ftp2.de.netbsd.org. 	CNAME	ftp.uni-erlangen.de.
+ftp.de.netbsd.org.  	CNAME	ftp.leo.org.
+ftp.cn.netbsd.org.  	CNAME	cnftp.bjpu.edu.cn.
+iso.cn.netbsd.org.  	CNAME	cnftp.bjpu.edu.cn.
+ftp.dk.netbsd.org.  	CNAME	mirror03.inet.tele.dk.
+iso.dk.netbsd.org.  	CNAME	mirror03.inet.tele.dk.
+www.dk.netbsd.org.  	CNAME	boulder.tele.dk.
+sup.netbsd.org.     	A	204.152.184.75
+sup.netbsd.org.     	AAAA	2001:4F8:4:B:2E0:81FF:FE21:6563
+cvsweb.se.netbsd.org.	CNAME	tanya.sergei.cc.
+ftp.se.netbsd.org.  	CNAME	gort.ludd.luth.se.
+anoncvs.se.netbsd.org.	CNAME	anoncvs.netbsd.se.
+www.se.netbsd.org.  	CNAME	nbwww.sergei.cc.
+narn.netbsd.org.    	CNAME	www.netbsd.org.
+ftp.ee.netbsd.org.  	CNAME	ftp.estpak.ee.
+iso.ee.netbsd.org.  	CNAME	ftp.estpak.ee.
+irc.netbsd.org.     	CNAME	irc.warped.net.
+www.ro.netbsd.org.  	CNAME	www.netbsd.ro.
+cvs.netbsd.org.     	A	130.233.229.212
+ftp.cz.netbsd.org.  	CNAME	net.bsd.cz.
+anoncvs.cz.netbsd.org.	CNAME	net.bsd.cz.
+iso.cz.netbsd.org.  	CNAME	net.bsd.cz.
+www.cz.netbsd.org.  	CNAME	centaurus.4web.cz.
+ftp.sk.netbsd.org.  	A	193.87.16.17
+cvsup.sk.netbsd.org.	A	193.87.16.17
+www.sk.netbsd.org.  	A	193.87.16.17
+babylon.netbsd.org. 	CNAME	ftp.netbsd.org.
+ftp.ru.netbsd.org.  	CNAME	ftp.chg.ru.
+www2.ru.netbsd.org. 	CNAME	skeleton.phys.spbu.ru.
+www.ru.netbsd.org.  	CNAME	netbsd.4ka.mipt.ru.
+projects.netbsd.org.	CNAME	projects.slowass.net.
+epsilon.netbsd.org. 	CNAME	sundry.netbsd.org.
+www.ua.netbsd.org.  	CNAME	netbsd.terabyte.com.ua.
+ftp.fi.netbsd.org.  	CNAME	ftp.funet.fi.
+cvs.fi.netbsd.org.  	A	130.233.229.212
+anoncvs.fi.netbsd.org.	CNAME	pleco.mikrolahti.fi.
+iso.fi.netbsd.org.  	CNAME	ftp.funet.fi.
+news.fi.netbsd.org. 	CNAME	news.gw.com.
+www.fi.netbsd.org.  	CNAME	web-a.fi.gw.com.
+ftp.es.netbsd.org.  	CNAME	zeppo.rediris.es.
+iso.es.netbsd.org.  	CNAME	zeppo.rediris.es.
+man.netbsd.org.     	CNAME	web-a.us.gw.com.
+redmail.netbsd.org. 	A	155.53.1.253
+iso.netbsd.org.     	A	204.152.184.75
+iso.netbsd.org.     	AAAA	2001:4F8:4:B:2E0:81FF:FE21:6563
+www.tr.netbsd.org.  	CNAME	netbsd.enderunix.org.
+anoncvs.fr.netbsd.org.	CNAME	antioche.antioche.eu.org.
+sup.fr.netbsd.org.  	CNAME	sup2.fr.netbsd.org.
+iso.fr.netbsd.org.  	CNAME	antioche.antioche.eu.org.
+www.fr.netbsd.org.  	CNAME	www2.fr.netbsd.org.
+www2.fr.netbsd.org. 	CNAME	antioche.antioche.eu.org.
+rsync.fr.netbsd.org.	CNAME	antioche.antioche.eu.org.
+sup2.fr.netbsd.org. 	CNAME	antioche.antioche.eu.org.
+ftp2.fr.netbsd.org. 	CNAME	antioche.antioche.eu.org.
+ftp.fr.netbsd.org.  	CNAME	ftp2.fr.netbsd.org.
+ftp.uk.netbsd.org.  	CNAME	ftp.plig.org.
+iso2.uk.netbsd.org. 	CNAME	ftp.plig.org.
+cvsup.uk.netbsd.org.	A	194.242.157.44
+iso.uk.netbsd.org.  	CNAME	netbsdiso.interoute.net.uk.
+www.uk.netbsd.org.  	CNAME	netbsdwww.interoute.net.uk.
+nbanoncvs-new.netbsd.org.	A	204.152.186.127
+iso2.tw.netbsd.org. 	CNAME	netbsd.csie.nctu.edu.tw.
+iso.tw.netbsd.org.  	CNAME	pluto.cdpa.nsysu.edu.tw.
+www.tw.netbsd.org.  	CNAME	netbsd.csie.nctu.edu.tw.
+www2.tw.netbsd.org. 	CNAME	netbsd.nsysu.edu.tw.
+cvsweb.tw.netbsd.org.	CNAME	netbsd.nsysu.edu.tw.
+rsync.tw.netbsd.org.	CNAME	pluto.cdpa.nsysu.edu.tw.
+ftp2.tw.netbsd.org. 	CNAME	netbsd.csie.nctu.edu.tw.
+ftp.tw.netbsd.org.  	CNAME	pluto.cdpa.nsysu.edu.tw.
+iso2.us.netbsd.org. 	CNAME	netbsd.pair.com.
+anoncvs.us.netbsd.org.	CNAME	anoncvs.netbsd.org.
+sup.us.netbsd.org.  	CNAME	ftp.netbsd.org.
+iso.us.netbsd.org.  	CNAME	iso.netbsd.org.
+www.us.netbsd.org.  	CNAME	www.netbsd.org.
+www3.us.netbsd.org. 	CNAME	netbsd.pair.com.
+rsync.us.netbsd.org.	CNAME	rsync.netbsd.org.
+ftp2.us.netbsd.org. 	CNAME	netbsd.pair.com.
+ftp.us.netbsd.org.  	CNAME	ftp.netbsd.org.
+ftp.gr.netbsd.org.  	CNAME	ftp.duth.gr.
+iso.gr.netbsd.org.  	CNAME	ftp.duth.gr.
+rsync.netbsd.org.   	A	204.152.184.75
+rsync.netbsd.org.   	AAAA	2001:4F8:4:B:2E0:81FF:FE21:6563
+yui.netbsd.org.     	AAAA	2001:638:A01:2:2B0:D0FF:FEEE:7066
+yui.netbsd.org.     	A	194.95.108.191
+smaug.netbsd.org.   	AAAA	2001:638:A01:2:A00:20FF:FE20:E254
+smaug.netbsd.org.   	A	194.95.108.11
+ftp.hu.netbsd.org.  	CNAME	ftp.fsn.hu.
+babylon5.netbsd.org.	CNAME	ftp.netbsd.org.
+minbar.netbsd.org.  	CNAME	cvs.netbsd.org.
+ftp4.netbsd.org.    	A	204.152.184.75
+ftp6.netbsd.org.    	AAAA	2001:4F8:4:B:2E0:81FF:FE21:6563
+jp.netbsd.org.      	A	210.231.220.250
+jp.netbsd.org.      	MX	10 mail.jp.netbsd.org.
+rsync2.jp.netbsd.org.	CNAME	spike.allbsd.org.
+anoncvs.jp.netbsd.org.	CNAME	lala.iri.co.jp.
+sup.jp.netbsd.org.  	CNAME	lala.iri.co.jp.
+cvsup.jp.netbsd.org.	CNAME	pigu.iri.co.jp.
+cvsweb2.jp.netbsd.org.	CNAME	snoopy.allbsd.org.
+iso.jp.netbsd.org.  	CNAME	lala.iri.co.jp.
+mail.jp.netbsd.org. 	A	210.231.220.250
+cvsup2.jp.netbsd.org.	CNAME	spike.allbsd.org.
+www.jp.netbsd.org.  	CNAME	pigu.iri.co.jp.
+cvsweb.jp.netbsd.org.	CNAME	pigu.iri.co.jp.
+rsync.jp.netbsd.org.	CNAME	lala.iri.co.jp.
+ftp2.jp.netbsd.org. 	CNAME	snoopy.allbsd.org.
+ftp.jp.netbsd.org.  	A	203.178.137.62
+ftp.jp.netbsd.org.  	AAAA	2001:200:0:1802:0:0:0:FF01
+www.netbsd.org.     	A	204.152.184.116
+www.netbsd.org.     	AAAA	2001:4F8:4:B:290:27FF:FEAB:19A7
+vorlon.netbsd.org.  	CNAME	nbanoncvs.isc.org.
+mail-index.netbsd.org.	CNAME	www.netbsd.org.
+cvsweb.netbsd.org.  	CNAME	pigu.iri.co.jp.
+zathras.netbsd.org. 	CNAME	zathras.daemon.org.
+tgm.netbsd.org.     	CNAME	tgm.daemon.org.
+kr.netbsd.org.      	A	211.240.48.47
+kr.netbsd.org.      	MX	10 mail.kr.netbsd.org.
+anoncvs.kr.netbsd.org.	CNAME	knug.youn.co.kr.
+iso.kr.netbsd.org.  	CNAME	ftp.xgate.co.kr.
+mail.kr.netbsd.org. 	A	211.240.48.47
+www.kr.netbsd.org.  	CNAME	knug.youn.co.kr.
+www2.kr.netbsd.org. 	CNAME	knug.youn.co.kr.
+ftp.kr.netbsd.org.  	CNAME	ftp.xgate.co.kr.
+ftp2.kr.netbsd.org. 	CNAME	knug.youn.co.kr.
+ftp.netbsd.org.     	A	204.152.184.75
+ftp.netbsd.org.     	AAAA	2001:4F8:4:B:2E0:81FF:FE21:6563
+rsync4.netbsd.org.  	A	204.152.184.75
+epsilon3.netbsd.org.	CNAME	sundry.netbsd.org.
+netbsd.org.         	SOA	ns.netbsd.org. hostmaster.netbsd.org. (
+			2003052600	;serial (version)
+			21600	;refresh period (6 hours)
+			3600	;retry interval (1 hour)
+			2419200	;expire time (4 weeks)
+			3600	;default ttl (1 hour)
+			)

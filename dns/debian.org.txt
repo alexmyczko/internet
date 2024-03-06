@@ -1,0 +1,243 @@
+debian.org.         	SOA	raff.debian.org. hostmaster.debian.org. (
+			2003060300	;serial (version)
+			10800	;refresh period (3 hours)
+			3600	;retry interval (1 hour)
+			604800	;expire time (1 week)
+			10800	;default ttl (3 hours)
+			)
+debian.org.         	NS	ns.hands.com.
+debian.org.         	NS	ns1.waw.com.
+debian.org.         	NS	ns2.cistron.nl.
+debian.org.         	NS	raff.debian.org.
+debian.org.         	NS	auric.debian.org.
+debian.org.         	NS	saens.debian.org.
+debian.org.         	NS	murphy.debian.org.
+debian.org.         	NS	samosa.debian.org.
+debian.org.         	A	192.25.206.10
+debian.org.         	MX	0 master.debian.org.
+debian.org.         	MX	5 gluck.debian.org.
+debian.org.         	MX	10 murphy.debian.org.
+alioth.debian.org.  	NS	quantz.debian.org.
+archive.debian.org. 	A	208.185.25.38
+archive.debian.org. 	MX	10 gluck.debian.org.
+arm.debian.org.     	CNAME	debussy.debian.org.
+at.debian.org.      	NS	babylon.atnet.at.
+at.debian.org.      	NS	atlantis.atnet.at.
+ftp.au.debian.org.  	CNAME	ftp.planetmirror.com.
+ftp.wa.au.debian.org.	A	203.8.116.111
+www.au.debian.org.  	A	203.8.116.111
+auric.debian.org.   	A	206.246.226.45
+auric.debian.org.   	MX	0 auric.debian.org.
+auric.debian.org.   	MX	5 gluck.debian.org.
+ftp.bg.debian.org.  	CNAME	debian.spnet.net.
+www.bg.debian.org.  	CNAME	debian.spnet.net.
+ftp.br.debian.org.  	A	200.17.212.129
+www.br.debian.org.  	CNAME	www.debian.org.br.
+bugs.debian.org.    	A	146.82.138.7
+bugs.debian.org.    	MX	0 master.debian.org.
+bugs.debian.org.    	MX	5 gluck.debian.org.
+bugs.debian.org.    	MX	10 murphy.debian.org.
+buildd.debian.org.  	A	206.246.226.45
+buildd.debian.org.  	MX	10 auric.debian.org.
+ftp.ca.debian.org.  	CNAME	ftp.debian.org.
+caballero.debian.org.	A	212.240.194.174
+casals.debian.org.  	A	18.24.10.101
+casals.debian.org.  	HINFO	"SGI Indigo2"	"Debian GNU/Linux"
+cdimage.debian.org. 	CNAME	debian.hands.com.
+non-us.cdimage.debian.org.	CNAME	debian.hands.com.
+us.cdimage.debian.org.	CNAME	raff.debian.org.
+cgi.debian.org.     	A	146.82.138.7
+cgi.debian.org.     	MX	10 gluck.debian.org.
+ftp.cl.debian.org.  	CNAME	debian.ciencias.uchile.cl.
+www.cn.debian.org.  	A	61.152.210.194
+crest.debian.org.   	A	134.99.176.62
+cvs.debian.org.     	A	192.25.206.10
+cvs.debian.org.     	MX	10 gluck.debian.org.
+ftp.cz.debian.org.  	CNAME	www.debian.cz.
+db.debian.org.      	A	209.249.97.234
+db.debian.org.      	MX	10 samosa.debian.org.
+db.debian.org.      	MX	15 auric.debian.org.
+ddtp.debian.org.    	A	192.25.206.10
+ddtp.debian.org.    	MX	0 gluck.debian.org.
+ddtp.debian.org.    	MX	10 master.debian.org.
+ftp.de.debian.org.  	A	141.76.2.4
+ftp1.de.debian.org. 	A	141.76.2.4
+ftp2.de.debian.org. 	A	195.71.9.196
+upload.de.debian.org.	A	131.188.3.71
+www.de.debian.org.  	A	141.76.2.5
+debbugs.debian.org. 	A	65.125.64.135
+debbugs.debian.org. 	MX	10 master.debian.org.
+debussy.debian.org. 	A	62.116.32.98
+ftp.dk.debian.org.  	A	194.192.187.79
+www.dk.debian.org.  	A	194.192.187.79
+dsd.debian.org.     	A	194.109.137.219
+dsd.debian.org.     	MX	10 klecker.debian.org.
+ftp.ee.debian.org.  	A	195.222.16.153
+elara.debian.org.   	A	209.202.115.19
+ftp.es.debian.org.  	A	150.244.30.38
+www.es.debian.org.  	CNAME	pusa.informat.uv.es.
+escher.debian.org.  	A	129.206.69.124
+escher.debian.org.  	MX	0 escher.debian.org.
+escher.debian.org.  	MX	10 auric.debian.org.
+syncproxy.eu.debian.org.	CNAME	ftp.hr.debian.org.
+europa.debian.org.  	A	209.202.115.25
+faure.debian.org.   	A	146.82.138.58
+ftp.fi.debian.org.  	A	130.230.54.99
+ftp.fr.debian.org.  	A	212.27.32.66
+ftp2.fr.debian.org. 	CNAME	ftp.oleane.net.
+www.fr.debian.org.  	A	213.41.121.145
+ftp.debian.org.     	A	128.101.80.131
+ftp.debian.org.     	A	208.185.25.38
+ftp.debian.org.     	MX	10 gluck.debian.org.
+ftp-master.debian.org.	A	206.246.226.45
+ftp-master.debian.org.	MX	10 auric.debian.org.
+gluck.debian.org.   	A	192.25.206.10
+ftp.hk.debian.org.  	CNAME	ftp.debian.org.hk.
+www.hk.debian.org.  	CNAME	www.debian.org.hk.
+ftp.hr.debian.org.  	A	161.53.160.11
+ftp.hr.debian.org.  	AAAA	3FFE:200:58:110:0:0:0:2
+ftp.hu.debian.org.  	CNAME	ftp.fsn.hu.
+www.id.debian.org.  	CNAME	kambing.vLSM.org.
+ftp.ie.debian.org.  	A	193.1.219.85
+ftp.ie.debian.org.  	AAAA	2001:770:18:2:0:0:1:1
+incoming.debian.org.	A	206.246.226.45
+incoming.debian.org.	MX	10 gluck.debian.org.
+ipv6.debian.org.    	NS	raff.debian.org.
+ipv6.debian.org.    	NS	saens.debian.org.
+irc.debian.org.     	CNAME	irc.freenode.net.
+ftp.is.debian.org.  	CNAME	draupnir.rhnet.is.
+ftp.it.debian.org.  	CNAME	ftp.bofh.it.
+ftp2.it.debian.org. 	CNAME	giano.cnaf.infn.it.
+www.it.debian.org.  	CNAME	baol.linux.it.
+ftp.jp.debian.org.  	A	210.157.158.33
+www.jp.debian.org.  	A	210.157.158.35
+keyring.debian.org. 	A	206.246.226.45
+keyring.debian.org. 	MX	10 gluck.debian.org.
+klecker.debian.org. 	A	194.109.137.218
+klecker.debian.org. 	MX	0 klecker.debian.org.
+klecker.debian.org. 	MX	10 master.debian.org.
+kubrick.debian.org. 	A	146.82.138.59
+kullervo.debian.org.	A	134.99.176.32
+kullervo.debian.org.	MX	50 kullervo.debian.org.
+lintian.debian.org. 	A	192.25.206.10
+lintian.debian.org. 	MX	10 gluck.debian.org.
+lists.debian.org.   	A	146.82.138.7
+lists.debian.org.   	MX	0 murphy.debian.org.
+lists.debian.org.   	MX	5 master.debian.org.
+lists.debian.org.   	MX	10 gluck.debian.org.
+lully.debian.org.   	A	146.82.138.60
+m68k.debian.org.    	A	134.99.176.32
+m68k.debian.org.    	MX	50 kullervo.debian.org.
+master.debian.org.  	A	146.82.138.7
+master.debian.org.  	MX	0 master.debian.org.
+master.debian.org.  	MX	5 gluck.debian.org.
+master.debian.org.  	MX	10 murphy.debian.org.
+merkel.debian.org.  	A	192.25.206.16
+merulo.debian.org.  	A	192.25.206.12
+mirror.debian.org.  	A	194.109.137.218
+mirror.debian.org.  	MX	10 klecker.debian.org.
+murphy.debian.org.  	A	146.82.138.6
+murphy.debian.org.  	MX	0 murphy.debian.org.
+murphy.debian.org.  	MX	5 gluck.debian.org.
+murphy.debian.org.  	MX	10 master.debian.org.
+netwinder.debian.org.	CNAME	debussy.debian.org.
+nl.debian.org.      	NS	ns.cistron.nl.
+nl.debian.org.      	NS	ns2.cistron.nl.
+nm.debian.org.      	A	194.109.137.218
+nm.debian.org.      	MX	10 klecker.debian.org.
+ftp.no.debian.org.  	CNAME	spheniscus.uninett.no.
+non-us.debian.org.  	A	194.109.137.218
+non-us.debian.org.  	MX	10 klecker.debian.org.
+nonus.debian.org.   	A	194.109.137.218
+nonus.debian.org.   	MX	10 klecker.debian.org.
+ntp.debian.org.     	A	192.25.206.10
+ftp.nz.debian.org.  	CNAME	ftp.citylink.co.nz.
+other.debian.org.   	A	146.82.138.6
+other.debian.org.   	MX	0 murphy.debian.org.
+other.debian.org.   	MX	5 master.debian.org.
+other.debian.org.   	MX	10 gluck.debian.org.
+packages.debian.org.	A	192.25.206.10
+packages.debian.org.	MX	0 master.debian.org.
+packages.debian.org.	MX	5 gluck.debian.org.
+packages.debian.org.	MX	10 murphy.debian.org.
+paer.debian.org.    	A	192.25.206.11
+people.debian.org.  	A	192.25.206.10
+people.debian.org.  	MX	10 gluck.debian.org.
+peri.debian.org.    	A	192.25.206.15
+ftp.pl.debian.org.  	CNAME	ftp.task.gda.pl.
+www.pl.debian.org.  	CNAME	www.debian.org.
+ports.debian.org.   	A	192.25.206.10
+ports.debian.org.   	MX	10 gluck.debian.org.
+qa.debian.org.      	A	194.109.137.218
+qa.debian.org.      	MX	10 klecker.debian.org.
+bugs.qa.debian.org. 	A	146.82.138.7
+bugs.qa.debian.org. 	MX	0 master.debian.org.
+bugs.qa.debian.org. 	MX	10 gluck.debian.org.
+packages.qa.debian.org.	A	146.82.138.7
+packages.qa.debian.org.	MX	0 master.debian.org.
+packages.qa.debian.org.	MX	10 gluck.debian.org.
+quantz.debian.org.  	A	192.87.30.200
+raff.debian.org.    	A	208.185.25.38
+rameau.debian.org.  	A	212.240.194.170
+raptor.debian.org.  	A	195.27.177.162
+ftp.ru.debian.org.  	CNAME	ftp.chg.ru.
+www.ru.debian.org.  	A	213.171.53.130
+saens.debian.org.   	A	128.101.80.131
+samosa.debian.org.  	A	209.249.97.234
+samosa-replacement.debian.org.	A	208.185.25.38
+sarti.debian.org.   	A	212.240.194.173
+ftp.se.debian.org.  	CNAME	ftp.acc.umu.se.
+search.debian.org.  	A	194.109.137.218
+search.debian.org.  	MX	10 gluck.debian.org.
+security.debian.org.	A	194.109.137.218
+security.debian.org.	MX	10 klecker.debian.org.
+ftp.si.debian.org.  	A	164.8.6.249
+ftp.sk.debian.org.  	CNAME	ccfrog.ke.sanet.sk.
+sparc.debian.org.   	A	206.246.226.48
+svn.debian.org.     	A	192.87.30.201
+svn.debian.org.     	MX	10 quantz.debian.org.
+tippett.debian.org. 	A	195.92.249.0
+ftp.tr.debian.org.  	CNAME	debian.ankara.edu.tr.
+trex.debian.org.    	A	32.97.40.152
+ftp.uk.debian.org.  	CNAME	ukdebian.mirror.anlx.net.
+upload.uk.debian.org.	CNAME	debian.hands.com.
+www.uk.debian.org.  	CNAME	ukdebian.mirror.anlx.net.
+ftp.us.debian.org.  	A	35.9.37.225
+ftp.us.debian.org.  	A	128.101.80.131
+ftp.us.debian.org.  	A	192.25.206.16
+ftp.us.debian.org.  	A	204.152.189.120
+ftp.us.debian.org.  	A	208.185.25.38
+ftp.us.debian.org.  	A	216.37.55.114
+ftp1.us.debian.org. 	CNAME	http.us.debian.org.
+http.us.debian.org. 	A	35.9.37.225
+http.us.debian.org. 	A	128.101.80.131
+http.us.debian.org. 	A	192.25.206.16
+http.us.debian.org. 	A	204.152.189.120
+http.us.debian.org. 	A	208.185.25.38
+http.us.debian.org. 	A	216.37.55.114
+ftp.mi.us.debian.org.	CNAME	debian.egr.msu.edu.
+www.us.debian.org.  	CNAME	gluck.debian.org.
+vaughan.debian.org. 	A	18.24.10.102
+vaughan.debian.org. 	HINFO	"Cobalt RaQ2"	"Debian GNU/Linux"
+voltaire.debian.org.	A	66.93.172.18
+voltaire.debian.org.	HINFO	"PowerPC"	"Debian GNU/Linux"
+vore.debian.org.    	A	206.246.226.48
+vote.debian.org.    	A	146.82.138.7
+vote.debian.org.    	MX	0 master.debian.org.
+vote.debian.org.    	MX	5 gluck.debian.org.
+vote.debian.org.    	MX	10 murphy.debian.org.
+williams.debian.org.	A	18.24.10.103
+williams.debian.org.	HINFO	"Cobalt RaQ2"	"Debian GNU/Linux"
+www.debian.org.     	A	192.25.206.10
+www.debian.org.     	MX	10 gluck.debian.org.
+www-master.debian.org.	A	194.109.137.218
+www-master.debian.org.	MX	10 klecker.debian.org.
+www-mirror.debian.org.	CNAME	www-master.debian.org.
+www.za.debian.org.  	CNAME	www.leg.uct.ac.za.
+debian.org.         	SOA	raff.debian.org. hostmaster.debian.org. (
+			2003060300	;serial (version)
+			10800	;refresh period (3 hours)
+			3600	;retry interval (1 hour)
+			604800	;expire time (1 week)
+			10800	;default ttl (3 hours)
+			)

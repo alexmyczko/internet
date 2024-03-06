@@ -1,0 +1,1626 @@
+nokia.com.          	SOA	ns.nokia.com. hostmaster.nokia.com. (
+			34206	;serial (version)
+			7200	;refresh period (2 hours)
+			3600	;retry interval (1 hour)
+			1209600	;expire time (2 weeks)
+			86400	;default ttl (1 day)
+			)
+nokia.com.          	A	147.243.3.73
+nokia.com.          	MX	0 mgw-x1.nokia.com.
+nokia.com.          	MX	0 mgw-x2.nokia.com.
+nokia.com.          	MX	0 mgw-x3.nokia.com.
+nokia.com.          	MX	0 mgw-x4.nokia.com.
+nokia.com.          	NS	ns.nokia.com.
+nokia.com.          	NS	ns2.nokia.com.
+nokia.com.          	NS	nsda.ext.nokia.com.
+nokia.com.          	NS	nshk.ext.nokia.com.
+*.nokia.com.        	MX	0 mgw-x1.nokia.com.
+*.nokia.com.        	MX	0 mgw-x2.nokia.com.
+*.nokia.com.        	MX	0 mgw-x3.nokia.com.
+*.nokia.com.        	MX	0 mgw-x4.nokia.com.
+acce.nokia.com.     	A	192.100.124.221
+www.admin-brokers.nokia.com.	A	207.87.14.211
+*.americas.nokia.com.	MX	0 mgw-x1.nokia.com.
+*.americas.nokia.com.	MX	0 mgw-x2.nokia.com.
+*.americas.nokia.com.	MX	0 mgw-x3.nokia.com.
+*.americas.nokia.com.	MX	0 mgw-x4.nokia.com.
+barney.americas.nokia.com.	A	206.19.95.196
+barney.americas.nokia.com.	MX	0 mgw.nokia.com.
+bart.americas.nokia.com.	A	206.19.95.195
+bart.americas.nokia.com.	MX	0 mgw.nokia.com.
+crusty.americas.nokia.com.	CNAME	sdwwwext.americas.nokia.com.
+daia01nok.americas.nokia.com.	A	63.78.179.210
+daia01nok-1.americas.nokia.com.	A	63.78.179.219
+daia01nok-2.americas.nokia.com.	A	63.78.179.220
+damsc03ntc.americas.nokia.com.	A	131.228.100.169
+e1.americas.nokia.com.	A	63.196.136.101
+homer.americas.nokia.com.	A	134.24.38.210
+homer.americas.nokia.com.	MX	0 mgw.nokia.com.
+marge.americas.nokia.com.	A	63.196.136.70
+marge.americas.nokia.com.	MX	0 mgw.nokia.com.
+sdgrp1.americas.nokia.com.	A	63.196.136.200
+sdgrp4.americas.nokia.com.	A	63.196.136.201
+sdwwwext.americas.nokia.com.	A	63.196.136.100
+sdwwwext.americas.nokia.com.	MX	0 mgw.nokia.com.
+xdadoc001.americas.nokia.com.	A	147.243.150.60
+*.apac.nokia.com.   	MX	0 mgw-x1.nokia.com.
+*.apac.nokia.com.   	MX	0 mgw-x2.nokia.com.
+*.apac.nokia.com.   	MX	0 mgw-x3.nokia.com.
+*.apac.nokia.com.   	MX	0 mgw-x4.nokia.com.
+minna.wgc.apac.nokia.com.	A	192.100.103.89
+apacotc.nokia.com.  	A	203.35.64.207
+www.apacotc.nokia.com.	A	203.35.64.207
+www.apactst1.nokia.com.	A	192.100.121.44
+attwap.nokia.com.   	A	66.77.83.18
+bolns02m.nokia.com. 	A	131.228.100.167
+broadcast-esstx01.nokia.com.	A	192.100.121.29
+www.brokers.nokia.com.	A	207.87.14.73
+bulns02t.nokia.com. 	A	131.228.100.166
+caext11.nokia.com.  	CNAME	caext11.ext.nokia.com.
+careers.nokia.com.  	A	192.100.121.59
+www.careers.nokia.com.	A	192.100.121.59
+carepoint.nokia.com.	A	194.100.179.103
+www.carepoint.nokia.com.	A	194.100.179.103
+bedbs01nok.china.nokia.com.	A	172.28.30.130
+bedbs02nok.china.nokia.com.	A	172.28.30.128
+cips.nokia.com.     	NS	ns1.cips.nokia.com.
+cips.nokia.com.     	NS	ns2.cips.nokia.com.
+ns1.cips.nokia.com. 	A	216.47.113.10
+ns2.cips.nokia.com. 	A	216.47.113.43
+club.nokia.com.     	A	213.138.149.14
+data.club.nokia.com.	A	213.138.149.117
+demo.club.nokia.com.	A	193.64.92.54
+image.club.nokia.com.	A	213.138.149.110
+nds1.image.club.nokia.com.	CNAME	nds1.image.club.nokia.com.c.footprint.net.
+img.club.nokia.com. 	A	213.138.149.68
+mobile.club.nokia.com.	A	213.138.149.55
+mobileam.club.nokia.com.	A	213.138.149.59
+mobileap.club.nokia.com.	A	213.138.149.58
+my.club.nokia.com.  	A	213.138.149.54
+nds.club.nokia.com. 	CNAME	nds.club.nokia.com.c.footprint.net.
+cnzh.beta.photozone.club.nokia.com.	A	216.31.193.84
+en.beta.photozone.club.nokia.com.	A	216.31.193.84
+gben.beta.photozone.club.nokia.com.	A	216.31.193.84
+hken.beta.photozone.club.nokia.com.	A	216.31.193.84
+hkzh.beta.photozone.club.nokia.com.	A	216.31.193.84
+hu.beta.photozone.club.nokia.com.	A	216.31.193.84
+huhu.beta.photozone.club.nokia.com.	A	216.31.193.84
+zh.beta.photozone.club.nokia.com.	A	216.31.193.84
+cs.photozone.club.nokia.com.	A	216.31.207.47
+home1.cs.photozone.club.nokia.com.	A	216.31.207.40
+home2.cs.photozone.club.nokia.com.	A	216.31.207.56
+da.photozone.club.nokia.com.	A	216.239.208.247
+home1.da.photozone.club.nokia.com.	A	216.239.208.253
+home2.da.photozone.club.nokia.com.	A	216.239.208.242
+de.photozone.club.nokia.com.	A	216.239.208.236
+home1.de.photozone.club.nokia.com.	A	216.239.208.225
+home2.de.photozone.club.nokia.com.	A	216.239.208.229
+el.photozone.club.nokia.com.	A	216.31.207.53
+home1.el.photozone.club.nokia.com.	A	216.31.207.46
+home2.el.photozone.club.nokia.com.	A	216.31.207.62
+en.photozone.club.nokia.com.	A	216.239.208.235
+home1.en.photozone.club.nokia.com.	A	216.239.208.224
+home2.en.photozone.club.nokia.com.	A	216.239.208.226
+es.photozone.club.nokia.com.	A	216.239.208.251
+home1.es.photozone.club.nokia.com.	A	216.239.208.234
+home2.es.photozone.club.nokia.com.	A	216.239.208.244
+fi.photozone.club.nokia.com.	A	216.239.208.237
+home1.fi.photozone.club.nokia.com.	A	216.239.208.217
+home2.fi.photozone.club.nokia.com.	A	216.239.208.218
+fr.photozone.club.nokia.com.	A	216.239.208.239
+home1.fr.photozone.club.nokia.com.	A	216.239.208.219
+home2.fr.photozone.club.nokia.com.	A	216.239.208.220
+hk.photozone.club.nokia.com.	A	216.31.207.40
+hu.photozone.club.nokia.com.	A	216.31.207.48
+home1.hu.photozone.club.nokia.com.	A	216.31.207.41
+home2.hu.photozone.club.nokia.com.	A	216.31.207.57
+id.photozone.club.nokia.com.	A	216.31.207.61
+ipro1.photozone.club.nokia.com.	A	216.239.208.215
+ipro2.photozone.club.nokia.com.	A	216.239.208.216
+it.photozone.club.nokia.com.	A	216.239.208.240
+home1.it.photozone.club.nokia.com.	A	216.239.208.231
+home2.it.photozone.club.nokia.com.	A	216.239.208.233
+nl.photozone.club.nokia.com.	A	216.239.208.248
+home1.nl.photozone.club.nokia.com.	A	216.239.208.254
+home2.nl.photozone.club.nokia.com.	A	216.239.208.243
+no.photozone.club.nokia.com.	A	216.239.208.213
+home1.no.photozone.club.nokia.com.	A	216.239.208.252
+home2.no.photozone.club.nokia.com.	A	216.239.208.241
+pl.photozone.club.nokia.com.	A	216.31.207.50
+home1.pl.photozone.club.nokia.com.	A	216.31.207.42
+home2.pl.photozone.club.nokia.com.	A	216.31.207.58
+pt.photozone.club.nokia.com.	A	216.31.207.49
+home1.pt.photozone.club.nokia.com.	A	216.31.207.43
+home2.pt.photozone.club.nokia.com.	A	216.31.207.59
+sk.photozone.club.nokia.com.	A	216.31.207.51
+home1.sk.photozone.club.nokia.com.	A	216.31.207.44
+home2.sk.photozone.club.nokia.com.	A	216.31.207.60
+sv.photozone.club.nokia.com.	A	216.239.208.238
+home1.sv.photozone.club.nokia.com.	A	216.239.208.230
+home2.sv.photozone.club.nokia.com.	A	216.239.208.232
+th.photozone.club.nokia.com.	A	216.31.207.58
+tr.photozone.club.nokia.com.	A	216.31.207.52
+home1.tr.photozone.club.nokia.com.	A	216.31.207.45
+home2.tr.photozone.club.nokia.com.	A	216.31.207.61
+tw.photozone.club.nokia.com.	A	216.31.207.56
+zh.photozone.club.nokia.com.	A	216.31.207.57
+zt.photozone.club.nokia.com.	A	216.239.208.235
+home1.zt.photozone.club.nokia.com.	A	216.239.208.224
+home2.zt.photozone.club.nokia.com.	A	216.239.208.226
+www.qatre.club.nokia.com.	A	195.134.231.25
+www.sync.club.nokia.com.	A	195.134.231.24
+unsubscribe.club.nokia.com.	A	195.22.72.21
+www.club.nokia.com. 	A	213.138.149.14
+cndoc1.nokia.com.   	A	213.138.147.150
+cndoc1.nokia.com.   	A	213.138.147.151
+cndoc1.nokia.com.   	MX	1 cnmail1.edelkey.net.
+cndoc1.nokia.com.   	MX	1 cnmail2.edelkey.net.
+community-esstx01.nokia.com.	A	192.100.121.27
+competence-evaluation.nokia.com.	CNAME	www.digitussurveys.com.
+www.copla.nokia.com.	A	192.100.102.11
+www.coplaint.nokia.com.	A	192.100.102.45
+coplapro.nokia.com. 	A	147.243.3.140
+www.coplapro.nokia.com.	A	147.243.3.140
+corporates.nokia.com.	A	195.212.37.111
+www.corporates.nokia.com.	A	195.212.37.111
+www.ctc.nokia.com.  	A	213.180.20.135
+daeappgw05-alt.nokia.com.	A	147.243.130.16
+daeappgw06.nokia.com.	A	147.243.2.37
+daeappgwq05.nokia.com.	A	147.243.130.17
+daeappgwq05-alt.nokia.com.	A	147.243.130.18
+dawwwgw01x.nokia.com.	A	208.242.36.101
+dawwwgw01x.nokia.com.	MX	0 mgw.nokia.com.
+www.democopla.nokia.com.	A	192.100.102.13
+developer.nokia.com.	CNAME	forum.nokia.com.
+developernetpoint.nokia.com.	A	62.61.88.149
+www.developernetpoint.nokia.com.	A	62.61.88.149
+developers.nokia.com.	CNAME	forum.nokia.com.
+dnstest.nokia.com.  	A	192.168.255.16
+dsbe00.nokia.com.   	A	192.100.104.53
+dsbe01.nokia.com.   	CNAME	mvdsws01.iprg.nokia.com.
+devwww.dsl.nokia.com.	A	205.226.5.77
+elearning.nokia.com.	A	192.100.102.33
+www.endusersupport.nokia.com.	A	194.100.179.120
+es-partvpngw01.nokia.com.	A	192.100.124.67
+esacce01.nokia.com. 	A	192.100.124.195
+esacce02.nokia.com. 	A	192.100.124.194
+esagw00.nokia.com.  	A	131.228.20.23
+esagw00.nokia.com.  	A	131.228.20.24
+esagw00.nokia.com.  	A	131.228.20.33
+escce01.nokia.com.  	A	192.100.102.145
+esext01nok.nokia.com.	A	192.100.102.60
+esext02.nokia.com.  	A	194.41.17.12
+esext07.nokia.com.  	A	194.41.17.11
+esext10nok.nokia.com.	A	192.100.102.82
+esext11nok.nokia.com.	A	192.100.102.83
+eshostel01.nokia.com.	A	194.41.17.11
+eshostel01.nokia.com.	A	194.41.17.12
+eslne01m.nokia.com. 	A	131.228.20.240
+eslns01m.nokia.com. 	A	131.228.20.50
+esloc03nok.nokia.com.	A	131.228.100.117
+esnat01x.nokia.com. 	A	192.100.124.27
+esnh12319.nokia.com.	A	192.100.123.19
+esnh12320.nokia.com.	A	192.100.123.20
+esnh12321.nokia.com.	A	192.100.123.21
+esnh12322.nokia.com.	A	192.100.123.22
+esnh12323.nokia.com.	A	192.100.123.23
+esnh12324.nokia.com.	A	192.100.123.24
+esnh12325.nokia.com.	A	192.100.123.25
+esnh12326.nokia.com.	A	192.100.123.26
+esnh12327.nokia.com.	A	192.100.123.27
+esnh12328.nokia.com.	A	192.100.123.28
+esnh12329.nokia.com.	A	192.100.123.29
+esnh12330.nokia.com.	A	192.100.123.30
+esprx01x.nokia.com. 	A	192.100.124.218
+esprx02x.nokia.com. 	A	192.100.124.219
+esprx03x.nokia.com. 	A	192.100.124.202
+esprx04x.nokia.com. 	A	192.100.124.220
+esprx08x.nokia.com. 	A	192.100.124.200
+esprx09x.nokia.com. 	A	192.100.124.201
+esprx145x.nokia.com.	A	192.100.124.197
+esqafh04nok.nokia.com.	A	192.100.102.128
+esqps02x.nokia.com. 	A	192.100.121.24
+esstx01.nokia.com.  	A	192.100.121.26
+*.europe.nokia.com. 	MX	0 mgw-x1.nokia.com.
+*.europe.nokia.com. 	MX	0 mgw-x2.nokia.com.
+*.europe.nokia.com. 	MX	0 mgw-x3.nokia.com.
+*.europe.nokia.com. 	MX	0 mgw-x4.nokia.com.
+bulns02t.europe.nokia.com.	A	131.228.100.166
+busrv06nok.europe.nokia.com.	A	131.228.100.197
+ncsmsg32tr.europe.nokia.com.	A	131.228.100.191
+olympos.europe.nokia.com.	A	131.228.100.198
+saempgwp01.europe.nokia.com.	A	147.243.1.20
+saempgwp02.europe.nokia.com.	A	147.243.1.21
+tofw01.europe.nokia.com.	A	210.81.72.130
+new.euroshop.nokia.com.	A	131.228.7.54
+www.euroshop.nokia.com.	A	131.228.7.54
+events.nokia.com.   	A	131.228.7.40
+events.nokia.com.   	MX	0 mgw.nokia.com.
+www.events.nokia.com.	A	131.228.7.40
+www.events.nokia.com.	MX	0 mgw.nokia.com.
+exchange.nokia.com. 	MX	10 esebh01nok.ntc.nokia.com.
+exchange.nokia.com. 	MX	10 esebh02nok.ntc.nokia.com.
+exchange.nokia.com. 	MX	10 esebh03nok.ntc.nokia.com.
+exchange.nokia.com. 	MX	20 mgw.nokia.com.
+ext.nokia.com.      	NS	ns.nokia.com.
+ext.nokia.com.      	NS	ns2.nokia.com.
+ext.nokia.com.      	NS	nsda.ext.nokia.com.
+ext.nokia.com.      	NS	nshk.ext.nokia.com.
+nsda.ext.nokia.com. 	A	63.78.179.195
+nshk.ext.nokia.com. 	A	210.176.199.195
+forum.nokia.com.    	NS	ns.nokia.com.
+forum.nokia.com.    	NS	ns2.nokia.com.
+forum.nokia.com.    	NS	nsda.ext.nokia.com.
+forum.nokia.com.    	NS	nshk.ext.nokia.com.
+forum-cms.nokia.com.	A	131.228.7.14
+forum-cms.nokia.com.	MX	0 mgw.nokia.com.
+forum-dev.nokia.com.	A	131.228.7.89
+nds1.forumqa.nokia.com.	CNAME	nds1.forumqa.nokia.com.c.footprint.net.
+nds1.forumtest.nokia.com.	CNAME	nds1.forumtest.nokia.com.c.footprint.net.
+ftp.nokia.com.      	A	131.228.7.12
+ftp.nokia.com.      	MX	0 mgw.nokia.com.
+ftp-nrc.nokia.com.  	CNAME	www-nrc.nokia.com.
+ftpgw.nokia.com.    	CNAME	hpx01it.ntc.nokia.com.
+home.nokia.com.     	A	213.179.3.35
+apps.home.nokia.com.	A	213.179.3.20
+chat.home.nokia.com.	A	213.179.3.51
+db.home.nokia.com.  	A	213.179.3.19
+install.home.nokia.com.	A	213.179.3.52
+nhc.home.nokia.com. 	A	213.179.3.51
+v5.home.nokia.com.  	A	213.179.3.35
+www.home.nokia.com. 	A	213.179.3.35
+hulns02t.nokia.com. 	A	131.228.100.168
+www.iap.nokia.com.  	CNAME	ulmo.nomad.cellulardata.com.
+imap.nokia.com.     	A	172.21.138.107
+imap.nokia.com.     	A	172.21.138.109
+www.industryanalyst.nokia.com.	A	62.176.62.31
+integrationsupplier.nokia.com.	A	147.243.8.142
+cdn.integrationsupplier.nokia.com.	CNAME	www.integrationsupplier.nokia.com.
+www.integrationsupplier.nokia.com.	A	147.243.8.142
+iprg.nokia.com.     	NS	ns.iprg.nokia.com.
+iprg.nokia.com.     	NS	ns.nokia.com.
+iprg.nokia.com.     	NS	ns2.nokia.com.
+iprg.nokia.com.     	NS	dnsauth1.sys.gtei.net.
+iprg.nokia.com.     	NS	dnsauth2.sys.gtei.net.
+iprg.nokia.com.     	NS	dnsauth3.sys.gtei.net.
+ns.iprg.nokia.com.  	A	205.226.0.200
+nds2.ir.nokia.com.  	CNAME	nds2.ir.nokia.speedera.net.
+www.isp.nokia.com.  	CNAME	dev.forum.nokia.com.
+labtest1.nokia.com. 	A	192.100.104.108
+labtest2.nokia.com. 	A	192.100.104.109
+labtest3.nokia.com. 	A	192.100.104.110
+licensing.nokia.com.	A	192.100.104.115
+lists.nokia.com.    	MX	5 nokia.sparklist.com.
+localhost.nokia.com.	CNAME	loopback.nokia.com.
+loopback.nokia.com. 	A	127.0.0.1
+me.nokia.com.       	CNAME	loopback.nokia.com.
+portal.medianet.nokia.com.	A	195.238.217.35
+www.medianet.nokia.com.	A	195.238.217.35
+meeting-esstx01.nokia.com.	A	192.100.121.28
+mgw.nokia.com.      	A	131.228.20.21
+mgw.nokia.com.      	A	131.228.20.22
+mgw.nokia.com.      	A	131.228.20.26
+mgw.nokia.com.      	A	131.228.20.27
+mgw.nokia.com.      	MX	0 mgw-x1.nokia.com.
+mgw.nokia.com.      	MX	0 mgw-x2.nokia.com.
+mgw.nokia.com.      	MX	0 mgw-x3.nokia.com.
+mgw.nokia.com.      	MX	0 mgw-x4.nokia.com.
+mgw-x.nokia.com.    	A	131.228.20.21
+mgw-x.nokia.com.    	A	131.228.20.22
+mgw-x.nokia.com.    	A	131.228.20.26
+mgw-x.nokia.com.    	A	131.228.20.27
+mgw-x.nokia.com.    	MX	10 mgw-x1.nokia.com.
+mgw-x.nokia.com.    	MX	10 mgw-x2.nokia.com.
+mgw-x.nokia.com.    	MX	10 mgw-x3.nokia.com.
+mgw-x.nokia.com.    	MX	10 mgw-x4.nokia.com.
+mgw-x.nokia.com.    	MX	20 mgw-x1.nokia.com.
+mgw-x.nokia.com.    	MX	20 mgw-x2.nokia.com.
+mgw-x.nokia.com.    	MX	20 mgw-x3.nokia.com.
+mgw-x.nokia.com.    	MX	20 mgw-x4.nokia.com.
+mgw-x1.nokia.com.   	A	131.228.20.21
+mgw-x1.nokia.com.   	MX	0 mgw-x1.nokia.com.
+mgw-x1.nokia.com.   	MX	10 mgw-x2.nokia.com.
+mgw-x1.nokia.com.   	MX	10 mgw-x3.nokia.com.
+mgw-x1.nokia.com.   	MX	10 mgw-x4.nokia.com.
+mgw-x2.nokia.com.   	A	131.228.20.22
+mgw-x2.nokia.com.   	MX	0 mgw-x2.nokia.com.
+mgw-x2.nokia.com.   	MX	10 mgw-x1.nokia.com.
+mgw-x2.nokia.com.   	MX	10 mgw-x3.nokia.com.
+mgw-x2.nokia.com.   	MX	10 mgw-x4.nokia.com.
+mgw-x3.nokia.com.   	A	131.228.20.26
+mgw-x3.nokia.com.   	MX	0 mgw-x3.nokia.com.
+mgw-x3.nokia.com.   	MX	10 mgw-x1.nokia.com.
+mgw-x3.nokia.com.   	MX	10 mgw-x2.nokia.com.
+mgw-x3.nokia.com.   	MX	10 mgw-x4.nokia.com.
+mgw-x4.nokia.com.   	A	131.228.20.27
+mgw-x4.nokia.com.   	MX	0 mgw-x4.nokia.com.
+mgw-x4.nokia.com.   	MX	10 mgw-x1.nokia.com.
+mgw-x4.nokia.com.   	MX	10 mgw-x2.nokia.com.
+mgw-x4.nokia.com.   	MX	10 mgw-x3.nokia.com.
+mialserver.nokia.com.	A	131.228.100.86
+mlab.nokia.com.     	NS	mambo.mlab.nokia.com.
+mlab.nokia.com.     	NS	milius.mlab.nokia.com.
+mambo.mlab.nokia.com.	A	64.215.217.162
+milius.mlab.nokia.com.	A	203.35.64.99
+www.mobilecity.nokia.com.	A	62.61.88.134
+www.mobilemarketing.nokia.com.	A	62.61.88.137
+nds2.n-gage.nokia.com.	CNAME	nds2.n-gage.nokia.speedera.net.
+nat-gw.nokia.com.   	A	192.100.115.2
+nce.nokia.com.      	MX	0 mgw.nokia.com.
+*.nce.nokia.com.    	MX	0 mgw.nokia.com.
+alfa.nce.nokia.com. 	A	131.228.83.3
+alfa.nce.nokia.com. 	MX	0 mgw.nokia.com.
+mgw.nce.nokia.com.  	A	131.228.83.3
+mgw.nce.nokia.com.  	MX	0 mgw.nokia.com.
+nce0.nce.nokia.com. 	A	131.228.83.3
+nce0.nce.nokia.com. 	MX	0 mgw.nokia.com.
+ncech.nce.nokia.com.	A	131.228.83.3
+ncech.nce.nokia.com.	MX	0 mgw.nokia.com.
+ncp.nokia.com.      	MX	0 mgw.nokia.com.
+*.ncp.nokia.com.    	MX	0 mgw.nokia.com.
+ncr.nokia.com.      	CNAME	nsd.nokia.com.
+ncscst.nokia.com.   	NS	ns.nokia.com.
+ncscst.nokia.com.   	NS	takku.ncscst.nokia.com.
+takku.ncscst.nokia.com.	A	193.166.232.100
+www.nct.nokia.com.  	A	62.65.44.228
+www.nctc.nokia.com. 	A	62.65.44.229
+nds.nokia.com.      	NS	ns.nokia.com.
+nds.nokia.com.      	NS	ns2.nokia.com.
+nds.nokia.com.      	NS	nsda.ext.nokia.com.
+nds.nokia.com.      	NS	nshk.ext.nokia.com.
+nds1.nokia.com.     	NS	ns1.footprint.net.
+nds1.nokia.com.     	NS	ns2.footprint.net.
+nokia.com.          	SOA	ns.nokia.com. hostmaster.nokia.com. (
+			34206	;serial (version)
+			7200	;refresh period (2 hours)
+			3600	;retry interval (1 hour)
+			1209600	;expire time (2 weeks)
+			86400	;default ttl (1 day)
+			)
+nokia.com.          	NS	ns.nokia.com.
+nokia.com.          	NS	ns2.nokia.com.
+nokia.com.          	NS	nsda.ext.nokia.com.
+nsda.ext.nokia.com. 	A	63.78.179.195
+nokia.com.          	NS	nshk.ext.nokia.com.
+nshk.ext.nokia.com. 	A	210.176.199.195
+nokia.com.          	A	147.243.3.73
+nokia.com.          	MX	0 mgw-x1.nokia.com.
+nokia.com.          	MX	0 mgw-x2.nokia.com.
+nokia.com.          	MX	0 mgw-x3.nokia.com.
+nokia.com.          	MX	0 mgw-x4.nokia.com.
+esnh12319.nokia.com.	A	192.100.123.19
+esnh12321.nokia.com.	A	192.100.123.21
+esext01nok.nokia.com.	A	192.100.102.60
+esnh12322.nokia.com.	A	192.100.123.22
+esnh12323.nokia.com.	A	192.100.123.23
+esnh12324.nokia.com.	A	192.100.123.24
+www.endusersupport.nokia.com.	A	194.100.179.120
+saempgwp01.nokia.com.	A	147.243.1.20
+esnh12325.nokia.com.	A	192.100.123.25
+saempgwp02.nokia.com.	A	147.243.1.21
+esprx01x.nokia.com. 	A	192.100.124.218
+developernetpoint.nokia.com.	A	62.61.88.149
+www.developernetpoint.nokia.com.	A	62.61.88.149
+esnh12326.nokia.com.	A	192.100.123.26
+noluatcdn.nokia.com.	A	147.243.8.150
+saempgwp03.nokia.com.	A	147.243.1.24
+esnh12327.nokia.com.	A	192.100.123.27
+saempgwp04.nokia.com.	A	147.243.1.25
+localhost.nokia.com.	CNAME	loopback.nokia.com.
+mgw.nokia.com.      	A	131.228.20.21
+mgw.nokia.com.      	A	131.228.20.22
+mgw.nokia.com.      	A	131.228.20.26
+mgw.nokia.com.      	A	131.228.20.27
+mgw.nokia.com.      	MX	0 mgw-x1.nokia.com.
+mgw.nokia.com.      	MX	0 mgw-x2.nokia.com.
+mgw.nokia.com.      	MX	0 mgw-x3.nokia.com.
+mgw.nokia.com.      	MX	0 mgw-x4.nokia.com.
+esnh12328.nokia.com.	A	192.100.123.28
+esnh12330.nokia.com.	A	192.100.123.30
+wwwdb1.nokia.com.   	A	131.228.7.13
+www-x.nokia.com.    	A	131.228.7.38
+www-x.nokia.com.    	MX	0 mgw.nokia.com.
+ntcch.nokia.com.    	A	131.228.118.236
+ntcch.nokia.com.    	MX	0 mgw.nokia.com.
+nmp0.nokia.com.     	CNAME	nmp02.nmp.nokia.com.
+esnh12329.nokia.com.	A	192.100.123.29
+saec-nokiaq01ca.nokia.com.	A	192.100.116.45
+nds1.forumqa.nokia.com.	CNAME	nds1.forumqa.nokia.com.c.footprint.net.
+saeprxq.nokia.com.  	A	147.243.9.72
+esacce01.nokia.com. 	A	192.100.124.195
+partners.nokia.com. 	NS	ns.nokia.com.
+partners.nokia.com. 	NS	ns2.nokia.com.
+partners.nokia.com. 	NS	nsda.ext.nokia.com.
+nsda.ext.nokia.com. 	A	63.78.179.195
+partners.nokia.com. 	NS	nshk.ext.nokia.com.
+nshk.ext.nokia.com. 	A	210.176.199.195
+bedbs01nok.china.nokia.com.	A	172.28.30.130
+bedbs02nok.china.nokia.com.	A	172.28.30.128
+esacce02.nokia.com. 	A	192.100.124.194
+*.nokia.com.        	MX	0 mgw-x1.nokia.com.
+*.nokia.com.        	MX	0 mgw-x2.nokia.com.
+*.nokia.com.        	MX	0 mgw-x3.nokia.com.
+*.nokia.com.        	MX	0 mgw-x4.nokia.com.
+npc.nokia.com.      	A	63.78.179.245
+nokia-5159.nokia.com.	CNAME	saesrs01.nokia.com.
+mgw-x.nokia.com.    	A	131.228.20.21
+mgw-x.nokia.com.    	A	131.228.20.22
+mgw-x.nokia.com.    	A	131.228.20.26
+mgw-x.nokia.com.    	A	131.228.20.27
+mgw-x.nokia.com.    	MX	10 mgw-x1.nokia.com.
+mgw-x.nokia.com.    	MX	20 mgw-x2.nokia.com.
+mgw-x.nokia.com.    	MX	20 mgw-x3.nokia.com.
+mgw-x.nokia.com.    	MX	20 mgw-x4.nokia.com.
+mgw-x.nokia.com.    	MX	10 mgw-x2.nokia.com.
+mgw-x.nokia.com.    	MX	20 mgw-x1.nokia.com.
+mgw-x.nokia.com.    	MX	10 mgw-x3.nokia.com.
+mgw-x.nokia.com.    	MX	10 mgw-x4.nokia.com.
+lists.nokia.com.    	MX	5 nokia.sparklist.com.
+nokia-fw01.nokia.com.	A	192.100.124.26
+saeappgw05-alt.nokia.com.	A	147.243.2.6
+community-esstx01.nokia.com.	A	192.100.121.27
+daeappgw05-alt.nokia.com.	A	147.243.130.16
+homer.americas.nokia.com.	A	134.24.38.210
+homer.americas.nokia.com.	MX	0 mgw.nokia.com.
+crusty.americas.nokia.com.	CNAME	sdwwwext.americas.nokia.com.
+daia01nok-1.americas.nokia.com.	A	63.78.179.219
+daia01nok-2.americas.nokia.com.	A	63.78.179.220
+e1.americas.nokia.com.	A	63.196.136.101
+barney.americas.nokia.com.	A	206.19.95.196
+barney.americas.nokia.com.	MX	0 mgw.nokia.com.
+sdgrp1.americas.nokia.com.	A	63.196.136.200
+marge.americas.nokia.com.	A	63.196.136.70
+marge.americas.nokia.com.	MX	0 mgw.nokia.com.
+sdwwwext.americas.nokia.com.	A	63.196.136.100
+sdwwwext.americas.nokia.com.	MX	0 mgw.nokia.com.
+damsc03ntc.americas.nokia.com.	A	131.228.100.169
+sdgrp4.americas.nokia.com.	A	63.196.136.201
+bart.americas.nokia.com.	A	206.19.95.195
+bart.americas.nokia.com.	MX	0 mgw.nokia.com.
+daia01nok.americas.nokia.com.	A	63.78.179.210
+*.americas.nokia.com.	MX	0 mgw-x1.nokia.com.
+*.americas.nokia.com.	MX	0 mgw-x2.nokia.com.
+*.americas.nokia.com.	MX	0 mgw-x3.nokia.com.
+*.americas.nokia.com.	MX	0 mgw-x4.nokia.com.
+xdadoc001.americas.nokia.com.	A	147.243.150.60
+esprx02x.nokia.com. 	A	192.100.124.219
+wwwgw4-tnx.nokia.com.	A	192.100.115.29
+nokiaone.nokia.com. 	A	192.100.116.87
+www.mobilemarketing.nokia.com.	A	62.61.88.137
+esqafh04nok.nokia.com.	A	192.100.102.128
+saec-nokiabup01ca.nokia.com.	A	192.100.116.61
+www.ctc.nokia.com.  	A	213.180.20.135
+wirelessfuture.nokia.com.	A	195.134.226.56
+db.wirelessfuture.nokia.com.	CNAME	nc1.digia.com.
+www.wirelessfuture.nokia.com.	A	195.134.226.56
+video.wirelessfuture.nokia.com.	CNAME	nc3.digia.com.
+ns.nokia.com.       	A	131.228.20.19
+ns.nokia.com.       	MX	0 mgw.nokia.com.
+esstx01.nokia.com.  	A	192.100.121.26
+newthefeature.nokia.com.	A	192.100.116.119
+saecs01.nokia.com.  	A	192.100.102.66
+supplier.nokia.com. 	A	147.243.3.139
+cdn.supplier.nokia.com.	CNAME	www.supplier.nokia.com.
+www.supplier.nokia.com.	A	147.243.3.139
+www-nrc.nokia.com.  	A	131.228.7.22
+www-nrc.nokia.com.  	MX	0 mgw.nokia.com.
+coplapro.nokia.com. 	A	147.243.3.140
+www.coplapro.nokia.com.	A	147.243.3.140
+labtest1.nokia.com. 	A	192.100.104.108
+iprg.nokia.com.     	NS	ns.iprg.nokia.com.
+ns.iprg.nokia.com.  	A	205.226.0.200
+iprg.nokia.com.     	NS	ns.nokia.com.
+iprg.nokia.com.     	NS	ns2.nokia.com.
+iprg.nokia.com.     	NS	dnsauth1.sys.gtei.net.
+iprg.nokia.com.     	NS	dnsauth2.sys.gtei.net.
+iprg.nokia.com.     	NS	dnsauth3.sys.gtei.net.
+labtest2.nokia.com. 	A	192.100.104.109
+noltest1cdn.nokia.com.	A	147.243.8.134
+esprx03x.nokia.com. 	A	192.100.124.202
+nce.nokia.com.      	MX	0 mgw.nokia.com.
+ncech.nce.nokia.com.	A	131.228.83.3
+ncech.nce.nokia.com.	MX	0 mgw.nokia.com.
+nce0.nce.nokia.com. 	A	131.228.83.3
+nce0.nce.nokia.com. 	MX	0 mgw.nokia.com.
+*.nce.nokia.com.    	MX	0 mgw.nokia.com.
+mgw.nce.nokia.com.  	A	131.228.83.3
+mgw.nce.nokia.com.  	MX	0 mgw.nokia.com.
+alfa.nce.nokia.com. 	A	131.228.83.3
+alfa.nce.nokia.com. 	MX	0 mgw.nokia.com.
+labtest3.nokia.com. 	A	192.100.104.110
+nds1.nokia.com.     	NS	ns1.footprint.net.
+nds1.nokia.com.     	NS	ns2.footprint.net.
+nds1.nokia.com.     	NS	ns3.footprint.net.
+nds1.nokia.com.     	NS	ns4.footprint.net.
+nds1.nokia.com.     	NS	ns5.footprint.net.
+nds1.nokia.com.     	NS	ns6.footprint.net.
+nds1.nokia.com.     	NS	ns7.footprint.net.
+nds1.nokia.com.     	NS	ns8.footprint.net.
+nds1.nokia.com.     	NS	ns9.footprint.net.
+siappgw05-alt.nokia.com.	A	147.243.194.6
+saec-nokiaq03ca.nokia.com.	A	192.100.116.47
+supportdots.nokia.com.	A	192.100.102.168
+qa.nokia.com.       	A	147.243.8.70
+esagw00.nokia.com.  	A	131.228.20.23
+esagw00.nokia.com.  	A	131.228.20.24
+esagw00.nokia.com.  	A	131.228.20.33
+caext11.nokia.com.  	CNAME	caext11.ext.nokia.com.
+nds2.photos.nokia.com.	CNAME	nds2.photos.nokia.speedera.net.
+www.brokers.nokia.com.	A	207.87.14.73
+usacareers.nokia.com.	A	216.234.249.166
+siappgw05.nokia.com.	A	147.243.194.5
+wwwdb.nokia.com.    	A	192.100.121.59
+wwwdb.nokia.com.    	MX	0 mgw.nokia.com.
+carepoint.nokia.com.	A	194.100.179.103
+www.carepoint.nokia.com.	A	194.100.179.103
+service-availability.nokia.com.	A	192.100.104.57
+saec-featurep02ca.nokia.com.	A	192.100.116.52
+saepnexq02.nokia.com.	A	147.243.11.11
+forum.nokia.com.    	NS	ns.nokia.com.
+forum.nokia.com.    	NS	ns2.nokia.com.
+forum.nokia.com.    	NS	nsda.ext.nokia.com.
+nsda.ext.nokia.com. 	A	63.78.179.195
+forum.nokia.com.    	NS	nshk.ext.nokia.com.
+nshk.ext.nokia.com. 	A	210.176.199.195
+esprx04x.nokia.com. 	A	192.100.124.220
+esext11nok.nokia.com.	A	192.100.102.83
+licensing.nokia.com.	A	192.100.104.115
+nokiars.nokia.com.  	A	131.228.123.197
+saec-nokirtr01.nokia.com.	A	192.100.116.2
+wwwgw4.nokia.com.   	A	192.100.124.29
+newforum.nokia.com. 	A	192.100.116.114
+www.apactst1.nokia.com.	A	192.100.121.44
+saec-nokirtr02.nokia.com.	A	192.100.116.3
+saeaceq01.nokia.com.	A	147.243.10.149
+newsfeed1.nokia.com.	A	131.228.6.22
+newsfeed1.nokia.com.	MX	0 mgw.nokia.com.
+ncp.nokia.com.      	MX	0 mgw.nokia.com.
+*.ncp.nokia.com.    	MX	0 mgw.nokia.com.
+saeaceq02.nokia.com.	A	147.243.10.150
+newsfeed2.nokia.com.	A	131.228.6.12
+newsfeed2.nokia.com.	MX	0 mgw.nokia.com.
+ncr.nokia.com.      	CNAME	nsd.nokia.com.
+www.iap.nokia.com.  	CNAME	ulmo.nomad.cellulardata.com.
+nsd.nokia.com.      	A	63.78.179.210
+qasecure.nokia.com. 	A	147.243.8.71
+ntcnm2.nokia.com.   	A	131.228.140.50
+saempp01.nokia.com. 	A	147.243.1.22
+summer97.nokia.com. 	A	193.65.240.108
+summer97.nokia.com. 	MX	0 mgw.nokia.com.
+www.nct.nokia.com.  	A	62.65.44.228
+saempp02.nokia.com. 	A	147.243.1.23
+www.wbs.nokia.com.  	CNAME	www.nokia.com.
+www.net-rcp.nokia.com.	A	192.100.102.53
+saec-nokiaq05ca.nokia.com.	A	192.100.116.49
+support.nokia.com.  	A	192.100.104.50
+ftp.support.nokia.com.	A	192.100.104.51
+nds2.support.nokia.com.	CNAME	nds2.support.nokia.speedera.net.
+nds1.support.nokia.com.	CNAME	nds1.support.nokia.com.c.footprint.net.
+saempgwp02.europe.nokia.com.	A	147.243.1.21
+busrv06nok.europe.nokia.com.	A	131.228.100.197
+ncsmsg32tr.europe.nokia.com.	A	131.228.100.191
+bulns02t.europe.nokia.com.	A	131.228.100.166
+*.europe.nokia.com. 	MX	0 mgw-x1.nokia.com.
+*.europe.nokia.com. 	MX	0 mgw-x2.nokia.com.
+*.europe.nokia.com. 	MX	0 mgw-x3.nokia.com.
+*.europe.nokia.com. 	MX	0 mgw-x4.nokia.com.
+tofw01.europe.nokia.com.	A	210.81.72.130
+olympos.europe.nokia.com.	A	131.228.100.198
+saempgwp01.europe.nokia.com.	A	147.243.1.20
+broadcast-esstx01.nokia.com.	A	192.100.121.29
+saec-nokiafip02ca.nokia.com.	A	192.100.116.54
+saatk2-neselrtr01.nokia.com.	A	147.243.14.3
+saeappgw06-alt.nokia.com.	A	147.243.2.38
+developers.nokia.com.	CNAME	forum.nokia.com.
+imap.nokia.com.     	A	172.21.138.107
+imap.nokia.com.     	A	172.21.138.109
+apacotc.nokia.com.  	A	203.35.64.207
+www.apacotc.nokia.com.	A	203.35.64.207
+ntc.nokia.com.      	MX	10 mgw-x4.nokia.com.
+ntc.nokia.com.      	MX	100 mgw-x1.nokia.com.
+ntc.nokia.com.      	MX	100 mgw-x2.nokia.com.
+ntc.nokia.com.      	MX	100 mgw-x3.nokia.com.
+NHDAD155.ntc.nokia.com.	A	192.100.116.155
+swpomc01.ntc.nokia.com.	A	131.228.49.13
+zeus.ntc.nokia.com. 	A	131.228.134.50
+wwwdoc.ntc.nokia.com.	A	131.228.63.66
+essc11nok.ntc.nokia.com.	A	172.21.144.136
+NHDAD157.ntc.nokia.com.	A	192.100.116.157
+mosse3.ntc.nokia.com.	A	131.228.209.53
+NHDAD158.ntc.nokia.com.	A	192.100.116.158
+esora15nok.ntc.nokia.com.	A	131.228.100.217
+esws7387nok.ntc.nokia.com.	A	131.228.73.31
+cooper.ntc.nokia.com.	A	172.23.71.12
+MUWDXXX1NCP.ntc.nokia.com.	A	192.168.28.118
+romulus.ntc.nokia.com.	A	131.228.134.56
+esftp01nok.ntc.nokia.com.	A	131.228.118.238
+esebh08nok.ntc.nokia.com.	A	131.228.118.156
+essrv21nok.ntc.nokia.com.	A	172.21.65.121
+ousrv56nok.ntc.nokia.com.	A	131.228.100.193
+veronica.ntc.nokia.com.	A	131.228.154.111
+elwing.ntc.nokia.com.	A	131.228.178.132
+tnso15.ntc.nokia.com.	A	147.243.40.215
+*.ntc.nokia.com.    	MX	10 mgw-x4.nokia.com.
+*.ntc.nokia.com.    	MX	100 mgw-x1.nokia.com.
+*.ntc.nokia.com.    	MX	100 mgw-x2.nokia.com.
+*.ntc.nokia.com.    	MX	100 mgw-x3.nokia.com.
+jksrv04nok.ntc.nokia.com.	A	131.228.100.183
+tncluster.ntc.nokia.com.	A	131.228.49.20
+tncluster.ntc.nokia.com.	A	131.228.49.101
+tncluster.ntc.nokia.com.	A	131.228.49.102
+tncluster.ntc.nokia.com.	A	131.228.49.107
+tncluster.ntc.nokia.com.	A	131.228.49.108
+oufrm02nok.ntc.nokia.com.	A	172.23.70.201
+oufrm02nok.ntc.nokia.com.	A	172.23.70.202
+tnso16.ntc.nokia.com.	A	147.243.40.216
+oubdc03ntc.ntc.nokia.com.	A	172.23.70.70
+eslns03t.ntc.nokia.com.	A	131.228.68.30
+tnso17.ntc.nokia.com.	A	131.228.100.115
+wsnoc01nok.ntc.nokia.com.	A	131.228.118.35
+tnso18.ntc.nokia.com.	A	131.228.100.136
+oueis01nok.ntc.nokia.com.	A	172.23.70.11
+tnso19.ntc.nokia.com.	A	131.228.99.105
+eslns26.ntc.nokia.com.	A	131.228.51.162
+ncsbsr10ou.ntc.nokia.com.	A	172.23.78.46
+ccagent01ws.ntc.nokia.com.	A	131.228.138.199
+eslns28.ntc.nokia.com.	A	131.228.100.157
+esebh12nok.ntc.nokia.com.	A	131.228.10.109
+trio.ntc.nokia.com. 	A	131.228.134.101
+escnd02c.ntc.nokia.com.	A	172.21.129.94
+eslns32.ntc.nokia.com.	A	131.228.100.145
+tnea01.ntc.nokia.com.	A	131.228.49.120
+eslns33.ntc.nokia.com.	A	131.228.100.146
+eslns34.ntc.nokia.com.	A	131.228.100.147
+ncsmsg17es.ntc.nokia.com.	A	131.228.180.5
+trsrv01ext.ntc.nokia.com.	A	193.166.233.38
+ntcilo-pc5.ntc.nokia.com.	A	131.228.229.194
+eslns35.ntc.nokia.com.	A	131.228.100.153
+ouewa01nok.ntc.nokia.com.	A	172.23.70.21
+kreios.ntc.nokia.com.	A	131.228.169.147
+wsnoc03nok.ntc.nokia.com.	A	131.228.59.178
+escrmnmp01nok.ntc.nokia.com.	A	131.228.51.124
+oueis03nok.ntc.nokia.com.	A	172.23.70.13
+eslns05t.ntc.nokia.com.	A	131.228.68.43
+www3ntc.ntc.nokia.com.	A	131.228.51.95
+trimfs01.ntc.nokia.com.	A	131.228.169.28
+wwwswp.ntc.nokia.com.	A	131.228.68.47
+esbdc03ntc.ntc.nokia.com.	A	131.228.118.78
+domino.ntc.nokia.com.	A	131.228.68.31
+hewnt01ntc.ntc.nokia.com.	A	131.228.100.91
+csw.ntc.nokia.com.  	A	131.228.51.246
+espdc01ntc.ntc.nokia.com.	A	131.228.118.112
+ntcvms01es.ntc.nokia.com.	A	131.228.49.18
+ntcvms01es.ntc.nokia.com.	A	131.228.49.120
+eseis01nok.ntc.nokia.com.	A	131.228.118.162
+esgas01nok.ntc.nokia.com.	A	172.21.144.68
+clapton.ntc.nokia.com.	A	172.23.79.28
+touho.ntc.nokia.com.	A	192.168.86.28
+rmtweb.ntc.nokia.com.	A	131.228.100.215
+ncsbsr03ou.ntc.nokia.com.	A	131.228.209.196
+eslns06t.ntc.nokia.com.	A	131.228.68.44
+ntccwh01es.ntc.nokia.com.	A	131.228.51.40
+essql02ntc.ntc.nokia.com.	A	131.228.118.230
+pc-tleivonoja.ntc.nokia.com.	A	131.228.116.238
+wdssfwauth.ntc.nokia.com.	A	131.228.32.130
+trscm01.ntc.nokia.com.	A	172.22.107.99
+wsnoc05nok.ntc.nokia.com.	A	131.228.59.39
+mafw01.ntc.nokia.com.	A	192.168.203.28
+tiikeri.ntc.nokia.com.	A	131.228.100.175
+volga7.ntc.nokia.com.	A	131.228.159.122
+eslns10nok.ntc.nokia.com.	A	131.228.51.52
+volga8.ntc.nokia.com.	A	131.228.159.123
+esewa01nok.ntc.nokia.com.	A	131.228.51.234
+eslns07t.ntc.nokia.com.	A	131.228.10.24
+esloc02nok.ntc.nokia.com.	A	131.228.51.38
+essadb1.ntc.nokia.com.	A	131.228.100.118
+hesrv38ntc.ntc.nokia.com.	A	131.228.100.182
+churberg.ntc.nokia.com.	A	172.21.144.16
+esdoc04nok.ntc.nokia.com.	A	131.228.100.129
+eslns10t.ntc.nokia.com.	A	131.228.68.31
+escrmntc01nok.ntc.nokia.com.	A	131.228.51.123
+trlns01t.ntc.nokia.com.	A	131.228.100.159
+ns1.ntc.nokia.com.  	A	131.228.118.19
+axl01it.ntc.nokia.com.	A	131.228.118.232
+cvtr1.ntc.nokia.com.	A	131.228.162.6
+outrm02ntc.ntc.nokia.com.	A	172.23.32.202
+prinssinakki.korv.fi.ntc.nokia.com.	A	127.0.0.1
+wwwttd.ntc.nokia.com.	A	131.228.100.221
+pddb.ntc.nokia.com. 	A	131.228.100.6
+fergu.ntc.nokia.com.	A	192.168.86.228
+esepf01nok.ntc.nokia.com.	A	131.228.118.159
+helene.ntc.nokia.com.	A	131.228.134.149
+akewa01nok.ntc.nokia.com.	A	172.22.1.146
+trlns02t.ntc.nokia.com.	A	131.228.100.160
+ntcilo10es.ntc.nokia.com.	A	131.228.118.14
+galdor.ntc.nokia.com.	A	131.228.178.179
+mamitest.ntc.nokia.com.	A	131.228.209.182
+ntcgen01ak.ntc.nokia.com.	A	172.22.1.150
+ousrv35nok.ntc.nokia.com.	A	131.228.100.196
+elite.ntc.nokia.com.	A	131.228.134.51
+eslns12t.ntc.nokia.com.	A	131.228.68.11
+progress.ntc.nokia.com.	A	131.228.100.4
+kohoutek.ntc.nokia.com.	A	193.166.233.56
+eseis07nok.ntc.nokia.com.	A	131.228.51.6
+wdss.ntc.nokia.com. 	NS	ns.wdss.ntc.nokia.com.
+ns.wdss.ntc.nokia.com.	A	195.156.30.150
+ncsmsg25es.ntc.nokia.com.	A	131.228.51.16
+ou-fwauth-int.ntc.nokia.com.	A	172.23.12.3
+bolton.ntc.nokia.com.	A	172.23.79.31
+upsws2457.ntc.nokia.com.	A	172.21.166.18
+mosse58.ntc.nokia.com.	A	131.228.209.16
+essmsgw01.ntc.nokia.com.	A	131.228.118.68
+mahtan.ntc.nokia.com.	A	131.228.178.153
+essmsgw02.ntc.nokia.com.	A	131.228.118.219
+essmsgw03.ntc.nokia.com.	A	131.228.118.228
+essmsgw04.ntc.nokia.com.	A	131.228.118.130
+ntcite19es.ntc.nokia.com.	A	131.228.118.79
+gemini.ntc.nokia.com.	A	131.228.134.85
+eslog01.ntc.nokia.com.	A	131.228.118.222
+essrv27ntc.ntc.nokia.com.	A	131.228.100.133
+tarh39.ntc.nokia.com.	A	131.228.127.88
+oufarm01.ntc.nokia.com.	A	172.23.70.201
+oufarm01.ntc.nokia.com.	A	172.23.70.202
+ouapp18nok.ntc.nokia.com.	A	172.23.78.32
+argos.ntc.nokia.com.	A	131.228.154.170
+esmcc03ntc.ntc.nokia.com.	A	131.228.59.205
+eseis11nok.ntc.nokia.com.	A	131.228.51.65
+eslns14t.ntc.nokia.com.	A	131.228.100.144
+trlns05t.ntc.nokia.com.	A	131.228.100.161
+search.ntc.nokia.com.	A	131.228.118.211
+search.ntc.nokia.com.	A	131.228.118.218
+esvms02ntc.ntc.nokia.com.	A	147.243.40.83
+eslnd51.ntc.nokia.com.	A	131.228.10.99
+ncsmsg18es.ntc.nokia.com.	A	131.228.68.37
+oufrm16nok.ntc.nokia.com.	A	131.228.99.25
+eslnd52.ntc.nokia.com.	A	131.228.10.100
+ntccdp03es.ntc.nokia.com.	A	131.228.10.141
+hpx01it.ntc.nokia.com.	A	131.228.118.231
+MUWD6007NCP.ntc.nokia.com.	A	192.168.28.132
+trccs02ntc.ntc.nokia.com.	A	172.22.105.83
+eslns15t.ntc.nokia.com.	A	131.228.100.156
+ncspmr06es.ntc.nokia.com.	A	131.228.158.22
+esfrm14nok.ntc.nokia.com.	A	172.21.131.24
+ouapp22nok.ntc.nokia.com.	A	172.23.78.34
+trs.ntc.nokia.com.  	MX	10 mgw-x4.nokia.com.
+trs.ntc.nokia.com.  	MX	100 mgw-x1.nokia.com.
+trs.ntc.nokia.com.  	MX	100 mgw-x2.nokia.com.
+trs.ntc.nokia.com.  	MX	100 mgw-x3.nokia.com.
+acsisy01es.trs.ntc.nokia.com.	A	131.228.129.207
+esrd05ntc.trs.ntc.nokia.com.	A	131.228.64.54
+jerico.trs.ntc.nokia.com.	A	131.228.218.153
+*.trs.ntc.nokia.com.	MX	10 mgw-x4.nokia.com.
+*.trs.ntc.nokia.com.	MX	100 mgw-x1.nokia.com.
+*.trs.ntc.nokia.com.	MX	100 mgw-x2.nokia.com.
+*.trs.ntc.nokia.com.	MX	100 mgw-x3.nokia.com.
+rasctr05es.trs.ntc.nokia.com.	A	131.228.123.77
+sally.trs.ntc.nokia.com.	A	131.228.120.23
+mir.trs.ntc.nokia.com.	A	131.228.218.223
+miranda.trs.ntc.nokia.com.	A	131.228.120.84
+catfish.trs.ntc.nokia.com.	A	131.228.218.104
+esffu02ntc.trs.ntc.nokia.com.	A	131.228.64.226
+nasisy08es-console.trs.ntc.nokia.com.	A	131.228.123.151
+esasm04ntc.trs.ntc.nokia.com.	A	131.228.64.141
+dshp07.trs.ntc.nokia.com.	A	131.228.125.87
+essrv917ntc.trs.ntc.nokia.com.	A	131.228.122.152
+ckhan.trs.ntc.nokia.com.	A	131.228.121.163
+esasm06ntc.trs.ntc.nokia.com.	A	131.228.64.77
+ntccsc05es.trs.ntc.nokia.com.	A	131.228.118.82
+murphy.trs.ntc.nokia.com.	A	131.228.121.35
+trskpd03es.trs.ntc.nokia.com.	A	131.228.139.72
+apdweb.trs.ntc.nokia.com.	A	131.228.64.74
+nasisy06es.trs.ntc.nokia.com.	A	131.228.219.9
+jordan.trs.ntc.nokia.com.	A	131.228.218.184
+ntccsc02es.trs.ntc.nokia.com.	A	131.228.123.139
+rasctr06es.trs.ntc.nokia.com.	A	131.228.123.188
+mururoa.trs.ntc.nokia.com.	A	131.228.218.9
+nasisy08es.trs.ntc.nokia.com.	A	131.228.123.150
+tallink.trs.ntc.nokia.com.	A	131.228.218.37
+esovw03.trs.ntc.nokia.com.	A	131.228.122.222
+ntccsc13es.trs.ntc.nokia.com.	A	131.228.122.184
+syntech1.trs.ntc.nokia.com.	A	131.228.218.38
+grates.trs.ntc.nokia.com.	A	131.228.129.212
+pc-kisaarela.trs.ntc.nokia.com.	A	131.228.153.119
+agricola.trs.ntc.nokia.com.	A	131.228.218.114
+horizon.trs.ntc.nokia.com.	A	131.228.120.145
+horizon.trs.ntc.nokia.com.	MX	0 horizon.trs.ntc.nokia.com.
+horizon.trs.ntc.nokia.com.	MX	10 mgw.nokia.com.
+golase82.trs.ntc.nokia.com.	A	131.228.129.41
+pc-turbo.trs.ntc.nokia.com.	A	131.228.129.175
+grlase08.trs.ntc.nokia.com.	A	131.228.123.182
+pompei.trs.ntc.nokia.com.	A	131.228.218.224
+runeberg.trs.ntc.nokia.com.	A	131.228.218.5
+gramus.trs.ntc.nokia.com.	A	131.228.123.21
+golase98.trs.ntc.nokia.com.	A	131.228.129.237
+sjx01.trs.ntc.nokia.com.	A	131.228.122.150
+esrd01ntc.trs.ntc.nokia.com.	A	131.228.64.102
+esmcc05ntc.ntc.nokia.com.	A	131.228.59.198
+mosse90.ntc.nokia.com.	A	131.228.159.109
+mosse89.ntc.nokia.com.	A	131.228.159.108
+essrv503ntc.ntc.nokia.com.	A	131.228.63.105
+sirion.ntc.nokia.com.	A	131.228.178.154
+nuuska.ntc.nokia.com.	A	131.228.200.75
+esnav00nok.ntc.nokia.com.	A	131.228.51.146
+escrmnmpapl1.ntc.nokia.com.	A	131.228.51.127
+oufrm18nok.ntc.nokia.com.	A	172.23.70.218
+escrmnmpapl2.ntc.nokia.com.	A	131.228.51.128
+esfrm16nok.ntc.nokia.com.	A	131.228.99.20
+ouapp05net.ntc.nokia.com.	A	131.228.209.88
+hesrv17ntc.ntc.nokia.com.	A	131.228.100.181
+mersu1.ntc.nokia.com.	A	131.228.209.107
+spring.ntc.nokia.com.	A	131.228.100.239
+ncsbsr24ou.ntc.nokia.com.	A	172.23.78.21
+ntcite07es.ntc.nokia.com.	A	131.228.118.207
+hedbs03ntc.ntc.nokia.com.	A	131.228.100.119
+libra.ntc.nokia.com.	A	131.228.134.216
+esnav02nok.ntc.nokia.com.	A	131.228.51.147
+oufrm22nok.ntc.nokia.com.	A	131.228.99.22
+eslns20t.ntc.nokia.com.	A	131.228.68.45
+ntcucd05he.ntc.nokia.com.	A	131.228.229.32
+esawb01nok.ntc.nokia.com.	A	131.228.51.153
+esfrm18nok.ntc.nokia.com.	A	131.228.99.18
+espcd01nok.ntc.nokia.com.	A	131.228.118.13
+fmsoulu.ntc.nokia.com.	A	172.23.79.17
+sinope.ntc.nokia.com.	A	193.166.233.23
+esovw01.ntc.nokia.com.	A	131.228.118.209
+eslns21t.ntc.nokia.com.	A	131.228.100.152
+eslns19t.ntc.nokia.com.	A	131.228.118.20
+esovw02.ntc.nokia.com.	A	131.228.118.210
+ncsbsr44ou.ntc.nokia.com.	A	172.23.78.26
+escnt02c.ntc.nokia.com.	A	172.21.129.100
+esnws01nok.ntc.nokia.com.	A	131.228.10.74
+ncsmsg24tr.ntc.nokia.com.	A	131.228.100.187
+esnav04nok.ntc.nokia.com.	A	172.21.65.44
+humakt.ntc.nokia.com.	A	131.228.134.236
+ntcilo09es.ntc.nokia.com.	A	131.228.59.199
+nhdsy007.ntc.nokia.com.	A	192.100.116.1
+esebh01nok.ntc.nokia.com.	A	131.228.118.150
+ns.ntc.nokia.com.   	A	131.228.118.232
+ns.ntc.nokia.com.   	MX	0 mgw.nokia.com.
+esprn04nok.ntc.nokia.com.	A	172.21.65.64
+estws01nok.ntc.nokia.com.	A	131.228.180.82
+esfrm22nok.ntc.nokia.com.	A	172.21.131.32
+kanto.ntc.nokia.com.	A	131.228.100.252
+gondor.ntc.nokia.com.	A	147.243.40.151
+tning0.ntc.nokia.com.	A	147.243.40.82
+ouapp05test.ntc.nokia.com.	A	131.228.209.89
+remus.ntc.nokia.com.	A	131.228.134.55
+ntccsc01es.ntc.nokia.com.	A	131.228.123.17
+morris.ntc.nokia.com.	A	172.23.71.11
+tning2.ntc.nokia.com.	A	131.228.68.56
+ws22093.ntc.nokia.com.	A	131.228.100.134
+ford.ntc.nokia.com. 	A	192.168.86.227
+estmr01nok.ntc.nokia.com.	A	131.228.51.23
+tning3.ntc.nokia.com.	A	131.228.68.57
+scatman.ntc.nokia.com.	A	131.228.51.224
+MUWD90242CP.ntc.nokia.com.	A	192.168.28.138
+essrv509ntc.ntc.nokia.com.	A	131.228.63.212
+www.nemulandia.ntc.nokia.com.	A	131.228.100.247
+eslns23t.ntc.nokia.com.	A	131.228.68.32
+ncsaxp.ntc.nokia.com.	A	131.228.166.220
+esebh03nok.ntc.nokia.com.	A	131.228.118.244
+korva.ntc.nokia.com.	A	131.228.100.139
+eslnh02nok.ntc.nokia.com.	A	131.228.51.57
+hi5-snmp-22.ntc.nokia.com.	A	172.21.13.22
+esfrm24nok.ntc.nokia.com.	A	172.21.131.34
+hi5-snmp-23.ntc.nokia.com.	A	172.21.13.23
+faskpd36es.ntc.nokia.com.	A	172.21.144.110
+daga.ntc.nokia.com. 	A	131.228.48.201
+eslns24t.ntc.nokia.com.	A	131.228.68.46
+eswfr11nok.ntc.nokia.com.	A	131.228.118.111
+MUWD9043NCP.ntc.nokia.com.	A	192.168.28.139
+eslocedu.ntc.nokia.com.	A	192.168.170.116
+bmssrv.ntc.nokia.com.	A	172.23.71.17
+belenos.ntc.nokia.com.	A	193.166.233.55
+zaphod.ntc.nokia.com.	A	193.166.233.58
+MU-PEOBE.ntc.nokia.com.	A	192.168.28.106
+catwoman.ntc.nokia.com.	A	131.228.51.93
+ntcit-mmta30.ntc.nokia.com.	A	131.228.118.48
+pc-161-216.ntc.nokia.com.	A	131.228.161.216
+ouapp01nok.ntc.nokia.com.	A	172.23.78.27
+hemsc01ntc.ntc.nokia.com.	A	131.228.100.174
+hi5-snmp-29.ntc.nokia.com.	A	172.21.13.29
+esfarm01.ntc.nokia.com.	A	172.21.139.41
+esfarm01.ntc.nokia.com.	A	172.21.139.42
+upsomc4.ntc.nokia.com.	A	192.168.156.64
+condor.ntc.nokia.com.	A	131.228.100.137
+leopardi.ntc.nokia.com.	A	192.168.87.100
+hi5-snmp-34.ntc.nokia.com.	A	172.21.13.34
+esdca55nok.ntc.nokia.com.	A	131.228.51.140
+canens.ntc.nokia.com.	A	192.168.86.76
+scmoulu.ntc.nokia.com.	A	172.23.79.18
+ncspmr07es.ntc.nokia.com.	A	131.228.158.23
+eslns32nok.ntc.nokia.com.	A	172.21.140.101
+ntcite15es.ntc.nokia.com.	A	131.228.180.93
+esexc01nok.ntc.nokia.com.	A	131.228.118.11
+rocky.ntc.nokia.com.	A	131.228.154.186
+esfrm26nok.ntc.nokia.com.	A	131.228.99.19
+esars02nok.ntc.nokia.com.	A	172.21.141.27
+sunray.ntc.nokia.com.	A	131.228.169.169
+pc-161-231.ntc.nokia.com.	A	131.228.161.231
+tnesp1.ntc.nokia.com.	A	131.228.49.118
+ntcnm.ntc.nokia.com.	A	131.228.118.18
+tnesp2.ntc.nokia.com.	A	131.228.49.119
+v10-dhcp-43-3.ntc.nokia.com.	A	131.228.43.3
+esmss501ntc.ntc.nokia.com.	A	131.228.63.133
+amalthea.ntc.nokia.com.	A	131.228.48.50
+ntp0.ntc.nokia.com. 	A	131.228.20.25
+outrm30nok.ntc.nokia.com.	A	172.23.76.38
+ntp1.ntc.nokia.com. 	A	131.228.6.41
+joplin.ntc.nokia.com.	A	172.23.79.29
+esebh07nok.ntc.nokia.com.	A	131.228.118.155
+ntp2.ntc.nokia.com. 	A	131.228.118.248
+wsnomess.ntc.nokia.com.	A	131.228.118.64
+essrv45ntc.ntc.nokia.com.	A	131.228.158.17
+swp03ci.ntc.nokia.com.	A	131.228.63.140
+swp03db.ntc.nokia.com.	A	131.228.63.139
+ntcilo-winframe.ntc.nokia.com.	A	131.228.229.177
+oufrm01nok.ntc.nokia.com.	A	172.23.70.201
+oufrm01nok.ntc.nokia.com.	A	172.23.70.202
+aquinas.ntc.nokia.com.	A	131.228.48.187
+outestsrv.ntc.nokia.com.	A	131.228.159.6
+ncsbsr25ou.ntc.nokia.com.	A	172.23.78.22
+upsws4069.ntc.nokia.com.	A	172.21.166.16
+daruda.ntc.nokia.com.	A	131.228.154.144
+eseai02tst.ntc.nokia.com.	A	172.21.129.12
+pc-161-249.ntc.nokia.com.	A	131.228.161.249
+wwwgw10.ntc.nokia.com.	A	131.228.118.43
+oufrm34nok.ntc.nokia.com.	A	131.228.99.26
+MUWDXXX2NCP.ntc.nokia.com.	A	192.168.28.135
+ntcswp02es.ntc.nokia.com.	A	131.228.100.176
+delws229.ntc.nokia.com.	A	131.228.200.47
+nokhpdtc.ntc.nokia.com.	A	131.228.63.4
+swspde17ou.ntc.nokia.com.	A	131.228.100.194
+esebh11nok.ntc.nokia.com.	A	131.228.10.108
+varauskirja.ntc.nokia.com.	A	131.228.100.192
+tnsrv01ntc.ntc.nokia.com.	A	192.168.101.5
+spade.ntc.nokia.com.	A	131.228.58.25
+bimbo.ntc.nokia.com.	A	131.228.128.150
+ntca01.ntc.nokia.com.	A	131.228.49.64
+esesh1.ntc.nokia.com.	A	131.228.51.183
+outrm01nok.ntc.nokia.com.	A	172.23.32.201
+osstre.ntc.nokia.com.	A	131.228.100.7
+esesh4.ntc.nokia.com.	A	131.228.51.186
+oueis02nok.ntc.nokia.com.	A	172.23.70.12
+wsnoc02nok.ntc.nokia.com.	A	131.228.59.152
+esfrm01nok.ntc.nokia.com.	A	172.21.131.11
+hesrv02ntc.ntc.nokia.com.	A	172.21.2.14
+trdeva01.ntc.nokia.com.	A	172.22.107.100
+esbdc02ntc.ntc.nokia.com.	A	131.228.118.98
+ntcite03es.ntc.nokia.com.	A	131.228.138.54
+aquarius.ntc.nokia.com.	A	131.228.48.183
+dbwwwgw1.ntc.nokia.com.	A	131.228.100.135
+vertti.ntc.nokia.com.	A	131.228.53.47
+achilles.ntc.nokia.com.	A	131.228.134.14
+polaris.ntc.nokia.com.	A	131.228.198.236
+swpdbx01.ntc.nokia.com.	A	131.228.116.16
+galadrie.ntc.nokia.com.	A	131.228.178.106
+swpdbx02.ntc.nokia.com.	A	131.228.116.60
+wwwlabo.ntc.nokia.com.	A	131.228.201.76
+trsrv02ext.ntc.nokia.com.	A	193.166.233.155
+essql01ntc.ntc.nokia.com.	A	131.228.118.122
+ouovw01.ntc.nokia.com.	A	172.23.71.50
+musca.ntc.nokia.com.	A	131.228.48.202
+oueis04nok.ntc.nokia.com.	A	172.23.70.14
+wsnoc04nok.ntc.nokia.com.	A	131.228.59.11
+dmsoulu.ntc.nokia.com.	A	172.23.79.15
+akuxs005.ntc.nokia.com.	A	172.22.1.14
+hesrv04ntc.ntc.nokia.com.	A	172.21.6.92
+belsebub.ntc.nokia.com.	A	131.228.134.122
+dialogue.ntc.nokia.com.	CNAME	esdlg01ntc.ntc.nokia.com.
+tntxt17.ntc.nokia.com.	A	192.168.86.208
+eseis02nok.ntc.nokia.com.	A	131.228.51.13
+tntxt20.ntc.nokia.com.	A	172.22.128.77
+esloc01nok.ntc.nokia.com.	A	131.228.51.36
+ghoul.ntc.nokia.com.	A	131.228.118.227
+henrix.ntc.nokia.com.	A	172.23.79.30
+ntcilo05es.ntc.nokia.com.	A	131.228.59.216
+ncsbsr13ou.ntc.nokia.com.	A	172.23.78.17
+wsneves2.ntc.nokia.com.	A	131.228.200.94
+ncsmsg02he.ntc.nokia.com.	A	131.228.68.35
+jagger.ntc.nokia.com.	A	172.23.71.14
+wsnoc06nok.ntc.nokia.com.	A	131.228.59.40
+esisa01nok.ntc.nokia.com.	A	172.21.95.53
+eslns09nok.ntc.nokia.com.	A	131.228.118.82
+gopera.ntc.nokia.com.	A	172.23.73.13
+eslna02p.ntc.nokia.com.	A	131.228.100.148
+esloc03nok.ntc.nokia.com.	A	131.228.51.245
+chorus-linux-1.ntc.nokia.com.	A	131.228.100.5
+ouhjy01.ntc.nokia.com.	A	172.22.1.40
+ouhjy02.ntc.nokia.com.	A	172.22.1.41
+ftp.ntc.nokia.com.  	A	131.228.118.149
+esprn102nok.ntc.nokia.com.	A	172.21.139.13
+oufrm11nok.ntc.nokia.com.	A	131.228.99.24
+ncsbsr06ou.ntc.nokia.com.	A	172.23.78.14
+puuma.ntc.nokia.com.	A	192.168.86.249
+baabel.ntc.nokia.com.	A	131.228.201.58
+flexi1.ntc.nokia.com.	A	131.228.100.138
+oufw04.ntc.nokia.com.	A	172.23.12.14
+tntxt47.ntc.nokia.com.	A	192.168.86.209
+oufw05.ntc.nokia.com.	A	172.23.12.13
+ntcmami.ntc.nokia.com.	A	131.228.216.150
+esdca2u.ntc.nokia.com.	A	131.228.118.225
+hades.ntc.nokia.com.	A	131.228.183.237
+eseis06nok.ntc.nokia.com.	A	131.228.51.5
+cpcswww.ntc.nokia.com.	A	131.228.45.46
+akuxw008.ntc.nokia.com.	A	172.22.10.21
+kadmos.ntc.nokia.com.	A	192.168.86.70
+esepf02nok.ntc.nokia.com.	A	131.228.118.163
+sabina.ntc.nokia.com.	A	131.228.198.46
+akuxw009.ntc.nokia.com.	A	172.22.10.22
+wsneves.ntc.nokia.com.	A	131.228.200.58
+eslna04p.ntc.nokia.com.	A	131.228.68.12
+esisaweb.ntc.nokia.com.	A	172.21.144.73
+akuxw014.ntc.nokia.com.	A	172.22.10.27
+eslab37nok.ntc.nokia.com.	A	192.168.170.42
+trusr08.ntc.nokia.com.	A	131.228.100.248
+oufrm13nok.ntc.nokia.com.	A	172.23.70.213
+jd-220148.ntc.nokia.com.	A	131.228.220.148
+MU-PAOPI.ntc.nokia.com.	A	192.168.28.110
+ncsbsr26ou.ntc.nokia.com.	A	131.228.209.27
+taurus.ntc.nokia.com.	A	131.228.154.174
+esarsclu01.ntc.nokia.com.	A	131.228.51.84
+eseis10nok.ntc.nokia.com.	A	131.228.51.9
+eseis08nok.ntc.nokia.com.	A	131.228.51.7
+esarsclu02.ntc.nokia.com.	A	131.228.51.85
+patienta.ntc.nokia.com.	A	193.166.233.26
+esarsclu03.ntc.nokia.com.	A	172.21.141.15
+tne00.ntc.nokia.com.	A	147.243.40.81
+esarsclu04.ntc.nokia.com.	A	172.21.141.16
+phoenix.ntc.nokia.com.	A	131.228.154.50
+tne01.ntc.nokia.com.	A	131.228.49.101
+tne01.ntc.nokia.com.	MX	10 mgw-x4.nokia.com.
+tne01.ntc.nokia.com.	MX	10 mgw-x1.nokia.com.
+tne01.ntc.nokia.com.	MX	10 mgw-x2.nokia.com.
+tne01.ntc.nokia.com.	MX	10 mgw-x3.nokia.com.
+tne02.ntc.nokia.com.	A	131.228.49.102
+pippin.ntc.nokia.com.	A	131.228.178.85
+csv13a2s1.ntc.nokia.com.	A	131.228.148.151
+tne03.ntc.nokia.com.	A	131.228.49.107
+dragon2.ntc.nokia.com.	A	131.228.169.16
+tne04.ntc.nokia.com.	A	131.228.49.35
+tne05.ntc.nokia.com.	A	131.228.49.20
+MUINGSC.ntc.nokia.com.	A	192.168.28.121
+tne06.ntc.nokia.com.	A	131.228.49.108
+pandora.ntc.nokia.com.	A	131.228.134.57
+ousrv01ntc.ntc.nokia.com.	A	172.23.78.38
+fsmgmt01.ntc.nokia.com.	A	131.228.118.212
+ouapp21nok.ntc.nokia.com.	A	172.23.78.33
+feanor.ntc.nokia.com.	A	131.228.178.151
+eseis12nok.ntc.nokia.com.	A	131.228.51.79
+henap98ntc.ntc.nokia.com.	A	131.228.100.125
+ncsmsg10he.ntc.nokia.com.	A	172.21.6.78
+estdb01nok.ntc.nokia.com.	A	131.228.51.25
+king.ntc.nokia.com. 	A	131.228.178.151
+esnms01.ntc.nokia.com.	A	131.228.118.3
+manusrv.ntc.nokia.com.	A	172.23.71.18
+toutatis.ntc.nokia.com.	A	193.166.233.54
+helns03t.ntc.nokia.com.	A	131.228.118.96
+nasnws05es.ntc.nokia.com.	A	172.21.6.84
+oulns02t.ntc.nokia.com.	A	131.228.100.163
+tntxt120.ntc.nokia.com.	A	131.228.169.15
+ouapp23nok.ntc.nokia.com.	A	172.23.78.35
+esfrm15nok.ntc.nokia.com.	A	131.228.99.17
+tntxt98.ntc.nokia.com.	A	192.168.86.216
+mgw-i1.ntc.nokia.com.	A	131.228.118.60
+tntxt99.ntc.nokia.com.	A	192.168.86.217
+hannu.ntc.nokia.com.	A	192.168.86.185
+mgw-i2.ntc.nokia.com.	A	131.228.118.61
+roope.ntc.nokia.com.	A	192.168.86.240
+aladobix.ntc.nokia.com.	A	172.22.10.17
+essrv40nok.ntc.nokia.com.	A	131.228.118.46
+lash14.ntc.nokia.com.	A	131.228.124.204
+tupu.ntc.nokia.com. 	A	192.168.86.151
+oulns03t.ntc.nokia.com.	A	131.228.100.165
+mini.ntc.nokia.com. 	A	172.23.71.13
+finwe.ntc.nokia.com.	A	131.228.58.99
+ositest.ntc.nokia.com.	A	131.228.45.148
+oufrm21nok.ntc.nokia.com.	A	172.23.70.221
+suntan.ntc.nokia.com.	A	193.166.233.37
+mamls01nok.ntc.nokia.com.	A	192.168.203.13
+testsrv1.ntc.nokia.com.	A	172.23.79.33
+eslns23nok.ntc.nokia.com.	A	131.228.118.8
+esfrm17nok.ntc.nokia.com.	A	172.21.131.27
+tyrsky.ntc.nokia.com.	A	131.228.32.7
+helns05t.ntc.nokia.com.	A	131.228.123.199
+hesrv20ntc.ntc.nokia.com.	A	131.228.68.34
+tntxt137.ntc.nokia.com.	A	172.22.128.74
+oulns04t.ntc.nokia.com.	A	131.228.100.162
+esntp01.ntc.nokia.com.	A	131.228.118.221
+trlns01ext.ntc.nokia.com.	A	193.166.233.51
+essrv03ntc.ntc.nokia.com.	A	131.228.59.238
+ananke.ntc.nokia.com.	A	131.228.169.165
+pc-csoulocos.ntc.nokia.com.	A	131.228.150.89
+esdoc01lab.ntc.nokia.com.	A	192.168.170.30
+ntcite17es.ntc.nokia.com.	A	131.228.118.123
+anvil.ntc.nokia.com.	A	131.228.178.39
+essc01nok.ntc.nokia.com.	A	131.228.51.44
+alpo9.ntc.nokia.com.	A	131.228.166.229
+esnav03nok.ntc.nokia.com.	A	131.228.51.148
+trmcb09nok.ntc.nokia.com.	A	131.228.100.188
+oufrm23nok.ntc.nokia.com.	A	172.23.70.223
+helns06t.ntc.nokia.com.	A	172.21.140.103
+mronkainws.ntc.nokia.com.	A	172.21.95.164
+oulns05t.ntc.nokia.com.	A	172.23.70.58
+ncsbsr07ou.ntc.nokia.com.	A	172.23.78.15
+wdssfw01.ntc.nokia.com.	A	131.228.32.129
+espcd02nok.ntc.nokia.com.	A	131.228.118.34
+esfrm21nok.ntc.nokia.com.	A	172.21.131.31
+lucifer.ntc.nokia.com.	A	131.228.134.62
+mafwauth.ntc.nokia.com.	A	192.168.203.27
+mordor.ntc.nokia.com.	A	131.228.45.179
+swpr301.ntc.nokia.com.	A	131.228.63.5
+swpr302.ntc.nokia.com.	A	131.228.63.6
+estec01nok.ntc.nokia.com.	A	131.228.51.24
+lash43.ntc.nokia.com.	A	131.228.127.70
+swpr303.ntc.nokia.com.	A	131.228.63.7
+ntccdp01es.ntc.nokia.com.	A	131.228.118.96
+swpr304.ntc.nokia.com.	A	131.228.63.8
+swpr305.ntc.nokia.com.	A	131.228.63.9
+swpr306.ntc.nokia.com.	A	131.228.63.10
+sagitta.ntc.nokia.com.	A	131.228.154.5
+swpr307.ntc.nokia.com.	A	131.228.63.134
+aksrv03ntc.ntc.nokia.com.	A	172.22.1.147
+swpr308.ntc.nokia.com.	A	131.228.63.135
+ncsbsr27ou.ntc.nokia.com.	A	131.228.209.28
+mosse138.ntc.nokia.com.	A	131.228.159.87
+pictor.ntc.nokia.com.	A	193.166.233.53
+esebh02nok.ntc.nokia.com.	A	131.228.118.151
+volga11.ntc.nokia.com.	A	131.228.159.117
+esmfr04ntc.ntc.nokia.com.	A	131.228.51.69
+trccs09ntc.ntc.nokia.com.	A	131.228.100.189
+lennon.ntc.nokia.com.	A	172.23.79.19
+eslnh01nok.ntc.nokia.com.	A	131.228.51.100
+esfrm23nok.ntc.nokia.com.	A	131.228.99.23
+fslesars04nok.ntc.nokia.com.	A	172.21.141.23
+swscqi01es.ntc.nokia.com.	A	131.228.225.141
+hemcb14ntc.ntc.nokia.com.	A	131.228.100.179
+alli1.ntc.nokia.com.	A	131.228.166.231
+hedbs08ntc.ntc.nokia.com.	A	172.21.6.105
+upsws2840.ntc.nokia.com.	A	172.21.95.42
+cdp05ws.ntc.nokia.com.	A	131.228.51.107
+castor.ntc.nokia.com.	A	131.228.134.120
+eslnh03nok.ntc.nokia.com.	A	131.228.51.58
+penelope.ntc.nokia.com.	A	131.228.134.2
+esfrm25nok.ntc.nokia.com.	A	172.21.131.35
+vanerix.ntc.nokia.com.	A	131.228.130.235
+ntcit-noc1.ntc.nokia.com.	A	131.228.229.184
+esars01nok.ntc.nokia.com.	A	131.228.118.114
+dragon.ntc.nokia.com.	A	131.228.154.26
+espdc01nmp.ntc.nokia.com.	A	131.228.118.40
+esvmsing2.ntc.nokia.com.	A	131.228.68.56
+ntcucd03he.ntc.nokia.com.	A	131.228.229.58
+ouftp01nok.ntc.nokia.com.	A	172.23.78.40
+esvmsing3.ntc.nokia.com.	A	131.228.68.57
+luosto.ntc.nokia.com.	A	131.228.100.140
+rmt-test.ntc.nokia.com.	A	172.21.141.27
+sundqvist.ntc.nokia.com.	A	131.228.51.74
+aklns01t.ntc.nokia.com.	A	131.228.100.158
+conan.ntc.nokia.com.	A	131.228.183.174
+ntcmls01es.ntc.nokia.com.	A	131.228.51.39
+esebh06nok.ntc.nokia.com.	A	131.228.118.154
+bsaxp.ntc.nokia.com.	A	131.228.166.230
+esmfr08ntc.ntc.nokia.com.	A	131.228.51.164
+ntcilo-pcmon.ntc.nokia.com.	A	131.228.229.39
+NHDAD150.ntc.nokia.com.	A	192.100.116.150
+eslns01t.ntc.nokia.com.	A	131.228.68.29
+ntcite25es.ntc.nokia.com.	A	172.21.140.100
+NHDAD151.ntc.nokia.com.	A	192.100.116.151
+porvoo.ntc.nokia.com.	A	131.228.32.140
+escda01.ntc.nokia.com.	A	131.228.51.87
+esfrm27nok.ntc.nokia.com.	A	131.228.99.21
+NHDAD152.ntc.nokia.com.	A	192.100.116.152
+estdt01nok.ntc.nokia.com.	A	131.228.51.27
+jksrv02nok.ntc.nokia.com.	A	131.228.100.183
+esdlg01ntc.ntc.nokia.com.	A	131.228.199.89
+ntcedi.ntc.nokia.com.	A	131.228.118.29
+oubdc01ntc.ntc.nokia.com.	A	131.228.162.45
+eslns01m.nokia.com. 	A	131.228.20.50
+saecppq11.nokia.com.	A	147.243.10.36
+tradepoint.nokia.com.	A	208.197.4.75
+www.tradepoint.nokia.com.	A	208.197.4.75
+saecppq12.nokia.com.	A	147.243.10.37
+nds.nokia.com.      	NS	ns.nokia.com.
+nds.nokia.com.      	NS	ns2.nokia.com.
+nds.nokia.com.      	NS	nsda.ext.nokia.com.
+nsda.ext.nokia.com. 	A	63.78.179.195
+nds.nokia.com.      	NS	nshk.ext.nokia.com.
+nshk.ext.nokia.com. 	A	210.176.199.195
+saec-nokiap02ca.nokia.com.	A	192.100.116.58
+developer.nokia.com.	CNAME	forum.nokia.com.
+cndoc1.nokia.com.   	A	213.138.147.150
+cndoc1.nokia.com.   	A	213.138.147.151
+cndoc1.nokia.com.   	MX	1 cnmail1.edelkey.net.
+cndoc1.nokia.com.   	MX	1 cnmail2.edelkey.net.
+safw01.nokia.com.   	A	194.41.21.1
+safw01.nokia.com.   	MX	0 mgw.nokia.com.
+saec-noki02nat.nokia.com.	A	192.100.116.249
+bolns02m.nokia.com. 	A	131.228.100.167
+escce01.nokia.com.  	A	192.100.102.145
+elearning.nokia.com.	A	192.100.102.33
+daeappgwq05.nokia.com.	A	147.243.130.17
+tac.nokia.com.      	NS	ns.tac.nokia.com.
+ns.tac.nokia.com.   	A	209.167.190.2
+ns2.nokia.com.      	A	131.228.20.20
+ns2.nokia.com.      	MX	0 mgw.nokia.com.
+sakampa-inetrtr01.nokia.com.	A	192.100.116.222
+ns3.nokia.com.      	A	147.243.192.4
+www.mobilecity.nokia.com.	A	62.61.88.134
+ns4.nokia.com.      	A	147.243.192.5
+www.admin-brokers.nokia.com.	A	207.87.14.211
+es-partvpngw01.nokia.com.	A	192.100.124.67
+ns5.nokia.com.      	A	147.243.128.31
+ns6.nokia.com.      	A	147.243.128.32
+saeappgw06.nokia.com.	A	147.243.2.37
+acce.nokia.com.     	A	192.100.124.221
+nrcpd01.nokia.com.  	A	131.228.7.20
+nrcpd01.nokia.com.  	MX	0 mgw.nokia.com.
+xesife001.nokia.com.	A	192.100.121.15
+nsx10.nokia.com.    	CNAME	ns.nokia.com.
+upspd01.nokia.com.  	CNAME	ns.nokia.com.
+puppu.nokia.com.    	NS	ns.nokia.com.
+nsx11.nokia.com.    	CNAME	ns2.nokia.com.
+corporates.nokia.com.	A	195.212.37.111
+www.corporates.nokia.com.	A	195.212.37.111
+urgext.nokia.com.   	A	192.100.102.21
+www.urgext.nokia.com.	A	192.100.102.21
+eshostel01.nokia.com.	A	194.41.17.11
+eshostel01.nokia.com.	A	194.41.17.12
+saec-forump02ca.nokia.com.	A	192.100.116.56
+nsx13.nokia.com.    	A	192.100.121.20
+nokiagw.nokia.com.  	A	192.100.124.26
+nokiagw.nokia.com.  	MX	0 mgw.nokia.com.
+schwarz.nokia.com.  	A	131.228.100.28
+saec-nokiap04ca.nokia.com.	A	192.100.116.60
+nsx14.nokia.com.    	A	131.228.20.35
+events.nokia.com.   	A	131.228.7.40
+events.nokia.com.   	MX	0 mgw.nokia.com.
+www.events.nokia.com.	A	131.228.7.40
+www.events.nokia.com.	MX	0 mgw.nokia.com.
+www.trainingsupplier.nokia.com.	A	147.243.8.135
+ns10.nokia.com.     	A	131.228.6.229
+ns10.nokia.com.     	MX	0 mgw.nokia.com.
+esprx08x.nokia.com. 	A	192.100.124.200
+ns11.nokia.com.     	A	131.228.6.230
+ns11.nokia.com.     	MX	0 mgw.nokia.com.
+pecos.nokia.com.    	A	192.100.116.87
+sw.nokia.com.       	A	195.255.249.25
+saeappgwq05.nokia.com.	A	147.243.2.7
+ns12.nokia.com.     	A	131.228.6.221
+ns12.nokia.com.     	MX	0 mgw.nokia.com.
+ptsqa.nokia.com.    	A	192.100.116.87
+esext02.nokia.com.  	A	194.41.17.12
+saesrs01.nokia.com. 	A	147.243.2.100
+ndsqa.nokia.com.    	A	147.243.8.151
+nds1.ndsqa.nokia.com.	CNAME	nds1.ndsqa.nokia.com.c.footprint.net.
+softwaremarket.nokia.com.	CNAME	www.softwaremarket.nokia.com.
+www.softwaremarket.nokia.com.	A	208.197.4.156
+www.nctc.nokia.com. 	A	62.65.44.229
+www.isp.nokia.com.  	CNAME	dev.forum.nokia.com.
+www.euroshop.nokia.com.	A	131.228.7.54
+new.euroshop.nokia.com.	A	131.228.7.54
+esprx145x.nokia.com.	A	192.100.124.197
+sunset.nokia.com.   	A	131.228.7.23
+sunset.nokia.com.   	MX	0 mgw.nokia.com.
+saempgwq01.nokia.com.	A	147.243.10.20
+esext07.nokia.com.  	A	194.41.17.11
+mialserver.nokia.com.	A	131.228.100.86
+saempgwq02.nokia.com.	A	147.243.10.21
+esprx09x.nokia.com. 	A	192.100.124.201
+www.democopla.nokia.com.	A	192.100.102.13
+www.nvo.nokia.com.  	CNAME	hesrv01nvo.research.nokia.com.
+bulns02t.nokia.com. 	A	131.228.100.166
+forum-cms.nokia.com.	A	131.228.7.14
+forum-cms.nokia.com.	MX	0 mgw.nokia.com.
+www.copla.nokia.com.	A	192.100.102.11
+poledouris.nokia.com.	A	131.228.7.32
+poledouris.nokia.com.	MX	0 mgw.nokia.com.
+saec-nokiaq02ca.nokia.com.	A	192.100.116.46
+news1.nokia.com.    	A	131.228.6.98
+news1.nokia.com.    	MX	0 mgw.nokia.com.
+wb.nokia.com.       	A	147.243.3.142
+meeting-esstx01.nokia.com.	A	192.100.121.28
+forum-dev.nokia.com.	A	131.228.7.89
+news2.nokia.com.    	A	131.228.6.99
+news2.nokia.com.    	MX	0 mgw.nokia.com.
+www-forum1-vir.nokia.com.	A	131.228.7.67
+www-forum1-vir.nokia.com.	MX	0 mgw.nokia.com.
+integrationsupplier.nokia.com.	A	147.243.8.142
+cdn.integrationsupplier.nokia.com.	CNAME	www.integrationsupplier.nokia.com.
+www.integrationsupplier.nokia.com.	A	147.243.8.142
+producthelp.nokia.com.	A	192.100.102.155
+nolqacdn.nokia.com. 	A	147.243.8.156
+dawwwgw01x.nokia.com.	A	208.242.36.101
+dawwwgw01x.nokia.com.	MX	0 mgw.nokia.com.
+saeappgwq05-alt.nokia.com.	A	147.243.2.8
+socks01.nokia.com.  	A	192.100.102.10
+saec-featurep01ca.nokia.com.	A	192.100.116.51
+saepnexp01.nokia.com.	A	147.243.5.10
+nat-gw.nokia.com.   	A	192.100.115.2
+uaprof.nokia.com.   	CNAME	nds1.nds.nokia.com.
+cdn.qasupplier.nokia.com.	CNAME	www.qasupplier.nokia.com.
+www.qasupplier.nokia.com.	A	147.243.8.132
+saepnexp02.nokia.com.	A	147.243.5.11
+saects04.nokia.com. 	A	147.243.10.165
+*.apac.nokia.com.   	MX	0 mgw-x1.nokia.com.
+*.apac.nokia.com.   	MX	0 mgw-x2.nokia.com.
+*.apac.nokia.com.   	MX	0 mgw-x3.nokia.com.
+*.apac.nokia.com.   	MX	0 mgw-x4.nokia.com.
+minna.wgc.apac.nokia.com.	A	192.100.103.89
+saects05.nokia.com. 	A	147.243.10.166
+saec-nokiabup02ca.nokia.com.	A	192.100.116.62
+saects06.nokia.com. 	A	147.243.1.165
+secure.nokia.com.   	A	147.243.3.74
+rctool.nokia.com.   	A	192.100.102.134
+home.nokia.com.     	A	213.179.3.35
+apps.home.nokia.com.	A	213.179.3.20
+db.home.nokia.com.  	A	213.179.3.19
+nhc.home.nokia.com. 	A	213.179.3.51
+www.home.nokia.com. 	A	213.179.3.35
+install.home.nokia.com.	A	213.179.3.52
+chat.home.nokia.com.	A	213.179.3.51
+v5.home.nokia.com.  	A	213.179.3.35
+noltest2cdn.nokia.com.	A	192.100.116.128
+smc.nokia.com.      	A	192.100.104.54
+saects07.nokia.com. 	A	147.243.1.166
+ext.nokia.com.      	NS	ns.nokia.com.
+ext.nokia.com.      	NS	ns2.nokia.com.
+ext.nokia.com.      	NS	nsda.ext.nokia.com.
+nsda.ext.nokia.com. 	A	63.78.179.195
+ext.nokia.com.      	NS	nshk.ext.nokia.com.
+nshk.ext.nokia.com. 	A	210.176.199.195
+online.nokia.com.   	NS	ns.nokia.com.
+online.nokia.com.   	NS	ns2.nokia.com.
+online.nokia.com.   	NS	nsda.ext.nokia.com.
+nsda.ext.nokia.com. 	A	63.78.179.195
+online.nokia.com.   	NS	nshk.ext.nokia.com.
+nshk.ext.nokia.com. 	A	210.176.199.195
+devwww.dsl.nokia.com.	A	205.226.5.77
+www.nwr.nokia.com.  	CNAME	www.nokia.com.
+devwww.nwr.nokia.com.	A	205.226.5.77
+portal.medianet.nokia.com.	A	195.238.217.35
+www.medianet.nokia.com.	A	195.238.217.35
+esloc03nok.nokia.com.	A	131.228.100.117
+esext10nok.nokia.com.	A	192.100.102.82
+daeappgwq05-alt.nokia.com.	A	147.243.130.18
+esnat01x.nokia.com. 	A	192.100.124.27
+v6forum.nokia.com.  	A	147.243.3.71
+saefs01.nokia.com.  	A	192.100.102.67
+ftp.webshield.nokia.com.	CNAME	webshield.iprg.nokia.com.
+saec-nokiaq04ca.nokia.com.	A	192.100.116.48
+competence-evaluation.nokia.com.	CNAME	www.digitussurveys.com.
+sugarbowl.nokia.com.	A	209.67.94.89
+www.sugarbowl.nokia.com.	A	209.67.94.89
+saec-nokiafip01ca.nokia.com.	A	192.100.116.53
+mlab.nokia.com.     	NS	mambo.mlab.nokia.com.
+mambo.mlab.nokia.com.	A	64.215.217.162
+mlab.nokia.com.     	NS	milius.mlab.nokia.com.
+milius.mlab.nokia.com.	A	203.35.64.99
+connecting.partnernet.nokia.com.	A	131.228.51.128
+partners2.nokia.com.	A	192.100.102.101
+partners2.nokia.com.	MX	0 mgw.nokia.com.
+attwap.nokia.com.   	A	66.77.83.18
+cdn.testingsupplier.nokia.com.	A	147.243.8.136
+www.testingsupplier.nokia.com.	A	147.243.8.136
+nds2.ir.nokia.com.  	CNAME	nds2.ir.nokia.speedera.net.
+nds2.n-gage.nokia.com.	CNAME	nds2.n-gage.nokia.speedera.net.
+ncscst.nokia.com.   	NS	takku.ncscst.nokia.com.
+takku.ncscst.nokia.com.	A	193.166.232.100
+ncscst.nokia.com.   	NS	ns.nokia.com.
+dsbe00.nokia.com.   	A	192.100.104.53
+saecppp11.nokia.com.	A	147.243.1.36
+telenordia-gw.nokia.com.	A	192.100.115.1
+dsbe01.nokia.com.   	CNAME	mvdsws01.iprg.nokia.com.
+saecppp12.nokia.com.	A	147.243.1.37
+saeprxq01.nokia.com.	A	147.243.10.132
+research.nokia.com. 	NS	ns.nokia.com.
+research.nokia.com. 	NS	ns2.nokia.com.
+shop.nokia.com.     	CNAME	sawww03nmp.nokia.com.
+hulns02t.nokia.com. 	A	131.228.100.168
+saec-nokiap01ca.nokia.com.	A	192.100.116.57
+sawww03nmp.nokia.com.	A	192.100.102.201
+www.nokia.com.      	MX	0 mgw.nokia.com.
+www.nokia.com.      	A	147.243.3.73
+umdemo.nokia.com.   	NS	ns.nokia.com.
+umdemo.nokia.com.   	NS	ns2.nokia.com.
+umdemo.nokia.com.   	NS	nsda.ext.nokia.com.
+nsda.ext.nokia.com. 	A	63.78.179.195
+umdemo.nokia.com.   	NS	nshk.ext.nokia.com.
+nshk.ext.nokia.com. 	A	210.176.199.195
+ftpgw.nokia.com.    	CNAME	hpx01it.ntc.nokia.com.
+press.nokia.com.    	A	62.70.39.133
+wwwgw3-tnx.nokia.com.	A	192.100.115.27
+exchange.nokia.com. 	MX	10 esebh01nok.ntc.nokia.com.
+exchange.nokia.com. 	MX	10 esebh02nok.ntc.nokia.com.
+exchange.nokia.com. 	MX	10 esebh03nok.ntc.nokia.com.
+exchange.nokia.com. 	MX	20 mgw.nokia.com.
+dnstest.nokia.com.  	A	192.168.255.16
+www-b.nokia.com.    	A	131.228.7.10
+www-b.nokia.com.    	MX	0 mgw.nokia.com.
+saempq01.nokia.com. 	A	147.243.10.22
+waponline.nokia.com.	A	131.228.7.39
+waponline.nokia.com.	MX	0 mgw.nokia.com.
+www-c.nokia.com.    	A	131.228.7.17
+www-c.nokia.com.    	MX	0 mgw.nokia.com.
+suplier.nokia.com.  	A	10.40.5.23
+saempq02.nokia.com. 	A	147.243.10.23
+nokiacomdev.nokia.com.	A	131.228.7.18
+nokiacomdev.nokia.com.	MX	0 mgw.nokia.com.
+www-d.nokia.com.    	A	131.228.7.15
+www-d.nokia.com.    	MX	0 mgw.nokia.com.
+club.nokia.com.     	A	213.138.149.14
+mobileam.club.nokia.com.	A	213.138.149.59
+nds.club.nokia.com. 	CNAME	nds.club.nokia.com.c.footprint.net.
+demo.club.nokia.com.	A	193.64.92.54
+www.sync.club.nokia.com.	A	195.134.231.24
+mobileap.club.nokia.com.	A	213.138.149.58
+img.club.nokia.com. 	A	213.138.149.68
+da.photozone.club.nokia.com.	A	216.239.208.247
+home2.da.photozone.club.nokia.com.	A	216.239.208.242
+home1.da.photozone.club.nokia.com.	A	216.239.208.253
+fr.photozone.club.nokia.com.	A	216.239.208.239
+home2.fr.photozone.club.nokia.com.	A	216.239.208.220
+home1.fr.photozone.club.nokia.com.	A	216.239.208.219
+ipro1.photozone.club.nokia.com.	A	216.239.208.215
+fi.photozone.club.nokia.com.	A	216.239.208.237
+home2.fi.photozone.club.nokia.com.	A	216.239.208.218
+home1.fi.photozone.club.nokia.com.	A	216.239.208.217
+tr.photozone.club.nokia.com.	A	216.31.207.52
+home2.tr.photozone.club.nokia.com.	A	216.31.207.61
+home1.tr.photozone.club.nokia.com.	A	216.31.207.45
+nl.photozone.club.nokia.com.	A	216.239.208.248
+home2.nl.photozone.club.nokia.com.	A	216.239.208.243
+home1.nl.photozone.club.nokia.com.	A	216.239.208.254
+ipro2.photozone.club.nokia.com.	A	216.239.208.216
+th.photozone.club.nokia.com.	A	216.31.207.58
+de.photozone.club.nokia.com.	A	216.239.208.236
+home2.de.photozone.club.nokia.com.	A	216.239.208.229
+home1.de.photozone.club.nokia.com.	A	216.239.208.225
+it.photozone.club.nokia.com.	A	216.239.208.240
+home2.it.photozone.club.nokia.com.	A	216.239.208.233
+home1.it.photozone.club.nokia.com.	A	216.239.208.231
+es.photozone.club.nokia.com.	A	216.239.208.251
+home2.es.photozone.club.nokia.com.	A	216.239.208.244
+home1.es.photozone.club.nokia.com.	A	216.239.208.234
+pt.photozone.club.nokia.com.	A	216.31.207.49
+home2.pt.photozone.club.nokia.com.	A	216.31.207.59
+home1.pt.photozone.club.nokia.com.	A	216.31.207.43
+no.photozone.club.nokia.com.	A	216.239.208.213
+home2.no.photozone.club.nokia.com.	A	216.239.208.241
+home1.no.photozone.club.nokia.com.	A	216.239.208.252
+zh.photozone.club.nokia.com.	A	216.31.207.57
+tw.photozone.club.nokia.com.	A	216.31.207.56
+zt.photozone.club.nokia.com.	A	216.239.208.235
+home2.zt.photozone.club.nokia.com.	A	216.239.208.226
+home1.zt.photozone.club.nokia.com.	A	216.239.208.224
+hu.photozone.club.nokia.com.	A	216.31.207.48
+home2.hu.photozone.club.nokia.com.	A	216.31.207.57
+home1.hu.photozone.club.nokia.com.	A	216.31.207.41
+pl.photozone.club.nokia.com.	A	216.31.207.50
+home2.pl.photozone.club.nokia.com.	A	216.31.207.58
+home1.pl.photozone.club.nokia.com.	A	216.31.207.42
+el.photozone.club.nokia.com.	A	216.31.207.53
+home2.el.photozone.club.nokia.com.	A	216.31.207.62
+home1.el.photozone.club.nokia.com.	A	216.31.207.46
+sv.photozone.club.nokia.com.	A	216.239.208.238
+home2.sv.photozone.club.nokia.com.	A	216.239.208.232
+home1.sv.photozone.club.nokia.com.	A	216.239.208.230
+sk.photozone.club.nokia.com.	A	216.31.207.51
+home2.sk.photozone.club.nokia.com.	A	216.31.207.60
+home1.sk.photozone.club.nokia.com.	A	216.31.207.44
+hk.photozone.club.nokia.com.	A	216.31.207.40
+hkzh.beta.photozone.club.nokia.com.	A	216.31.193.84
+huhu.beta.photozone.club.nokia.com.	A	216.31.193.84
+hken.beta.photozone.club.nokia.com.	A	216.31.193.84
+gben.beta.photozone.club.nokia.com.	A	216.31.193.84
+zh.beta.photozone.club.nokia.com.	A	216.31.193.84
+hu.beta.photozone.club.nokia.com.	A	216.31.193.84
+cnzh.beta.photozone.club.nokia.com.	A	216.31.193.84
+en.beta.photozone.club.nokia.com.	A	216.31.193.84
+en.photozone.club.nokia.com.	A	216.239.208.235
+home2.en.photozone.club.nokia.com.	A	216.239.208.226
+home1.en.photozone.club.nokia.com.	A	216.239.208.224
+id.photozone.club.nokia.com.	A	216.31.207.61
+cs.photozone.club.nokia.com.	A	216.31.207.47
+home2.cs.photozone.club.nokia.com.	A	216.31.207.56
+home1.cs.photozone.club.nokia.com.	A	216.31.207.40
+data.club.nokia.com.	A	213.138.149.117
+www.club.nokia.com. 	A	213.138.149.14
+www.qatre.club.nokia.com.	A	195.134.231.25
+image.club.nokia.com.	A	213.138.149.110
+nds1.image.club.nokia.com.	CNAME	nds1.image.club.nokia.com.c.footprint.net.
+my.club.nokia.com.  	A	213.138.149.54
+unsubscribe.club.nokia.com.	A	195.22.72.21
+mobile.club.nokia.com.	A	213.138.149.55
+ftp-nrc.nokia.com.  	CNAME	www-nrc.nokia.com.
+tradmin2000.nokia.com.	A	131.228.100.204
+qanols.nokia.com.   	CNAME	b2bqa.online.nokia.com.
+noknic.nokia.com.   	A	131.228.6.10
+noknic.nokia.com.   	MX	0 mgw.nokia.com.
+www-e.nokia.com.    	A	131.228.7.33
+www-e.nokia.com.    	MX	0 mgw.nokia.com.
+ousw81.nokia.com.   	A	131.228.100.82
+nolprodcdn.nokia.com.	A	147.243.3.136
+saec-nokiaq06ca.nokia.com.	A	192.100.116.50
+daeappgw06.nokia.com.	A	147.243.2.37
+www-f.nokia.com.    	A	131.228.7.54
+www-f.nokia.com.    	MX	0 mgw.nokia.com.
+ousw82.nokia.com.   	A	131.228.100.83
+nds1.forumtest.nokia.com.	CNAME	nds1.forumtest.nokia.com.c.footprint.net.
+loopback.nokia.com. 	A	127.0.0.1
+ousw83.nokia.com.   	A	131.228.100.84
+newsecure.nokia.com.	A	192.100.116.117
+mgw-x1.nokia.com.   	A	131.228.20.21
+mgw-x1.nokia.com.   	MX	0 mgw-x1.nokia.com.
+mgw-x1.nokia.com.   	MX	10 mgw-x2.nokia.com.
+mgw-x1.nokia.com.   	MX	10 mgw-x3.nokia.com.
+mgw-x1.nokia.com.   	MX	10 mgw-x4.nokia.com.
+www.industryanalyst.nokia.com.	A	62.176.62.31
+ousw84.nokia.com.   	A	131.228.100.85
+mgw-x2.nokia.com.   	A	131.228.20.22
+mgw-x2.nokia.com.   	MX	0 mgw-x2.nokia.com.
+mgw-x2.nokia.com.   	MX	10 mgw-x3.nokia.com.
+mgw-x2.nokia.com.   	MX	10 mgw-x4.nokia.com.
+mgw-x2.nokia.com.   	MX	10 mgw-x1.nokia.com.
+eslne01m.nokia.com. 	A	131.228.20.240
+otc.nokia.com.      	A	203.35.64.212
+mgw-x3.nokia.com.   	A	131.228.20.26
+mgw-x3.nokia.com.   	MX	0 mgw-x3.nokia.com.
+mgw-x3.nokia.com.   	MX	10 mgw-x4.nokia.com.
+mgw-x3.nokia.com.   	MX	10 mgw-x1.nokia.com.
+mgw-x3.nokia.com.   	MX	10 mgw-x2.nokia.com.
+www.ventures.nokia.com.	CNAME	hesrv01nvo.research.nokia.com.
+nolcdn.nokia.com.   	A	147.243.3.133
+nols.nokia.com.     	CNAME	online.nokia.com.
+esqps02x.nokia.com. 	A	192.100.121.24
+saec-forump01ca.nokia.com.	A	192.100.116.55
+careers.nokia.com.  	A	192.100.121.59
+www.careers.nokia.com.	A	192.100.121.59
+mgw-x4.nokia.com.   	A	131.228.20.27
+mgw-x4.nokia.com.   	MX	0 mgw-x4.nokia.com.
+mgw-x4.nokia.com.   	MX	10 mgw-x1.nokia.com.
+mgw-x4.nokia.com.   	MX	10 mgw-x2.nokia.com.
+mgw-x4.nokia.com.   	MX	10 mgw-x3.nokia.com.
+ftp.nokia.com.      	A	131.228.7.12
+ftp.nokia.com.      	MX	0 mgw.nokia.com.
+saec-nokiap03ca.nokia.com.	A	192.100.116.59
+me.nokia.com.       	CNAME	loopback.nokia.com.
+www.coplaint.nokia.com.	A	192.100.102.45
+sshgw01.nokia.com.  	A	131.228.6.25
+sshgw01.nokia.com.  	MX	0 mgw.nokia.com.
+cips.nokia.com.     	NS	ns1.cips.nokia.com.
+ns1.cips.nokia.com. 	A	216.47.113.10
+cips.nokia.com.     	NS	ns2.cips.nokia.com.
+ns2.cips.nokia.com. 	A	216.47.113.43
+nmp.nokia.com.      	MX	0 mgw-x1.nokia.com.
+nmp.nokia.com.      	MX	0 mgw-x2.nokia.com.
+nmp.nokia.com.      	MX	0 mgw-x3.nokia.com.
+nmp.nokia.com.      	MX	0 mgw-x4.nokia.com.
+manse.nmp.nokia.com.	A	127.0.0.1
+toams01nmp.nmp.nokia.com.	A	210.81.72.162
+trewww.nmp.nokia.com.	A	131.228.21.44
+nmpx.nmp.nokia.com. 	A	131.228.108.100
+nmpx.nmp.nokia.com. 	MX	0 mgw.nokia.com.
+nmp4.sd.nmp.nokia.com.	A	206.103.171.130
+nmp4.sd.nmp.nokia.com.	MX	0 mgw.nokia.com.
+sdwwwgw01.sd.nmp.nokia.com.	A	206.103.171.131
+sdwwwgw01.sd.nmp.nokia.com.	MX	0 mgw.nokia.com.
+safrm11nok.nmp.nokia.com.	A	131.228.193.21
+safarm01.nmp.nokia.com.	A	131.228.193.11
+sapdf01.nmp.nokia.com.	A	131.228.244.30
+nmp02.nmp.nokia.com.	A	131.228.240.199
+nmp02.nmp.nokia.com.	MX	0 mgw.nokia.com.
+toperl.nmp.nokia.com.	A	210.81.72.178
+safrm14nok.nmp.nokia.com.	A	131.228.193.24
+*.nmp.nokia.com.    	MX	0 mgw-x1.nokia.com.
+*.nmp.nokia.com.    	MX	0 mgw-x2.nokia.com.
+*.nmp.nokia.com.    	MX	0 mgw-x3.nokia.com.
+*.nmp.nokia.com.    	MX	0 mgw-x4.nokia.com.
+tofw01.nmp.nokia.com.	A	210.81.72.193
+esnh12320.nokia.com.	A	192.100.123.20
+nokia.com.          	SOA	ns.nokia.com. hostmaster.nokia.com. (
+			34206	;serial (version)
+			7200	;refresh period (2 hours)
+			3600	;retry interval (1 hour)
+			1209600	;expire time (2 weeks)
+			86400	;default ttl (1 day)
+			)

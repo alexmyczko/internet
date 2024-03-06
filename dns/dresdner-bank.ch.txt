@@ -1,0 +1,30 @@
+dresdner-bank.ch.   	SOA	dns1.dresdner-bank.ch. admin.dresdner-bank.ch. (
+			2002103103	;serial (version)
+			10800	;refresh period (3 hours)
+			3600	;retry interval (1 hour)
+			604800	;expire time (1 week)
+			86400	;default ttl (1 day)
+			)
+dresdner-bank.ch.   	NS	dns1.dresdner-bank.ch.
+dresdner-bank.ch.   	NS	ns1.ip-plus.net.
+dresdner-bank.ch.   	MX	1 eagleHA.dresdner-bank.ch.
+dresdner-bank.ch.   	MX	10 smtp.ip-plus.net.
+dns1.dresdner-bank.ch.	A	194.209.128.193
+terminal.dresdner-bank.ch.	A	171.1.200.91
+eagleHA.dresdner-bank.ch.	A	164.128.46.70
+gw220.dresdner-bank.ch.	A	194.209.128.220
+w3.dresdner-bank.ch.	CNAME	www.dresdner-bank.ch.
+gw221.dresdner-bank.ch.	A	194.209.128.221
+host67.dresdner-bank.ch.	A	164.128.46.67
+gw222.dresdner-bank.ch.	A	194.209.128.222
+mail.dresdner-bank.ch.	A	164.128.46.69
+web.dresdner-bank.ch.	CNAME	www.dresdner-bank.ch.
+www.dresdner-bank.ch.	A	193.194.7.133
+terminal1.dresdner-bank.ch.	A	171.1.64.83
+dresdner-bank.ch.   	SOA	dns1.dresdner-bank.ch. admin.dresdner-bank.ch. (
+			2002103103	;serial (version)
+			10800	;refresh period (3 hours)
+			3600	;retry interval (1 hour)
+			604800	;expire time (1 week)
+			86400	;default ttl (1 day)
+			)

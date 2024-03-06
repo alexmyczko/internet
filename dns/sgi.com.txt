@@ -1,0 +1,304 @@
+sgi.com.            	SOA	ns2.sgi.com. named-mgr.sgi.com. (
+			2003051900	;serial (version)
+			7200	;refresh period (2 hours)
+			3600	;retry interval (1 hour)
+			1209600	;expire time (2 weeks)
+			7200	;default ttl (2 hours)
+			)
+sgi.com.            	NS	ns2.sgi.com.
+sgi.com.            	NS	beta.xerox.com.
+sgi.com.            	NS	edns1.sgi.com.
+sgi.com.            	NS	edns2.sgi.com.
+sgi.com.            	A	192.48.159.40
+sgi.com.            	HINFO	"SGI-IRIS-Challenge"	"IRIX"
+sgi.com.            	MX	5 mx1.sgi.com.
+sgi.com.            	MX	5 mx2.sgi.com.
+sgi.com.            	MX	5 mx5.sgi.com.
+sgi.com.            	MX	5 mx6.sgi.com.
+#patches-europe.sgi.com.	A	193.242.86.33
+#support-europe.sgi.com.	CNAME	patches-europe.sgi.com.
+#www-europe.sgi.com.	A	193.242.86.34
+*.sgi.com.          	MX	5 mx1.sgi.com.
+*.sgi.com.          	MX	5 mx2.sgi.com.
+*.sgi.com.          	MX	5 mx5.sgi.com.
+*.sgi.com.          	MX	5 mx6.sgi.com.
+access.sgi.com.     	A	192.48.159.42
+americaschallenge.sgi.com.	A	204.94.214.5
+anguilla.sgi.com.   	A	204.94.214.15
+apps.sgi.com.       	CNAME	apps2.sgi.com.
+apps1.sgi.com.      	A	192.48.159.32
+apps2.sgi.com.      	A	192.48.159.33
+aw.sgi.com.         	MX	5 mx1.sgi.com.
+aw.sgi.com.         	MX	5 mx2.sgi.com.
+aw.sgi.com.         	MX	5 mx5.sgi.com.
+aw.sgi.com.         	MX	5 mx6.sgi.com.
+*.aw.sgi.com.       	MX	5 mx1.sgi.com.
+*.aw.sgi.com.       	MX	5 mx2.sgi.com.
+*.aw.sgi.com.       	MX	5 mx5.sgi.com.
+*.aw.sgi.com.       	MX	5 mx6.sgi.com.
+ftp.aw.sgi.com.     	A	142.148.105.6
+www.aw.sgi.com.     	A	142.148.105.3
+azazoth.sgi.com.    	A	192.82.208.4
+b20dco-crescendo1.sgi.com.	A	204.94.214.18
+b40-13-50001-208.sgi.com.	A	192.82.208.42
+b40-22-29241-208.sgi.com.	A	192.82.208.78
+b41-21-50001-208.sgi.com.	A	192.82.208.208
+b41dco-ext214-crescendo.sgi.com.	A	204.94.214.38
+bryoni.sgi.com.     	A	204.94.215.104
+bryoni.sgi.com.     	TXT	"i am spam master, hear me suck"
+buy.sgi.com.        	A	216.32.174.25
+catapult-too.sgi.com.	A	204.94.211.44
+cf-vpn1.sgi.com.    	A	192.48.180.9
+cfcafw.sgi.com.     	A	198.149.23.1
+channelcity.sgi.com.	A	192.48.159.24
+channels.sgi.com.   	CNAME	channels2.sgi.com.
+channels1.sgi.com.  	A	192.48.159.36
+channels2.sgi.com.  	A	192.48.159.37
+channels4.sgi.com.  	CNAME	sgics.pcorder.com.
+chicken-noodle.sgi.com.	A	204.94.211.50
+clock.sgi.com.      	CNAME	catapult.sgi.com.sgi.com.
+cnetvpn.sgi.com.    	A	192.82.208.81
+collector.sgi.com.  	A	192.48.159.161
+corsair.sgi.com.    	A	204.94.215.102
+corsair.sgi.com.    	TXT	"inbound MX"
+cosmo.sgi.com.      	CNAME	www.sgi.com.
+www.cosmo.sgi.com.  	CNAME	www.sgi.com.
+dco.sgi.com.        	A	204.94.214.16
+devcon1.sgi.com.    	A	192.48.170.11
+devcon1-too.sgi.com.	A	192.48.170.12
+developer.sgi.com.  	CNAME	www.sgi.com.
+docs.sgi.com.       	CNAME	techpubs.sgi.com.
+download.sgi.com.   	A	192.48.159.212
+drums.sgi.com.      	NS	NS1.SPRINTLINK.NET.
+drums.sgi.com.      	NS	NS2.SPRINTLINK.NET.
+drums.sgi.com.      	NS	NS3.SPRINTLINK.NET.
+eaganfw1.sgi.com.   	A	198.149.7.1
+ed1-klin.sgi.com.   	A	204.94.211.194
+ed120-kline2.sgi.com.	A	204.94.211.198
+edi1-sonic1.sgi.com.	A	204.94.211.202
+edi20-sonic20.sgi.com.	A	204.94.211.206
+edns1.sgi.com.      	A	192.82.208.54
+edns2.sgi.com.      	A	204.94.214.35
+edns3.sgi.com.      	CNAME	ns3.sgi.com.
+elearn.sgi.com.     	CNAME	www.sgi.com.
+els.sgi.com.        	A	192.82.208.13
+els.sgi.com.        	MX	30 els.sgi.com.
+els.sgi.com.        	MX	40 mx1.sgi.com.
+els.sgi.com.        	MX	40 mx2.sgi.com.
+emea-vpn1.sgi.com.  	A	198.149.178.6
+enews.sgi.com.      	CNAME	engrnews.sgi.com.
+enews-too.sgi.com.  	CNAME	catapult.sgi.com.
+engrnews.sgi.com.   	A	204.94.211.43
+epartner.sgi.com.   	A	192.82.208.67
+estore.sgi.com.     	A	204.94.214.31
+ether-sgi.sgi.com.  	A	150.166.76.30
+eugate.sgi.com.     	A	192.48.160.10
+eurosurf1.sgi.com.  	CNAME	patches-europe.sgi.com.
+eurosurf2.sgi.com.  	CNAME	support-europe.sgi.com.
+ex-cmszope.sgi.com. 	A	198.149.51.36
+ex-cmszope1.sgi.com.	A	198.149.51.34
+ex-cmszope2.sgi.com.	A	198.149.51.35
+excalibur.sgi.com.  	A	192.82.208.23
+exlogger.sgi.com.   	A	10.10.1.20
+exlogger.sgi.com.   	MX	10 exlogger.sgi.com.
+external-mail-relay.sgi.com.	CNAME	sgi.com.
+extsw-208-b44.sgi.com.	A	192.82.208.80
+fddi-news.sgi.com.  	A	150.166.90.120
+fddi-sgi.sgi.com.   	A	192.26.80.37
+fddi2-sgi.sgi.com.  	A	192.26.75.18
+ferrari.sgi.com.    	A	192.82.208.12
+freeware.sgi.com.   	A	192.48.159.44
+fs1.sgi.com.        	A	192.82.208.53
+fs2.sgi.com.        	A	204.94.214.34
+ftp.sgi.com.        	A	192.82.208.89
+ftp-europe.sgi.com. 	CNAME	ftp.sgi.com.
+gate-channelcity.sgi.com.	A	204.94.208.4
+gate-fs2.sgi.com.   	A	204.94.214.34
+gate-gccityqc.sgi.com.	A	204.94.208.5
+gate-nit.sgi.com.   	A	204.94.215.20
+gate-patches.sgi.com.	CNAME	supftp.sgi.com.
+gate-sgigate.sgi.com.	A	198.29.75.75
+gate-support.sgi.com.	CNAME	supfolio.sgi.com.
+gateway.sgi.com.    	A	192.82.208.77
+gc-gate-supfolio.sgi.com.	A	206.251.7.66
+gc-gate-supftp.sgi.com.	A	206.251.7.67
+gc-patches.sgi.com. 	CNAME	gc-supftp.sgi.com.
+gc-supfolio.sgi.com.	A	206.251.20.2
+gc-supftp.sgi.com.  	A	206.251.20.3
+gc-support.sgi.com. 	CNAME	gc-supfolio.sgi.com.
+gccityqc.sgi.com.   	A	216.32.174.216
+gs1.sgi.com.        	A	192.82.208.9
+gs2.sgi.com.        	A	192.82.208.10
+gwis.sgi.com.       	A	204.94.214.24
+ha-w1.sgi.com.      	A	192.48.159.53
+ha-w2.sgi.com.      	A	192.48.159.54
+hotmix.sgi.com.     	CNAME	www.sgi.com.
+innovate.sgi.com.   	A	204.94.214.21
+insight.sgi.com.    	A	192.82.208.5
+interact.sgi.com.   	A	204.94.214.3
+internal-news.sgi.com.	CNAME	fddi-news.sgi.com.
+internet-content-filter-mtv.sgi.com.	A	192.82.208.19
+isi-nsr4.sgi.com.   	A	206.251.7.70
+italian-tomato.sgi.com.	A	204.94.211.36
+linux.sgi.com.      	MX	10 oss.sgi.com.
+*.linux.sgi.com.    	MX	10 oss.sgi.com.
+ftp.linux.sgi.com.  	CNAME	oss.sgi.com.
+linus.linux.sgi.com.	CNAME	oss.sgi.com.
+www.linux.sgi.com.  	CNAME	oss.sgi.com.
+linux-xfs.sgi.com.  	CNAME	oss.sgi.com.
+localhost.sgi.com.  	A	127.0.0.1
+luke.sgi.com.       	A	204.94.211.41
+mars.sgi.com.       	A	192.48.159.45
+www.mars.sgi.com.   	CNAME	mars.sgi.com.
+marsa.sgi.com.      	A	206.251.6.3
+marsb.sgi.com.      	A	204.152.166.77
+meow-too.sgi.com.   	A	204.94.211.42
+mineset.sgi.com.    	A	192.48.159.41
+www.mineset.sgi.com.	CNAME	mineset.sgi.com.
+monbox1.sgi.com.    	A	192.48.159.159
+monbox2.sgi.com.    	A	192.48.159.22
+mrouter.sgi.com.    	CNAME	sgi.com.
+mtv-exn-000df-2.sgi.com.	A	192.48.159.60
+mtv-exn-001df-2.sgi.com.	A	192.48.159.61
+mtv-exn-002df-2.sgi.com.	A	192.48.159.62
+mtv-exn-003df-2.sgi.com.	A	192.48.159.63
+mtv-vpn1.sgi.com.   	A	192.48.172.10
+multicast.sgi.com.  	CNAME	catapult.sgi.com.
+mx.sgi.com.         	A	204.94.211.40
+mx-emea.sgi.com.    	A	192.48.160.10
+mx1.sgi.com.        	A	204.94.215.102
+mx2.sgi.com.        	A	192.82.208.95
+mx5.sgi.com.        	A	198.149.18.14
+mx6.sgi.com.        	A	204.94.215.106
+nac.sgi.com.        	A	206.231.18.2
+ksgi.nac.sgi.com.   	A	206.231.18.2
+www.nac.sgi.com.    	A	206.231.18.2
+netpipes.sgi.com.   	A	216.32.174.150
+news.sgi.com.       	A	204.94.214.20
+nextgen.sgi.com.    	A	192.48.170.13
+nextgen-too.sgi.com.	A	192.48.170.14
+nit.sgi.com.        	A	204.94.214.25
+ns2.sgi.com.        	A	204.94.214.19
+ns3.sgi.com.        	A	192.48.160.3
+nsr4.sgi.com.       	CNAME	isi-nsr4.sgi.com.
+o2k-ug.sgi.com.     	CNAME	ferrari.sgi.com.
+oasis.sgi.com.      	CNAME	support.sgi.com.
+odin.sgi.com.       	CNAME	relay.sgi.com.
+old-www-europe.sgi.com.	A	193.242.86.10
+opensource.sgi.com. 	CNAME	oss.sgi.com.
+opensrc.sgi.com.    	CNAME	oss.sgi.com.
+oss.sgi.com.        	A	192.48.159.27
+oss.sgi.com.        	MX	5 oss.sgi.com.
+www.oss.sgi.com.    	CNAME	oss.sgi.com.
+patches.sgi.com.    	A	192.48.159.211
+patches-europe.sgi.com.	CNAME	patches.sgi.com.
+patches-france.sgi.com.	CNAME	patches-europe.sgi.com.
+patches-usa2.sgi.com.	A	206.144.29.32
+pearly.sgi.com.     	A	204.94.211.38
+peter.sgi.com.      	A	204.94.211.33
+peter-enet1.sgi.com.	A	204.94.214.1
+peter-ser0.sgi.com. 	A	144.228.49.26
+peter-ser1.sgi.com. 	A	144.228.49.30
+peter-ser2.sgi.com. 	A	144.228.49.34
+peter-ser3.sgi.com. 	A	144.228.49.38
+pinkmeat.sgi.com.   	CNAME	internet-content-filter.sgi.com.
+polly.sgi.com.      	A	192.82.208.24
+proxy-emea.sgi.com. 	A	192.48.160.5
+proxy-mtv1.sgi.com. 	A	192.82.208.220
+proxy-mtv2.sgi.com. 	A	192.82.208.221
+proxygate.sgi.com.  	A	192.82.208.40
+purgatory.sgi.com.  	A	192.82.208.7
+purgatory-fddi.sgi.com.	A	204.94.211.34
+purgatory-ser0.sgi.com.	A	144.228.41.18
+q.sgi.com.          	A	192.48.168.11
+q-too.sgi.com.      	A	192.48.168.12
+reality.sgi.com.    	CNAME	reality.sgiweb.org.
+relay.sgi.com.      	A	192.26.51.194
+relay.sgi.com.      	A	198.29.75.194
+rj.sgi.com.         	A	192.82.208.96
+rj.sgi.com.         	TXT	"outbound MX"
+rpawireless.sgi.com.	MX	5 sgi01-rpawireless.sgi.com.
+rpawireless.sgi.com.	MX	5 sgi02-rpawireless.sgi.com.
+samba.sgi.com.      	A	192.48.170.15
+samba-2.sgi.com.    	A	192.48.170.16
+search.sgi.com.     	A	192.48.159.46
+sf40.sgi.com.       	A	216.32.174.212
+sgi-echannel.sgi.com.	CNAME	mtv-exn-001df-2.sgi.com.
+sgi-sales.sgi.com.  	CNAME	mtv-exn-000df-2.sgi.com.
+sgi-tchannel.sgi.com.	CNAME	mtv-exn-003df-2.sgi.com.
+sgi-too.sgi.com.    	A	204.94.211.39
+sgi-trilogy.sgi.com.	CNAME	mtv-exn-002df-2.sgi.com.
+sgi-tsales.sgi.com. 	CNAME	mtv-exn-002df-2.sgi.com.
+sgi01-rpawireless.sgi.com.	A	198.149.52.2
+sgi02-rpawireless.sgi.com.	A	198.149.52.3
+sgigate.sgi.com.    	A	204.94.209.1
+sgihub.sgi.com.     	CNAME	relay.sgi.com.
+shell.sgi.com.      	A	192.82.208.88
+shop.sgi.com.       	CNAME	sgishop.pcorder.com.
+showtime.sgi.com.   	NS	ns.showtime.sgi.com.
+ns.showtime.sgi.com.	A	204.94.212.254
+www.si.sgi.com.     	A	204.94.214.2
+smith.sgi.com.      	CNAME	www.si.sgi.com.
+sshcf.sgi.com.      	A	198.149.22.14
+sshgate.sgi.com.    	A	192.82.208.210
+storage.sgi.com.    	CNAME	www.sgi.com.
+supfolio.sgi.com.   	A	204.94.208.2
+supftp.sgi.com.     	A	204.94.208.3
+support.sgi.com.    	A	192.48.159.34
+www.support.sgi.com.	CNAME	support.sgi.com.
+support-europe.sgi.com.	CNAME	support.sgi.com.
+support-france.sgi.com.	CNAME	support-europe.sgi.com.
+support1.sgi.com.   	A	192.48.159.29
+support2.sgi.com.   	A	192.48.159.35
+techpubs.sgi.com.   	A	192.48.159.47
+www.techpubs.sgi.com.	CNAME	techpubs.sgi.com.
+tolkor.sgi.com.     	A	198.149.18.6
+tolkor.sgi.com.     	TXT	"outbound MX"
+toolbox.sgi.com.    	A	192.48.159.43
+tropicana.sgi.com.  	A	204.94.211.35
+vendor.sgi.com.     	A	192.82.208.39
+video.sgi.com.      	A	192.48.159.158
+visitor1.sgi.com.   	A	192.82.208.121
+visitor2.sgi.com.   	A	192.82.208.122
+visitor3.sgi.com.   	A	192.82.208.123
+visual.sgi.com.     	CNAME	www.sgi.com.
+vpn-purgatory.sgi.com.	A	192.48.172.1
+vpn-test1.sgi.com.  	A	192.82.208.8
+vpn1-mgmt.sgi.com.  	A	192.82.208.6
+vrazalla.sgi.com.   	A	192.82.208.95
+vrazalla.sgi.com.   	TXT	"inbound MX"
+vrml.sgi.com.       	CNAME	www.sgi.com.
+w1.sgi.com.         	A	192.48.159.51
+w2.sgi.com.         	A	192.48.159.52
+w2klaptop.sgi.com.  	A	192.48.159.174
+w3.sgi.com.         	A	192.48.159.153
+w4.sgi.com.         	A	192.48.159.154
+w5.sgi.com.         	A	192.48.159.30
+w6.sgi.com.         	A	192.48.159.31
+wankspongle.sgi.com.	A	204.94.215.106
+wankspongle.sgi.com.	TXT	"inbound MX"
+wc.sgi.com.         	A	192.82.208.3
+www.sgi.com.        	A	192.48.159.40
+www.sgi.com.        	MX	5 mx1.sgi.com.
+www.sgi.com.        	MX	5 mx2.sgi.com.
+www.sgi.com.        	MX	5 mx5.sgi.com.
+www.sgi.com.        	MX	5 mx6.sgi.com.
+www-australia.sgi.com.	CNAME	moora.sgi.com.au.
+www-elecstore.sgi.com.	A	204.94.214.14
+www-europartner.sgi.com.	A	194.151.12.33
+www-europe.sgi.com. 	CNAME	www.sgi.com.
+xni174.sgi.com.     	A	192.48.159.160
+xni174.sgi.com.     	A	216.32.174.160
+xni208.sgi.com.     	A	192.82.208.44
+yog-sothoth.sgi.com.	A	192.48.160.11
+zok.sgi.com.        	A	204.94.215.101
+zok.sgi.com.        	TXT	"outbound MX"
+zomba.sgi.com.      	A	198.149.18.14
+zomba.sgi.com.      	TXT	"inbound MX"
+sgi.com.            	SOA	ns2.sgi.com. named-mgr.sgi.com. (
+			2003051900	;serial (version)
+			7200	;refresh period (2 hours)
+			3600	;retry interval (1 hour)
+			1209600	;expire time (2 weeks)
+			7200	;default ttl (2 hours)
+			)

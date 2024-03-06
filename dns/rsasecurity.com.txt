@@ -1,0 +1,73 @@
+rsasecurity.com.    	SOA	fawlty.rsasecurity.com. rsa-tech.rsasecurity.com. (
+			1030615171	;serial (version)
+			43200	;refresh period (12 hours)
+			3600	;retry interval (1 hour)
+			2678400	;expire time (4 weeks, 3 days)
+			3600	;default ttl (1 hour)
+			)
+rsasecurity.com.    	MX	10 mail.rsasecurity.com.
+rsasecurity.com.    	MX	30 mail1.x509.com.
+rsasecurity.com.    	A	204.167.114.22
+rsasecurity.com.    	NS	farpoint.rsasecurity.com.
+rsasecurity.com.    	NS	ns1.rsasecurity.com.
+rsasecurity.com.    	NS	.
+rsasecurity.com.    	NS	fawlty.rsasecurity.com.
+rsasecurity.com.    	NS	thurisaz.rsasecurity.com.
+alexander.rsasecurity.com.	A	204.167.114.253
+ca.rsasecurity.com. 	A	204.167.114.85
+caesar.rsasecurity.com.	A	204.167.114.254
+crl.rsasecurity.com.	A	204.167.114.85
+defiant.rsasecurity.com.	A	203.46.112.62
+developer.rsasecurity.com.	A	199.175.149.10
+www.developer.rsasecurity.com.	A	199.175.149.10
+dolphin.rsasecurity.com.	A	204.167.114.56
+enterprise.rsasecurity.com.	A	204.167.115.80
+euroftp.rsasecurity.com.	A	195.153.160.122
+excelsior.rsasecurity.com.	A	204.167.115.70
+farpoint.rsasecurity.com.	A	204.167.114.13
+fawlty.rsasecurity.com.	A	195.153.160.113
+ftp.rsasecurity.com.	A	204.167.114.15
+iba.rsasecurity.com.	A	204.167.114.26
+intrepid.rsasecurity.com.	A	195.153.160.103
+itsec.rsasecurity.com.	MX	10 mail.rsasecurity.com.
+knowledge.rsasecurity.com.	A	204.167.114.26
+mail.rsasecurity.com.	A	204.167.114.123
+mail2.rsasecurity.com.	A	204.167.114.124
+mail4.rsasecurity.com.	A	192.80.211.4
+majordomo.rsasecurity.com.	MX	10 majordomo1.securitydynamics.com.
+majordomo.rsasecurity.com.	A	204.167.114.19
+cameos.majordomo.rsasecurity.com.	A	192.80.211.36
+majordomo1.rsasecurity.com.	A	204.167.114.19
+ns1.rsasecurity.com.	A	204.167.115.110
+owa.rsasecurity.com.	A	204.167.114.125
+partnerfinder.rsasecurity.com.	A	204.167.114.52
+promotions.rsasecurity.com.	A	204.167.115.135
+promotions1.rsasecurity.com.	A	204.167.114.84
+promotions2.rsasecurity.com.	A	204.167.115.135
+romulan.rsasecurity.com.	A	204.167.115.90
+support.rsa.rsasecurity.com.	A	204.167.114.56
+rsaconference.rsasecurity.com.	A	204.167.114.55
+rsaonline.rsasecurity.com.	A	204.167.114.50
+rsaonlinekeoncertificate.rsasecurity.com.	A	204.167.114.24
+sales.rsasecurity.com.	A	204.167.114.25
+securcare.rsasecurity.com.	A	204.167.114.19
+securecare.rsasecurity.com.	A	204.167.114.19
+stargazer.rsasecurity.com.	A	204.167.115.70
+support.rsasecurity.com.	A	204.167.114.56
+tholian.rsasecurity.com.	A	204.167.114.129
+thurisaz.rsasecurity.com.	A	62.255.241.113
+voyager.rsasecurity.com.	A	204.167.115.70
+vulcan.rsasecurity.com.	A	204.167.114.130
+web.rsasecurity.com.	A	204.167.114.14
+www.rsasecurity.com.	A	204.167.114.22
+thurisaz.rsasecurity.com.	A	62.255.241.113
+fawlty.rsasecurity.com.	A	195.153.160.113
+ns1.rsasecurity.com.	A	204.167.115.110
+farpoint.rsasecurity.com.	A	204.167.114.13
+rsasecurity.com.    	SOA	fawlty.rsasecurity.com. rsa-tech.rsasecurity.com. (
+			1030615171	;serial (version)
+			43200	;refresh period (12 hours)
+			3600	;retry interval (1 hour)
+			2678400	;expire time (4 weeks, 3 days)
+			3600	;default ttl (1 hour)
+			)

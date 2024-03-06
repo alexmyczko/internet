@@ -1,0 +1,97 @@
+firestorm.ch.       	SOA	dns1.firestorm.ch. support.firestorm.ch. (
+			1031036521	;serial (version)
+			28800	;refresh period (8 hours)
+			7200	;retry interval (2 hours)
+			604800	;expire time (1 week)
+			1800	;default ttl (30 minutes)
+			)
+firestorm.ch.       	NS	dns1.firestorm.ch.
+firestorm.ch.       	NS	dns2.firestorm.ch.
+firestorm.ch.       	A	62.2.203.70
+firestorm.ch.       	MX	1 mail.firestorm.ch.
+admin.firestorm.ch. 	A	62.2.203.70
+andreashasler.firestorm.ch.	A	62.2.203.68
+bellform.firestorm.ch.	A	62.2.203.68
+bsvuzwil.firestorm.ch.	A	62.2.203.68
+lea-christian.firestorm.ch.firestorm.ch.	A	62.2.203.68
+irchelstrasse34.ch.firestorm.ch.	A	62.2.203.68
+premium-cigars.ch.firestorm.ch.	A	62.2.203.68
+shetlandponysspv.ch.firestorm.ch.	A	62.2.203.68
+studio-angel.ch.firestorm.ch.	A	62.2.203.68
+chillsoft.firestorm.ch.	A	62.2.203.68
+cosmotherapy.firestorm.ch.	A	62.2.203.68
+datics.firestorm.ch.	A	62.2.203.68
+dbc-limited.firestorm.ch.	A	62.2.203.68
+cosmotherapy.de.firestorm.ch.	A	62.2.203.68
+desserttraum.firestorm.ch.	A	62.2.203.68
+dns1.firestorm.ch.  	A	62.2.203.77
+dns2.firestorm.ch.  	A	62.2.203.78
+dns3.firestorm.ch.  	A	80.254.161.125
+dns4.firestorm.ch.  	A	80.254.161.126
+dns5.firestorm.ch.  	A	69.10.134.196
+dns6.firestorm.ch.  	A	216.110.187.226
+dynamic-d.firestorm.ch.	A	62.2.203.68
+e-go.firestorm.ch.  	A	62.2.203.68
+eichpull.firestorm.ch.	A	62.2.203.68
+firstvision.firestorm.ch.	A	62.2.203.70
+ftp.firestorm.ch.   	A	62.2.203.70
+ftp2.firestorm.ch.  	A	62.2.203.68
+fwernli.firestorm.ch.	A	62.2.203.68
+go4webdesign.firestorm.ch.	A	62.2.203.68
+hackspiel.firestorm.ch.	A	62.2.203.68
+hedgecapital.firestorm.ch.	A	62.2.203.68
+hello.firestorm.ch. 	A	62.2.203.68
+hello.firestorm.ch. 	A	62.2.203.70
+imap.firestorm.ch.  	A	62.2.203.67
+infinity.firestorm.ch.	A	62.2.203.68
+jagd-shop.firestorm.ch.	A	62.2.203.68
+jvogel.firestorm.ch.	A	62.2.203.70
+karate-union-wien.firestorm.ch.	A	62.2.203.68
+kinderteller.firestorm.ch.	A	62.2.203.68
+klebensberger.firestorm.ch.	A	62.2.203.68
+limited4you.firestorm.ch.	A	62.2.203.68
+mail.firestorm.ch.  	A	62.2.203.67
+mail2.firestorm.ch. 	A	62.2.203.67
+mann-oh-mio.firestorm.ch.	A	62.2.203.68
+mffs.firestorm.ch.  	A	62.2.203.68
+migrosdetaillist.firestorm.ch.	A	62.2.203.68
+minimaschine.firestorm.ch.	A	62.2.203.68
+modenese.firestorm.ch.	A	62.2.203.68
+musiklager-kisi.firestorm.ch.	A	62.2.203.68
+net-zh-4.firestorm.ch.	A	62.2.203.74
+panterra.firestorm.ch.	A	62.2.203.68
+phased.firestorm.ch.	A	62.2.203.68
+pizzeria-roessli.firestorm.ch.	A	62.2.203.68
+keas.pl.firestorm.ch.	A	62.2.203.68
+poxy.firestorm.ch.  	A	62.2.203.68
+premium-cigars.firestorm.ch.	A	62.2.203.68
+pzgrenbes.firestorm.ch.	MX	2 mail.firestorm.ch.
+pzgrenbes.firestorm.ch.	A	62.2.203.70
+ruderclubkreuzlingen.firestorm.ch.	A	62.2.203.68
+satin-girls.firestorm.ch.	A	62.2.203.68
+shop.firestorm.ch.  	A	62.2.203.70
+smtp.firestorm.ch.  	A	62.2.203.67
+snowpics.firestorm.ch.	A	62.2.203.68
+softcash.firestorm.ch.	A	62.2.203.68
+softcash-ag.firestorm.ch.	A	62.2.203.68
+sr2.firestorm.ch.   	A	62.2.203.70
+steuerjuristen.firestorm.ch.	A	62.2.203.68
+strommax.firestorm.ch.	A	62.2.203.68
+studegg.firestorm.ch.	A	62.2.203.68
+teufelsschlucht.firestorm.ch.	A	62.2.203.68
+titans.firestorm.ch.	A	62.2.203.68
+vogel.firestorm.ch. 	A	62.2.203.70
+wanderfalken.firestorm.ch.	A	62.2.203.68
+wilerduemen.firestorm.ch.	A	62.2.203.68
+ww2.firestorm.ch.   	A	62.2.203.68
+ww3.firestorm.ch.   	A	62.2.203.68
+www.firestorm.ch.   	A	62.2.203.70
+xfurrer.firestorm.ch.	A	62.2.203.68
+zarth.firestorm.ch. 	A	62.2.203.68
+firestorm.ch.       	SOA	dns1.firestorm.ch. support.firestorm.ch. (
+			1031036521	;serial (version)
+			28800	;refresh period (8 hours)
+			7200	;retry interval (2 hours)
+			604800	;expire time (1 week)
+			1800	;default ttl (30 minutes)
+			)

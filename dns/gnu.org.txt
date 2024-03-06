@@ -1,0 +1,409 @@
+gnu.org.            	SOA	ns1.gnu.org. hostmaster.gnu.org. (
+			2003062300	;serial (version)
+			3600	;refresh period (1 hour)
+			300	;retry interval (5 minutes)
+			3600000	;expire time (5 weeks, 6 days, 16 hours)
+			3600	;default ttl (1 hour)
+			)
+gnu.org.            	NS	nic.cent.net.
+gnu.org.            	NS	ns1.gnu.org.
+gnu.org.            	NS	ns2.gnu.org.
+gnu.org.            	NS	ns2.cent.net.
+gnu.org.            	NS	ns3.gnu.org.
+gnu.org.            	A	199.232.76.164
+gnu.org.            	MX	10 mx10.gnu.org.
+gnu.org.            	MX	20 mx20.gnu.org.
+gnu.org.            	MX	30 mx30.gnu.org.
+rev-c41-8.gnu.org.  	PTR	new-audio-video.gnu.org.
+rev-c41-9.gnu.org.  	PTR	ftp.gnu.org.
+base.gnu.org.       	CNAME	fencepost.gnu.org.
+delysid.gnu.org.    	MX	10 mx10.gnu.org.
+delysid.gnu.org.    	MX	20 mx20.gnu.org.
+delysid.gnu.org.    	MX	30 mx30.gnu.org.
+delysid.gnu.org.    	A	158.121.106.20
+noah-friedman-memorial.gnu.org.	CNAME	fencepost.gnu.org.
+lu.gnu.org.         	NS	lu-ns0.gnu.org.
+lu.gnu.org.         	NS	lu-ns1.gnu.org.
+finger.gnu.org.     	CNAME	fencepost.gnu.org.
+test-delysid.gnu.org.	MX	0 delysid.gnu.org.
+melange.gnu.org.    	HINFO	"DEC-ALPHA"	"NETBSD"
+melange.gnu.org.    	MX	10 mx10.gnu.org.
+melange.gnu.org.    	MX	20 mx20.gnu.org.
+melange.gnu.org.    	MX	30 mx30.gnu.org.
+freeway.gnu.org.    	MX	10 mx10.gnu.org.
+freeway.gnu.org.    	MX	20 mx20.gnu.org.
+freeway.gnu.org.    	MX	30 mx30.gnu.org.
+freeway.gnu.org.    	A	199.232.76.174
+news.gnu.org.       	MX	10 mx10.gnu.org.
+news.gnu.org.       	MX	20 mx20.gnu.org.
+news.gnu.org.       	MX	30 mx30.gnu.org.
+news.gnu.org.       	A	216.27.133.14
+mp.gnu.org.         	CNAME	monty-python.gnu.org.
+localhost.gnu.org.  	A	127.0.0.1
+midair-rocket-watching.gnu.org.	CNAME	rampart.gnu.org.
+tacoma-mail-test.gnu.org.	MX	10 an-lan.gnu.org.
+pharmacy.gnu.org.   	CNAME	cvs.gnu.org.
+ms.gnu.org.         	CNAME	mescaline.gnu.org.
+kerberos.gnu.org.   	CNAME	ekhidna.gnu.org.
+try-lsd.gnu.org.    	CNAME	testlsd.gnu.org.
+ekhidna.gnu.org.    	MX	10 mx10.gnu.org.
+ekhidna.gnu.org.    	MX	20 mx20.gnu.org.
+ekhidna.gnu.org.    	MX	30 mx30.gnu.org.
+ekhidna.gnu.org.    	A	199.232.76.165
+testdel.gnu.org.    	CNAME	test-delysid.gnu.org.
+monty-python.gnu.org.	MX	10 mx10.gnu.org.
+monty-python.gnu.org.	MX	20 mx20.gnu.org.
+monty-python.gnu.org.	MX	30 mx30.gnu.org.
+monty-python.gnu.org.	A	199.232.76.173
+farm.gnu.org.       	CNAME	savannah.gnu.org.
+savana.gnu.org.     	CNAME	savannah.gnu.org.
+rampart.gnu.org.    	MX	10 mx10.gnu.org.
+rampart.gnu.org.    	MX	20 mx20.gnu.org.
+rampart.gnu.org.    	MX	30 mx30.gnu.org.
+rampart.gnu.org.    	A	199.232.76.163
+www.pe.gnu.org.     	MX	10 mx10.gnu.org.
+www.pe.gnu.org.     	MX	20 mx20.gnu.org.
+www.pe.gnu.org.     	MX	30 mx30.gnu.org.
+www.pe.gnu.org.     	A	200.48.10.30
+new-gnudist.gnu.org.	CNAME	gnudist.gnu.org.
+lsd.gnu.org.        	CNAME	delysid.gnu.org.
+spider.gnu.org.     	MX	10 mx10.gnu.org.
+spider.gnu.org.     	MX	20 mx20.gnu.org.
+spider.gnu.org.     	MX	30 mx30.gnu.org.
+peyote.gnu.org.     	CNAME	mescaline.gnu.org.
+graceland.gnu.org.  	HINFO	"JAILHOUSE"	"ROCK"
+graceland.gnu.org.  	MX	10 mx10.gnu.org.
+graceland.gnu.org.  	MX	20 mx20.gnu.org.
+graceland.gnu.org.  	MX	30 mx30.gnu.org.
+be.gnu.org.         	NS	lu-ns0.gnu.org.
+be.gnu.org.         	NS	lu-ns1.gnu.org.
+anoncvs.gnu.org.    	CNAME	subversions.gnu.org.
+savanna.gnu.org.    	CNAME	savannah.gnu.org.
+gcc.gnu.org.        	MX	5 gcc.gnu.org.
+gcc.gnu.org.        	MX	10 mx10.gnu.org.
+gcc.gnu.org.        	MX	20 mx20.gnu.org.
+gcc.gnu.org.        	MX	30 mx30.gnu.org.
+gcc.gnu.org.        	A	66.187.233.205
+puke.gnu.org.       	CNAME	mescaline.gnu.org.
+mail.gnu.org.       	MX	10 mx10.gnu.org.
+mail.gnu.org.       	MX	20 mx20.gnu.org.
+mail.gnu.org.       	MX	30 mx30.gnu.org.
+mail.gnu.org.       	A	199.232.76.166
+pl.gnu.org.         	MX	10 mx10.gnu.org.
+pl.gnu.org.         	MX	20 mx20.gnu.org.
+pl.gnu.org.         	MX	30 mx30.gnu.org.
+pl.gnu.org.         	A	193.219.28.245
+www.pl.gnu.org.     	MX	10 mx10.gnu.org.
+www.pl.gnu.org.     	MX	20 mx20.gnu.org.
+www.pl.gnu.org.     	MX	30 mx30.gnu.org.
+www.pl.gnu.org.     	A	193.219.28.245
+korea.gnu.org.      	MX	10 korea.gnu.org.
+korea.gnu.org.      	A	211.39.143.137
+fwy.gnu.org.        	CNAME	freeway.gnu.org.
+alpha.gnu.org.      	MX	10 mx10.gnu.org.
+alpha.gnu.org.      	MX	20 mx20.gnu.org.
+alpha.gnu.org.      	MX	30 mx30.gnu.org.
+alpha.gnu.org.      	A	199.232.41.11
+sub.gnu.org.        	CNAME	subversions.gnu.org.
+quantum-bogodynamics.gnu.org.	MX	10 mx10.gnu.org.
+quantum-bogodynamics.gnu.org.	MX	20 mx20.gnu.org.
+quantum-bogodynamics.gnu.org.	MX	30 mx30.gnu.org.
+quantum-bogodynamics.gnu.org.	A	199.232.39.44
+consumer-value-server.gnu.org.	CNAME	cvs.gnu.org.
+all-your-fencepost-are-belong-to-us.gnu.org.	CNAME	base.gnu.org.
+new-gnuftp.gnu.org. 	CNAME	gnuftp.gnu.org.
+lu-ns0.gnu.org.     	A	158.64.24.250
+lu-ns1.gnu.org.     	A	158.64.24.251
+gnats.gnu.org.      	MX	10 mx10.gnu.org.
+gnats.gnu.org.      	MX	20 mx20.gnu.org.
+gnats.gnu.org.      	MX	30 mx30.gnu.org.
+gnats.gnu.org.      	A	199.232.76.168
+fence.gnu.org.      	CNAME	fencepost.gnu.org.
+spam.gnu.org.       	CNAME	monty-python.gnu.org.
+www.cn.gnu.org.     	MX	10 mx10.gnu.org.
+www.cn.gnu.org.     	MX	20 mx20.gnu.org.
+www.cn.gnu.org.     	MX	30 mx30.gnu.org.
+www.cn.gnu.org.     	A	61.152.210.194
+savanah.gnu.org.    	CNAME	savannah.gnu.org.
+an-lan.gnu.org.     	MX	10 mx10.gnu.org.
+an-lan.gnu.org.     	MX	20 mx20.gnu.org.
+an-lan.gnu.org.     	MX	30 mx30.gnu.org.
+an-lan.gnu.org.     	A	199.232.76.161
+femail.gnu.org.     	CNAME	delysid.gnu.org.
+www-gnats.gnu.org.  	CNAME	gnats.gnu.org.
+py.gnu.org.         	CNAME	mescaline.gnu.org.
+servent.gnu.org.    	MX	10 mx10.gnu.org.
+servent.gnu.org.    	MX	20 mx20.gnu.org.
+servent.gnu.org.    	MX	30 mx30.gnu.org.
+servent.gnu.org.    	A	199.232.41.14
+newswire.gnu.org.   	MX	10 mx10.gnu.org.
+newswire.gnu.org.   	MX	20 mx20.gnu.org.
+newswire.gnu.org.   	MX	30 mx30.gnu.org.
+newswire.gnu.org.   	A	216.27.133.14
+t-n.gnu.org.        	CNAME	an-lan.gnu.org.
+www-es.gnu.org.     	MX	10 mx10.gnu.org.
+www-es.gnu.org.     	MX	20 mx20.gnu.org.
+www-es.gnu.org.     	MX	30 mx30.gnu.org.
+www-es.gnu.org.     	A	193.144.60.100
+service-entrance.gnu.org.	CNAME	servent.gnu.org.
+www.se.gnu.org.     	MX	10 mx10.gnu.org.
+www.se.gnu.org.     	MX	20 mx20.gnu.org.
+www.se.gnu.org.     	MX	30 mx30.gnu.org.
+www.se.gnu.org.     	A	129.16.214.93
+gnu-hurd.gnu.org.   	CNAME	stampede.gnu.org.
+web.gnu.org.        	CNAME	www.gnu.org.
+rev-c76-161.gnu.org.	PTR	an-lan.gnu.org.
+irc.gnu.org.        	CNAME	irc.freenode.net.
+rev-c76-162.gnu.org.	PTR	ns1.gnu.org.
+rev-c76-163.gnu.org.	PTR	rampart.gnu.org.
+old-www.gnu.org.    	MX	10 mx10.gnu.org.
+old-www.gnu.org.    	MX	20 mx20.gnu.org.
+old-www.gnu.org.    	MX	30 mx30.gnu.org.
+old-www.gnu.org.    	HINFO	"INTEL-686"	"GNU/LINUX"
+old-www.gnu.org.    	A	198.186.203.18
+delasyd.gnu.org.    	CNAME	delysid.gnu.org.
+rev-c76-164.gnu.org.	PTR	fencepost.gnu.org.
+ns1.gnu.org.        	MX	10 mx10.gnu.org.
+ns1.gnu.org.        	MX	20 mx20.gnu.org.
+ns1.gnu.org.        	MX	20 mx30.gnu.org.
+ns1.gnu.org.        	A	199.232.76.162
+cvs.gnu.org.        	CNAME	subversions.gnu.org.
+woonsocket.gnu.org. 	CNAME	cvs.gnu.org.
+rev-c76-165.gnu.org.	PTR	ekhidna.gnu.org.
+ns2.gnu.org.        	MX	10 mx10.gnu.org.
+ns2.gnu.org.        	MX	20 mx20.gnu.org.
+ns2.gnu.org.        	MX	20 mx30.gnu.org.
+ns2.gnu.org.        	A	195.68.21.199
+grasshopper.gnu.org.	MX	10 mx10.gnu.org.
+grasshopper.gnu.org.	MX	20 mx20.gnu.org.
+grasshopper.gnu.org.	MX	30 mx30.gnu.org.
+gnu-dissed.gnu.org. 	CNAME	gnu-dissed.mit.edu.
+rev-c76-166.gnu.org.	PTR	mail.gnu.org.
+ns3.gnu.org.        	MX	10 mx10.gnu.org.
+ns3.gnu.org.        	MX	20 mx20.gnu.org.
+ns3.gnu.org.        	MX	20 mx30.gnu.org.
+ns3.gnu.org.        	A	209.115.72.62
+fiercely-tangled-powercables.gnu.org.	CNAME	ftp.gnu.org.
+sub-hts.gnu.org.    	CNAME	subversions-hts.gnu.org.
+snail.gnu.org.      	MX	10 mx10.gnu.org.
+snail.gnu.org.      	MX	20 mx20.gnu.org.
+snail.gnu.org.      	MX	30 mx30.gnu.org.
+snail.gnu.org.      	A	213.228.62.2
+rt.gnu.org.         	CNAME	monty-python.gnu.org.
+rev-c76-167.gnu.org.	PTR	old-alpha.gnu.org.
+hurd.gnu.org.       	CNAME	www.gnu.org.
+www.hurd.gnu.org.   	CNAME	www.gnu.org.
+gnuftp.gnu.org.     	MX	10 mx10.gnu.org.
+gnuftp.gnu.org.     	MX	20 mx20.gnu.org.
+gnuftp.gnu.org.     	MX	30 mx30.gnu.org.
+gnuftp.gnu.org.     	A	199.232.41.6
+rev-c76-170.gnu.org.	PTR	fencepost-hts.gnu.org.
+rev-c76-168.gnu.org.	PTR	gnats.gnu.org.
+rev-c76-171.gnu.org.	PTR	agia.fsf.org.
+rev-c76-169.gnu.org.	PTR	fencepost-ssh.gnu.org.
+rev-c76-172.gnu.org.	PTR	stampede.gnu.org.
+rev-c76-173.gnu.org.	PTR	monty-python.gnu.org.
+rev-c76-174.gnu.org.	PTR	freeway.gnu.org.
+stampede.gnu.org.   	MX	10 mx10.gnu.org.
+stampede.gnu.org.   	MX	20 mx20.gnu.org.
+stampede.gnu.org.   	MX	30 mx30.gnu.org.
+stampede.gnu.org.   	HINFO	"INTEL-686"	"GNU/HURD"
+stampede.gnu.org.   	A	199.232.76.172
+karl-ramm-memorial.gnu.org.	CNAME	noah-friedman-memorial.gnu.org.
+frog.gnu.org.       	MX	10 mx10.gnu.org.
+frog.gnu.org.       	MX	20 mx20.gnu.org.
+frog.gnu.org.       	MX	30 mx30.gnu.org.
+frog.gnu.org.       	A	213.228.62.4
+sub-ssh.gnu.org.    	CNAME	subversions-ssh.gnu.org.
+post.gnu.org.       	CNAME	fencepost.gnu.org.
+old-ftp.gnu.org.    	MX	10 mx10.gnu.org.
+old-ftp.gnu.org.    	MX	20 mx20.gnu.org.
+old-ftp.gnu.org.    	MX	30 mx30.gnu.org.
+old-ftp.gnu.org.    	HINFO	"INTEL-686"	"GNU/LINUX"
+old-ftp.gnu.org.    	A	198.186.203.77
+hope-you-skipped-lunch.gnu.org.	CNAME	mescaline.gnu.org.
+rev-c76-177.gnu.org.	PTR	an-lan.gnu.org.
+es.gnu.org.         	A	80.25.141.62
+hurd.es.gnu.org.    	CNAME	es.gnu.org.
+mundognu.es.gnu.org.	CNAME	es.gnu.org.
+www.mundognu.es.gnu.org.	CNAME	es.gnu.org.
+gnuticias.es.gnu.org.	CNAME	es.gnu.org.
+www.gnuticias.es.gnu.org.	CNAME	es.gnu.org.
+hurdes.es.gnu.org.  	CNAME	es.gnu.org.
+emacs.es.gnu.org.   	CNAME	es.gnu.org.
+www.emacs.es.gnu.org.	CNAME	es.gnu.org.
+www.es.gnu.org.     	CNAME	es.gnu.org.
+bee.es.gnu.org.     	CNAME	es.gnu.org.
+www.bee.es.gnu.org. 	CNAME	es.gnu.org.
+rev-c76-178.gnu.org.	PTR	watson.fsf.org.
+bee.gnu.org.        	MX	10 mx10.gnu.org.
+bee.gnu.org.        	MX	20 mx20.gnu.org.
+bee.gnu.org.        	MX	30 mx30.gnu.org.
+sv.gnu.org.         	CNAME	savannah.gnu.org.
+mescaline.gnu.org.  	HINFO	"INTEL-486"	"GNU/LINUX"
+mescaline.gnu.org.  	MX	10 mx10.gnu.org.
+mescaline.gnu.org.  	MX	20 mx20.gnu.org.
+mescaline.gnu.org.  	MX	30 mx30.gnu.org.
+vms.gnu.org.        	NS	ns.ctrl-c.liu.se.
+vms.gnu.org.        	NS	nic.lp.se.
+savannah-hts.gnu.org.	CNAME	subversions-hts.gnu.org.
+trylsd.gnu.org.     	CNAME	testlsd.gnu.org.
+spice.gnu.org.      	CNAME	melange.gnu.org.
+q-b.gnu.org.        	CNAME	quantum-bogodynamics.gnu.org.
+fp.gnu.org.         	CNAME	fencepost.gnu.org.
+uk.gnu.org.         	CNAME	gnu.lut.ac.uk.
+www.uk.gnu.org.     	CNAME	gnu.lut.ac.uk.
+testlsd.gnu.org.    	CNAME	test-delysid.gnu.org.
+gnupress.gnu.org.   	CNAME	www.gnupress.org.
+www.gnupress.gnu.org.	CNAME	www.gnupress.org.
+vomit.gnu.org.      	CNAME	mescaline.gnu.org.
+savannah-ssh.gnu.org.	CNAME	subversions-ssh.gnu.org.
+walmart.gnu.org.    	CNAME	cvs.gnu.org.
+www.tw.gnu.org.     	MX	10 mx10.gnu.org.
+www.tw.gnu.org.     	MX	20 mx20.gnu.org.
+www.tw.gnu.org.     	MX	30 mx30.gnu.org.
+www.tw.gnu.org.     	A	140.109.7.2
+bugs.gnu.org.       	CNAME	gnats.gnu.org.
+fencepost-hts.gnu.org.	MX	10 mx10.gnu.org.
+fencepost-hts.gnu.org.	MX	20 mx20.gnu.org.
+fencepost-hts.gnu.org.	MX	30 mx30.gnu.org.
+fencepost-hts.gnu.org.	A	199.232.76.170
+flib.gnu.org.       	MX	10 mx10.gnu.org.
+flib.gnu.org.       	MX	20 mx20.gnu.org.
+flib.gnu.org.       	MX	30 mx30.gnu.org.
+rev-c41-10.gnu.org. 	PTR	www.gnu.org.
+prep-school-mentality.gnu.org.	CNAME	gnudist.gnu.org.
+rev-c41-11.gnu.org. 	PTR	alpha.gnu.org.
+july-4.gnu.org.     	CNAME	midair-rocket-watching.gnu.org.
+groute.gnu.org.     	MX	10 mx10.gnu.org.
+groute.gnu.org.     	MX	20 mx20.gnu.org.
+groute.gnu.org.     	MX	30 mx30.gnu.org.
+groute.gnu.org.     	A	199.232.41.1
+subversions.gnu.org.	MX	10 mx10.gnu.org.
+subversions.gnu.org.	MX	20 mx20.gnu.org.
+subversions.gnu.org.	MX	30 mx30.gnu.org.
+subversions.gnu.org.	A	199.232.41.2
+rev-c41-13.gnu.org. 	PTR	bluemchen.kde.org.
+rev-c41-14.gnu.org. 	PTR	servent.gnu.org.
+www.ie.gnu.org.     	MX	10 mx10.gnu.org.
+www.ie.gnu.org.     	MX	20 mx20.gnu.org.
+www.ie.gnu.org.     	MX	30 mx30.gnu.org.
+www.ie.gnu.org.     	A	193.120.14.243
+fencepost.gnu.org.  	MX	10 mx10.gnu.org.
+fencepost.gnu.org.  	MX	20 mx20.gnu.org.
+fencepost.gnu.org.  	MX	30 mx30.gnu.org.
+fencepost.gnu.org.  	HINFO	"INTEL-686"	"GNU/LINUX"
+fencepost.gnu.org.  	A	199.232.76.164
+eight-gigabytes-and-constantly-scrounging.gnu.org.	CNAME	old-gnudist.gnu.org.
+fencepost-ssh.gnu.org.	MX	10 mx10.gnu.org.
+fencepost-ssh.gnu.org.	MX	20 mx20.gnu.org.
+fencepost-ssh.gnu.org.	MX	30 mx30.gnu.org.
+fencepost-ssh.gnu.org.	A	199.232.76.169
+savannah.gnu.org.   	MX	10 mx10.gnu.org.
+savannah.gnu.org.   	MX	20 mx20.gnu.org.
+savannah.gnu.org.   	MX	30 mx30.gnu.org.
+savannah.gnu.org.   	A	199.232.41.3
+death.gnu.org.      	CNAME	fencepost.gnu.org.
+gwm.gnu.org.        	CNAME	metalab.unc.edu.
+gnudist.gnu.org.    	MX	10 mx10.gnu.org.
+gnudist.gnu.org.    	MX	20 mx20.gnu.org.
+gnudist.gnu.org.    	MX	30 mx30.gnu.org.
+gnudist.gnu.org.    	A	199.232.41.7
+snail-ssh.gnu.org.  	MX	10 mx10.gnu.org.
+snail-ssh.gnu.org.  	MX	20 mx20.gnu.org.
+snail-ssh.gnu.org.  	MX	30 mx30.gnu.org.
+snail-ssh.gnu.org.  	A	213.228.62.3
+dragonfly.gnu.org.  	MX	10 mx10.gnu.org.
+dragonfly.gnu.org.  	MX	20 mx20.gnu.org.
+dragonfly.gnu.org.  	MX	30 mx30.gnu.org.
+s-e.gnu.org.        	CNAME	servent.gnu.org.
+del.gnu.org.        	CNAME	delysid.gnu.org.
+kerberos-1.gnu.org. 	CNAME	ekhidna.gnu.org.
+subversions-hts.gnu.org.	MX	10 mx10.gnu.org.
+subversions-hts.gnu.org.	MX	20 mx20.gnu.org.
+subversions-hts.gnu.org.	MX	30 mx30.gnu.org.
+subversions-hts.gnu.org.	A	199.232.41.5
+msd.gnu.org.        	MX	10 mx10.gnu.org.
+msd.gnu.org.        	MX	20 mx20.gnu.org.
+msd.gnu.org.        	MX	30 mx30.gnu.org.
+msd.gnu.org.        	HINFO	"INTEL-686"	"GNU/LINUX"
+msd.gnu.org.        	A	209.213.72.69
+kerberos-2.gnu.org. 	CNAME	ekhidna.gnu.org.
+monty.gnu.org.      	CNAME	monty-python.gnu.org.
+kerberos-3.gnu.org. 	CNAME	ekhidna.gnu.org.
+adolescent-prep-school-mentality.gnu.org.	CNAME	gnudist.gnu.org.
+testdelysid.gnu.org.	CNAME	test-delysid.gnu.org.
+kerberos-4.gnu.org. 	CNAME	ekhidna.gnu.org.
+old-gnudist.gnu.org.	MX	10 mx10.gnu.org.
+old-gnudist.gnu.org.	MX	20 mx20.gnu.org.
+old-gnudist.gnu.org.	MX	30 mx30.gnu.org.
+old-gnudist.gnu.org.	HINFO	"INTEL-686"	"GNU/LINUX"
+old-gnudist.gnu.org.	A	198.186.203.18
+w3.gnu.org.         	CNAME	www.gnu.org.
+stock-market.gnu.org.	CNAME	melange.gnu.org.
+subversions-ssh.gnu.org.	MX	10 mx10.gnu.org.
+subversions-ssh.gnu.org.	MX	20 mx20.gnu.org.
+subversions-ssh.gnu.org.	MX	30 mx30.gnu.org.
+subversions-ssh.gnu.org.	A	199.232.41.4
+it.gnu.org.         	CNAME	picard.linux.it.
+www.it.gnu.org.     	CNAME	picard.linux.it.
+audio-video.gnu.org.	CNAME	subversions.gnu.org.
+mel.gnu.org.        	CNAME	melange.gnu.org.
+ftp-mailing-list-archive.gnu.org.	CNAME	mail.gnu.org.
+new-audio-video.gnu.org.	MX	10 mx10.gnu.org.
+new-audio-video.gnu.org.	MX	20 mx20.gnu.org.
+new-audio-video.gnu.org.	MX	30 mx30.gnu.org.
+new-audio-video.gnu.org.	A	199.232.41.8
+sexy.gnu.org.       	CNAME	fencepost.gnu.org.
+mx10.gnu.org.       	A	199.232.76.166
+www.gnu.org.        	MX	10 mx10.gnu.org.
+www.gnu.org.        	MX	20 mx20.gnu.org.
+www.gnu.org.        	MX	30 mx30.gnu.org.
+www.gnu.org.        	A	199.232.41.10
+mail2.gnu.org.      	A	199.232.41.7
+press.gnu.org.      	CNAME	www.gnupress.org.
+www.press.gnu.org.  	CNAME	www.gnupress.org.
+fp-hts.gnu.org.     	CNAME	fencepost-hts.gnu.org.
+fen.gnu.org.        	CNAME	fencepost.gnu.org.
+mes.gnu.org.        	CNAME	mescaline.gnu.org.
+mexaline.gnu.org.   	CNAME	mescaline.gnu.org.
+old-gnuftp.gnu.org. 	MX	10 mx10.gnu.org.
+old-gnuftp.gnu.org. 	MX	20 mx20.gnu.org.
+old-gnuftp.gnu.org. 	MX	30 mx30.gnu.org.
+old-gnuftp.gnu.org. 	HINFO	"INTEL-686"	"GNU/LINUX"
+old-gnuftp.gnu.org. 	A	198.186.203.77
+acid.gnu.org.       	CNAME	delysid.gnu.org.
+tacoma.gnu.org.     	CNAME	an-lan.gnu.org.
+mx20.gnu.org.       	A	199.232.41.7
+create-vulgar-stangeness.gnu.org.	CNAME	cvs.gnu.org.
+tacoma-narrows.gnu.org.	CNAME	an-lan.gnu.org.
+gnewswire.gnu.org.  	MX	10 mx10.gnu.org.
+gnewswire.gnu.org.  	MX	20 mx20.gnu.org.
+gnewswire.gnu.org.  	MX	30 mx30.gnu.org.
+gnewswire.gnu.org.  	A	216.27.133.14
+rev-c41-1.gnu.org.  	PTR	groute.gnu.org.
+old-alpha.gnu.org.  	MX	10 mx10.gnu.org.
+old-alpha.gnu.org.  	MX	20 mx20.gnu.org.
+old-alpha.gnu.org.  	MX	30 mx30.gnu.org.
+old-alpha.gnu.org.  	A	199.232.76.167
+www.kr.gnu.org.     	CNAME	freedom.sarang.net.
+fp-ssh.gnu.org.     	CNAME	fencepost-ssh.gnu.org.
+rev-c41-2.gnu.org.  	PTR	subversions.gnu.org.
+rev-c41-3.gnu.org.  	PTR	savannah.gnu.org.
+ftp-mailing-list-archives.gnu.org.	CNAME	mail.gnu.org.
+ftp.gnu.org.        	MX	10 mx10.gnu.org.
+ftp.gnu.org.        	MX	20 mx20.gnu.org.
+ftp.gnu.org.        	MX	30 mx30.gnu.org.
+ftp.gnu.org.        	A	199.232.41.7
+rev-c41-4.gnu.org.  	PTR	subversions-ssh.gnu.org.
+rev-c41-5.gnu.org.  	PTR	subversions-hts.gnu.org.
+rev-c41-6.gnu.org.  	PTR	gnuftp.gnu.org.
+mx30.gnu.org.       	A	199.232.41.6
+rev-c41-7.gnu.org.  	PTR	gnudist.gnu.org.
+gnu.org.            	SOA	ns1.gnu.org. hostmaster.gnu.org. (
+			2003062300	;serial (version)
+			3600	;refresh period (1 hour)
+			300	;retry interval (5 minutes)
+			3600000	;expire time (5 weeks, 6 days, 16 hours)
+			3600	;default ttl (1 hour)
+			)

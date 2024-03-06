@@ -1,0 +1,241 @@
+sbb.ch.             	SOA	ns1.sbb.ch. web-services.t-systems.ch. (
+			2005072001	;serial (version)
+			300	;refresh period (5 minutes)
+			900	;retry interval (15 minutes)
+			864000	;expire time (1 week, 3 days)
+			7200	;default ttl (2 hours)
+			)
+sbb.ch.             	NS	ns1.sbb.ch.
+sbb.ch.             	NS	ns2.sbb.ch.
+sbb.ch.             	A	193.192.251.35
+sbb.ch.             	MX	5 sbbmail3.sbb.ch.
+sbb.ch.             	MX	10 sbbmail1.sbb.ch.
+sbb.ch.             	MX	20 sbbmail2.sbb.ch.
+sbb.ch.             	MX	40 sbbmail4.sbb.ch.
+sbb.ch.             	TXT	"v=spf1 a:sbbmail2.sbb.ch. a:sbbmail4.sbb.ch."
+apfz-pwlan.sbb.ch.  	A	194.150.245.44
+apfzi.sbb.ch.       	A	193.192.251.52
+apfzi-pwlan.sbb.ch. 	A	194.150.245.54
+apfzmiti.sbb.ch.    	CNAME	i05920cl.sbb.ch.
+apfzmiti1.sbb.ch.   	CNAME	i05920.sbb.ch.
+apfzmiti2.sbb.ch.   	CNAME	i05921.sbb.ch.
+apfzp.sbb.ch.       	A	193.192.251.53
+apfzt.sbb.ch.       	A	193.192.251.51
+apfzt-pwlan.sbb.ch. 	A	194.150.245.57
+auth.sbb.ch.        	A	194.150.245.39
+authtest.sbb.ch.    	A	194.150.245.65
+avisint.sbb.ch.     	A	194.150.245.81
+avistest.sbb.ch.    	A	194.150.245.81
+business-newsletter.sbb.ch.	A	213.144.155.40
+business-newsletter.sbb.ch.	MX	5 mx-nm.refusion.com.
+business-newsletter.sbb.ch.	MX	10 mail.refusion.com.
+business-newsletter.sbb.ch.	MX	20 mx1.refusion.com.
+c4t.sbb.ch.         	A	193.192.251.35
+cargop.sbb.ch.      	A	193.192.251.22
+chext.sbb.ch.       	A	193.192.251.27
+chext-dev.sbb.ch.   	A	194.150.245.83
+chext-int.sbb.ch.   	A	194.150.245.83
+chext01p.sbb.ch.    	CNAME	chext.sbb.ch.
+chext02p.sbb.ch.    	CNAME	chext.sbb.ch.
+ci-net.sbb.ch.      	A	217.26.52.183
+csc.sbb.ch.         	CNAME	s24993.sbb.ch.
+csgt.sbb.ch.        	A	193.192.251.45
+dialin.sbb.ch.      	CNAME	gw.sbb.ch.
+dir1.sbb.ch.        	A	172.17.17.123
+dominotest.sbb.ch.  	A	194.150.245.67
+ewasi5.sbb.ch.      	A	193.192.251.57
+ewasp5.sbb.ch.      	A	193.192.251.56
+fahrplan.sbb.ch.    	A	193.192.251.36
+fahrplani.sbb.ch.   	A	193.192.251.39
+fahrplanidmz.sbb.ch.	A	194.150.245.67
+fahrplanp.sbb.ch.   	CNAME	fahrplani.sbb.ch.
+fahrre3i.sbb.ch.    	CNAME	fahrplani.sbb.ch.
+fd.sbb.ch.          	A	147.78.15.107
+ftp.sbb.ch.         	A	193.192.251.21
+ftp-gw.sbb.ch.      	CNAME	gw.sbb.ch.
+ftp1.sbb.ch.        	A	193.192.251.21
+ftpgw.sbb.ch.       	CNAME	gw.sbb.ch.
+go.sbb.ch.          	A	193.192.251.28
+go1.sbb.ch.         	A	193.192.251.28
+gris2-pwlan.sbb.ch. 	A	194.150.245.46
+gris2i-pwlan.sbb.ch.	A	194.150.245.56
+gris2t-pwlan.sbb.ch.	A	194.150.245.59
+gw.sbb.ch.          	A	193.192.251.74
+gw-b.sbb.ch.        	A	193.192.251.106
+hafasi.sbb.ch.      	CNAME	fahrplani.sbb.ch.
+hdata1i.sbb.ch.     	A	172.17.17.30
+hdata1p.sbb.ch.     	A	172.17.17.14
+hdata2i.sbb.ch.     	A	172.17.17.124
+hdata2p.sbb.ch.     	A	172.17.17.15
+hdata3p.sbb.ch.     	A	172.17.17.21
+hdata4p.sbb.ch.     	A	172.17.17.32
+horaire.sbb.ch.     	CNAME	fahrplan.sbb.ch.
+hweb1i.sbb.ch.      	A	172.17.17.28
+hweb1p.sbb.ch.      	A	172.17.17.11
+hweb2i.sbb.ch.      	A	172.17.17.29
+hweb2p.sbb.ch.      	A	172.17.17.12
+hweb3p.sbb.ch.      	A	172.17.17.13
+i05920.sbb.ch.      	A	10.104.27.112
+i05920cl.sbb.ch.    	A	10.104.27.110
+i05921.sbb.ch.      	A	10.104.27.111
+i26542.sbb.ch.      	A	147.78.29.200
+i34832.sbb.ch.      	A	193.192.251.16
+i34839.sbb.ch.      	A	10.104.24.73
+i34894.sbb.ch.      	CNAME	ftp.sbb.ch.
+i35167.sbb.ch.      	A	172.17.17.133
+i35590.sbb.ch.      	A	172.17.17.33
+ihwsi.sbb.ch.       	CNAME	ihwsi.main.sbb.ch.
+ihwsp.sbb.ch.       	CNAME	ihwsp.main.sbb.ch.
+ihwst.sbb.ch.       	CNAME	ihwst.main.sbb.ch.
+infoportal.sbb.ch.  	CNAME	c4t.sbb.ch.
+infoportal4webtest.sbb.ch.	A	194.150.245.95
+infoportaltest.sbb.ch.	A	194.150.245.95
+infrastruktur.sbb.ch.	A	10.104.181.18
+intershop.sbb.ch.   	CNAME	saptest.sbb.ch.
+junior.sbb.ch.      	CNAME	wwwo.sbb.ch.
+konzern.sbb.ch.     	CNAME	infrastruktur.sbb.ch.
+lb1admin.sbb.ch.    	A	193.192.251.31
+lb2admin.sbb.ch.    	A	193.192.251.32
+logistik-gepaeck.sbb.ch.	A	212.41.237.131
+www.logistik-gepaeck.sbb.ch.	A	212.41.237.131
+lostandfound.sbb.ch.	A	83.64.250.114
+lostandfound1.sbb.ch.	A	83.64.250.115
+lostandfound2.sbb.ch.	A	83.64.250.116
+mag.sbb.ch.         	A	193.192.251.47
+magi.sbb.ch.        	A	193.192.251.48
+magt.sbb.ch.        	A	193.192.251.49
+mailbls.sbb.ch.     	CNAME	mailbls.main.sbb.ch.
+mailsbb.sbb.ch.     	CNAME	mailsbb.main.sbb.ch.
+main.sbb.ch.        	NS	ns1.sbb.ch.
+main.sbb.ch.        	NS	ns2.sbb.ch.
+mct.sbb.ch.         	A	193.192.251.60
+mcttest.sbb.ch.     	A	194.150.245.94
+memoe.sbb.ch.       	CNAME	memoe.main.sbb.ch.
+memou.sbb.ch.       	CNAME	memou.main.sbb.ch.
+mobile.sbb.ch.      	CNAME	fahrplan.sbb.ch.
+mobilei.sbb.ch.     	CNAME	fahrplani.sbb.ch.
+myti.sbb.ch.        	A	193.192.251.58
+mytip.sbb.ch.       	A	193.192.251.33
+nbbbe04.sbb.ch.     	A	147.78.2.220
+neoteris1.sbb.ch.   	A	193.192.251.12
+neoteris2.sbb.ch.   	A	193.192.251.14
+netmon.sbb.ch.      	CNAME	netmon.main.sbb.ch.
+newsinternet.sbb.ch.	CNAME	c4t.sbb.ch.
+newsletter.sbb.ch.  	A	213.144.155.40
+newsletter.sbb.ch.  	MX	5 mx-nm.refusion.com.
+newsletter.sbb.ch.  	MX	10 mail.refusion.com.
+newsletter.sbb.ch.  	MX	20 mx1.refusion.com.
+ns1.sbb.ch.         	A	194.150.245.3
+ns2.sbb.ch.         	A	194.150.245.4
+nt-sbb1.sbb.ch.     	A	147.78.37.91
+nt-sbb1.sbb.ch.     	A	147.78.37.92
+o43.sbb.ch.         	A	193.192.251.41
+oas.sbb.ch.         	A	193.73.103.13
+orario.sbb.ch.      	CNAME	fahrplan.sbb.ch.
+pda.sbb.ch.         	CNAME	fahrplan.sbb.ch.
+pdai.sbb.ch.        	CNAME	fahrplani.sbb.ch.
+photo.sbb.ch.       	CNAME	wwwo.sbb.ch.
+planner.sbb.ch.     	CNAME	fahrplan.sbb.ch.
+pretimetable.sbb.ch.	CNAME	www.sbb.ch.
+prosurf-i.sbb.ch.   	A	194.150.245.91
+prosurf1.sbb.ch.    	CNAME	prosurf1.main.sbb.ch.
+prosurf1test.sbb.ch.	CNAME	prosurf1test.main.sbb.ch.
+prosurf2.sbb.ch.    	CNAME	prosurf2.main.sbb.ch.
+prosurf2test.sbb.ch.	CNAME	prosurf2test.main.sbb.ch.
+prosurfi.sbb.ch.    	CNAME	myti.sbb.ch.
+quickplacep.sbb.ch. 	A	193.192.251.46
+raillink.sbb.ch.    	CNAME	wwwo.sbb.ch.
+s24993.sbb.ch.      	A	193.192.251.29
+s26146.sbb.ch.      	A	193.192.251.26
+s27918.sbb.ch.      	A	193.192.251.18
+sap-katalog.sbb.ch. 	A	147.78.240.24
+sap-kommunikation.sbb.ch.	A	147.78.240.23
+sap-srm.sbb.ch.     	A	193.192.251.9
+sap-testkatalog.sbb.ch.	A	147.78.240.22
+sap0bc.sbb.ch.      	CNAME	saptest.sbb.ch.
+sap0bsp.sbb.ch.     	CNAME	saptest.sbb.ch.
+sap0srm.sbb.ch.     	CNAME	saptest.sbb.ch.
+sapbc.sbb.ch.       	A	194.150.245.37
+int.sapbc.sbb.ch.   	A	194.150.245.36
+test.sapbc.sbb.ch.  	A	194.150.245.73
+sapikat.sbb.ch.     	A	194.150.245.38
+test.sapikat.sbb.ch.	A	194.150.245.74
+sapp0101.sbb.ch.    	A	147.78.10.42
+saptest.sbb.ch.     	A	194.150.245.65
+sbbmail.sbb.ch.     	CNAME	sbbmail4int.sbb.ch.
+sbbmail1.sbb.ch.    	A	194.150.245.2
+sbbmail1int.sbb.ch. 	A	172.28.14.62
+sbbmail2.sbb.ch.    	A	194.150.244.66
+sbbmail2int.sbb.ch. 	A	172.28.15.61
+sbbmail3.sbb.ch.    	A	194.150.245.1
+sbbmail3int.sbb.ch. 	A	172.28.14.61
+sbbmail4.sbb.ch.    	A	194.150.244.65
+sbbmail4int.sbb.ch. 	A	172.28.15.62
+search.sbb.ch.      	A	193.192.251.50
+search1.sbb.ch.     	A	193.192.251.23
+sec2.sbb.ch.        	A	193.192.251.28
+shop.sbb.ch.        	A	193.192.251.6
+shop1.sbb.ch.       	A	172.17.17.16
+shop2.sbb.ch.       	A	172.17.17.116
+shopb.sbb.ch.       	A	172.17.17.116
+shopdb1.sbb.ch.     	A	10.104.24.73
+sso.sbb.ch.         	CNAME	wwwo.sbb.ch.
+sysa.sbb.ch.        	CNAME	sysa.main.sbb.ch.
+sysb.sbb.ch.        	CNAME	sysb.main.sbb.ch.
+sysc.sbb.ch.        	CNAME	sysc.main.sbb.ch.
+sysd.sbb.ch.        	CNAME	sysd.main.sbb.ch.
+sysj.sbb.ch.        	CNAME	sysj.main.sbb.ch.
+sysz.sbb.ch.        	CNAME	sysz.main.sbb.ch.
+t3270.sbb.ch.       	CNAME	netmon.main.sbb.ch.
+tdmzchext.sbb.ch.   	A	194.150.245.83
+telnet.sbb.ch.      	A	147.78.240.241
+telnet-gw.sbb.ch.   	CNAME	telnet.sbb.ch.
+telnetgw.sbb.ch.    	CNAME	telnet.sbb.ch.
+timetable.sbb.ch.   	A	213.83.5.145
+tsbbmail2.sbb.ch.   	A	194.150.245.69
+tsbbmail3.sbb.ch.   	A	194.150.245.68
+updates.sbb.ch.     	A	213.83.5.140
+vpn.sbb.ch.         	A	194.150.244.101
+vpn1.sbb.ch.        	A	193.192.252.15
+vpn2.sbb.ch.        	A	193.192.252.16
+vpne.sbb.ch.        	CNAME	vpn.sbb.ch.
+vpntest.sbb.ch.     	A	194.150.245.72
+wap.sbb.ch.         	CNAME	fahrplan.sbb.ch.
+wapi.sbb.ch.        	CNAME	fahrplani.sbb.ch.
+wapidmz.sbb.ch.     	A	194.150.245.67
+wappi.sbb.ch.       	A	193.192.251.10
+wappi1.sbb.ch.      	A	172.17.17.10
+wapps.sbb.ch.       	A	193.192.251.28
+wappsa.sbb.ch.      	CNAME	wapps.sbb.ch.
+wappsb.sbb.ch.      	CNAME	wapps.sbb.ch.
+wappsc.sbb.ch.      	A	193.192.251.38
+wasi.sbb.ch.        	A	193.192.251.55
+wasi1.sbb.ch.       	A	10.104.24.53
+wasi2.sbb.ch.       	A	10.104.24.50
+waslbi.sbb.ch.      	A	193.192.251.55
+waspa.sbb.ch.       	A	10.104.24.35
+waspb.sbb.ch.       	A	10.104.24.37
+waspc.sbb.ch.       	A	10.104.24.58
+waspd.sbb.ch.       	A	10.104.24.55
+wast1.sbb.ch.       	A	10.104.24.85
+www.sbb.ch.         	A	193.192.251.35
+www1.sbb.ch.        	A	172.17.17.37
+www2.sbb.ch.        	A	172.17.17.17
+wwwa.sbb.ch.        	A	193.192.251.7
+wwwb.sbb.ch.        	A	193.192.251.7
+wwwint.sbb.ch.      	A	194.150.245.66
+wwwo.sbb.ch.        	A	193.192.251.7
+wwwtest.sbb.ch.     	A	194.150.245.66
+xhtml.sbb.ch.       	CNAME	fahrplan.sbb.ch.
+xhtmli.sbb.ch.      	CNAME	fahrplani.sbb.ch.
+zokoia.sbb.ch.      	A	193.192.251.58
+zpg2-pwlan.sbb.ch.  	A	194.150.245.45
+zpg2i-pwlan.sbb.ch. 	A	194.150.245.55
+zpg2t-pwlan.sbb.ch. 	A	194.150.245.58
+sbb.ch.             	SOA	ns1.sbb.ch. web-services.t-systems.ch. (
+			2005072001	;serial (version)
+			300	;refresh period (5 minutes)
+			900	;retry interval (15 minutes)
+			864000	;expire time (1 week, 3 days)
+			7200	;default ttl (2 hours)
+			)

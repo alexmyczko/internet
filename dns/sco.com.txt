@@ -1,0 +1,182 @@
+sco.com.            	SOA	ns.calderasystems.com. hostmaster.caldera.com. (
+			2003062301	;serial (version)
+			3600	;refresh period (1 hour)
+			900	;retry interval (15 minutes)
+			604800	;expire time (1 week)
+			21600	;default ttl (6 hours)
+			)
+sco.com.            	NS	ns.calderasystems.com.
+sco.com.            	NS	ns2.calderasystems.com.
+sco.com.            	NS	nsca.sco.com.
+sco.com.            	NS	c7ns1.center7.com.
+sco.com.            	A	216.250.140.112
+sco.com.            	MX	10 mail.ut.caldera.com.
+websco.sco.com.     	A	132.147.210.9
+biz.sco.com.        	NS	ns.calderasystems.com.
+biz.sco.com.        	NS	ns2.calderasystems.com.
+biz.sco.com.        	NS	nsca.sco.com.
+biz.sco.com.        	NS	nsuk.sco.com.
+biz.sco.com.        	NS	c7ns1.center7.com.
+www1.sco.com.       	A	132.147.210.9
+athena.sco.com.     	A	132.147.210.43
+www2.sco.com.       	A	216.250.128.33
+www5.sco.com.       	A	132.147.210.9
+docdev.sco.com.     	A	132.147.210.51
+gandalf.sco.com.    	A	216.250.130.49
+localhost.sco.com.  	A	127.0.0.1
+ftpput.sco.com.     	A	216.250.128.33
+projectudi.sco.com. 	A	132.147.210.13
+crm.sco.com.        	A	216.250.130.13
+sco.sco.com.        	A	132.147.210.109
+scoxweb.sco.com.    	A	216.250.128.220
+*.scoxweb.sco.com.  	A	216.250.128.220
+no.sco.com.         	A	216.250.140.125
+www.no.sco.com.     	A	216.250.140.125
+crmdev.sco.com.     	A	216.250.130.52
+mx.sco.com.         	A	216.250.140.125
+www.mx.sco.com.     	A	216.250.140.125
+rohan.sco.com.      	A	216.250.130.32
+piedra.sco.com.     	A	216.250.134.38
+ns.sco.com.         	A	132.147.210.253
+shadowfax.sco.com.  	A	216.250.130.73
+osr5.sco.com.       	A	132.147.67.194
+host20.pcenter.sco.com.	A	132.147.4.20
+host18.pcenter.sco.com.	A	132.147.4.18
+host4.pcenter.sco.com.	A	132.147.4.4
+host21.pcenter.sco.com.	A	132.147.4.21
+host19.pcenter.sco.com.	A	132.147.4.19
+host5.pcenter.sco.com.	A	132.147.4.5
+host6.pcenter.sco.com.	A	132.147.4.6
+host22.pcenter.sco.com.	A	132.147.4.22
+host7.pcenter.sco.com.	A	132.147.4.7
+host10.pcenter.sco.com.	A	132.147.4.10
+host23.pcenter.sco.com.	A	132.147.4.23
+host8.pcenter.sco.com.	A	132.147.4.8
+host11.pcenter.sco.com.	A	132.147.4.11
+host24.pcenter.sco.com.	A	132.147.4.24
+host9.pcenter.sco.com.	A	132.147.4.9
+host12.pcenter.sco.com.	A	132.147.4.12
+host13.pcenter.sco.com.	A	132.147.4.13
+host14.pcenter.sco.com.	A	132.147.4.14
+host1.pcenter.sco.com.	A	132.147.4.1
+host15.pcenter.sco.com.	A	132.147.4.15
+host2.pcenter.sco.com.	A	132.147.4.2
+host16.pcenter.sco.com.	A	132.147.4.16
+host3.pcenter.sco.com.	A	132.147.4.3
+host17.pcenter.sco.com.	A	132.147.4.17
+ca.sco.com.         	NS	ns.calderasystems.com.
+ca.sco.com.         	NS	ns2.calderasystems.com.
+ar.sco.com.         	A	216.250.140.125
+www.ar.sco.com.     	A	216.250.140.125
+pl.sco.com.         	A	216.250.140.125
+www.pl.sco.com.     	A	216.250.140.125
+linuxupdate.sco.com.	A	216.250.128.241
+au.sco.com.         	A	216.250.140.125
+www.au.sco.com.     	A	216.250.140.125
+scoxdb.sco.com.     	A	216.250.128.221
+*.scoxdb.sco.com.   	A	216.250.128.221
+ftppriv.sco.com.    	A	216.250.128.33
+hobbes.sco.com.     	A	132.147.128.45
+br.sco.com.         	A	216.250.140.125
+www.br.sco.com.     	A	216.250.140.125
+sumatra.sco.com.    	A	132.147.2.2
+pdev.sco.com.       	NS	ns1.ca.caldera.com.
+pdev.sco.com.       	NS	ns2.ca.caldera.com.
+artemis.sco.com.    	A	216.250.128.33
+de.sco.com.         	A	216.250.140.125
+www.de.sco.com.     	A	216.250.140.125
+cn.sco.com.         	A	216.250.140.125
+www.cn.sco.com.     	A	216.250.140.125
+support.sco.com.    	A	216.250.140.125
+geoforum.sco.com.   	A	204.246.143.102
+co.sco.com.         	A	216.250.140.125
+www.co.sco.com.     	A	216.250.140.125
+doc.sco.com.        	A	216.250.140.125
+banaba.sco.com.     	A	132.147.153.24
+*.scobiz.sco.com.   	A	216.57.205.210
+*.scobiz.sco.com.   	MX	10 mail.vista.com.
+dk.sco.com.         	A	216.250.140.125
+www.dk.sco.com.     	A	216.250.140.125
+se.sco.com.         	A	216.250.140.125
+www.se.sco.com.     	A	216.250.140.125
+irc.sco.com.        	A	216.250.130.49
+uss.sco.com.        	NS	ns1.ca.caldera.com.
+uss.sco.com.        	NS	ns2.ca.caldera.com.
+nsca.sco.com.       	A	132.147.210.253
+calendar.sco.com.   	A	216.250.130.12
+elearning.sco.com.  	A	209.153.134.176
+ns1.sco.com.        	A	132.147.210.253
+ns2.sco.com.        	A	192.102.82.254
+public.sco.com.     	A	216.250.128.194
+cz.sco.com.         	A	216.250.140.125
+www.cz.sco.com.     	A	216.250.140.125
+ru.sco.com.         	A	216.250.140.125
+www.ru.sco.com.     	A	216.250.140.125
+scerg.sco.com.      	A	132.147.67.53
+osr5doc.sco.com.    	A	216.250.140.125
+fi.sco.com.         	A	216.250.140.125
+www.fi.sco.com.     	A	216.250.140.125
+cosmo.sco.com.      	A	132.147.210.44
+es.sco.com.         	A	216.250.140.125
+www.es.sco.com.     	A	216.250.140.125
+listproc.sco.com.   	A	132.147.210.44
+vms.sco.com.        	A	216.250.130.31
+fr.sco.com.         	A	216.250.140.125
+www.fr.sco.com.     	A	216.250.140.125
+uk.sco.com.         	A	216.250.140.125
+www.uk.sco.com.     	A	216.250.140.125
+www.emeia.sco.com.  	A	216.250.140.125
+tw.sco.com.         	A	216.250.140.125
+www.tw.sco.com.     	A	216.250.140.125
+vupdate.sco.com.    	A	216.250.128.200
+krakatoa.sco.com.   	A	132.147.153.19
+smallfoot.sco.com.  	A	132.147.199.233
+cvs.smallfoot.sco.com.	A	132.147.199.233
+cuba.sco.com.       	A	132.147.153.17
+ut.sco.com.         	NS	ns.calderasystems.com.
+ut.sco.com.         	NS	ns2.calderasystems.com.
+time.sco.com.       	A	216.250.130.1
+apollo.sco.com.     	A	216.250.128.35
+shell.sco.com.      	A	216.250.130.49
+dews.sco.com.       	NS	dews.sco.com.
+dews.sco.com.       	A	216.250.130.21
+in.sco.com.         	A	216.250.140.125
+www.in.sco.com.     	A	216.250.140.125
+wdb1.sco.com.       	A	216.250.128.35
+webcal.sco.com.     	A	216.250.130.12
+nsuk.sco.com.       	A	62.190.213.253
+updatetest.sco.com. 	A	216.250.128.241
+ir.sco.com.         	CNAME	cald.client.shareholder.com.
+saba.sco.com.       	A	132.147.153.4
+ftp.dev.sco.com.    	A	216.250.140.114
+it.sco.com.         	A	216.250.140.125
+www.it.sco.com.     	A	216.250.140.125
+shop.sco.com.       	A	216.250.128.248
+jp.sco.com.         	A	202.33.8.90
+jp.sco.com.         	MX	10 mail.ut.caldera.com.
+www.jp.sco.com.     	A	202.33.8.90
+za.sco.com.         	A	216.250.140.125
+www.za.sco.com.     	A	216.250.140.125
+www.sco.com.        	A	216.250.140.112
+la.sco.com.         	A	216.250.140.125
+www.la.sco.com.     	A	216.250.140.125
+osd.sco.com.        	A	132.147.67.194
+uw7doc.sco.com.     	A	216.250.140.125
+stage-support.sco.com.	A	216.250.140.229
+intranet.sco.com.   	A	216.250.130.1
+fitz.sco.com.       	A	132.147.153.4
+register.sco.com.   	A	216.250.140.112
+kr.sco.com.         	NS	ns.kr.sco.com.
+ns.kr.sco.com.      	A	211.196.197.50
+ftp.sco.com.        	A	216.250.140.126
+nordic.sco.com.     	A	216.250.140.125
+www.nordic.sco.com. 	A	216.250.140.125
+spg.sco.com.        	A	132.147.67.82
+list.sco.com.       	A	216.250.130.32
+sco.com.            	SOA	ns.calderasystems.com. hostmaster.caldera.com. (
+			2003062301	;serial (version)
+			3600	;refresh period (1 hour)
+			900	;retry interval (15 minutes)
+			604800	;expire time (1 week)
+			21600	;default ttl (6 hours)
+			)
