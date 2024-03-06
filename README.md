@@ -5,7 +5,7 @@ The Internet
 When IRC was hip. And people used mirc32 and some wrote, pressing "alt-f4" starts a hidden flightsimulator.
 
 # DNS at that time
-Yes you could simply get a zone transfer, dig them out and put them [dns|here], for the fun.
+Yes you could simply get a zone transfer, dig them out and put them [here](dns), for the fun.
 DNS was created 1983, before there was the hosts file, yes /etc/hosts.
 
 # So why we create tools to setup your own DNS server? Map your network?
