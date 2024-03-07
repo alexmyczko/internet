@@ -1,0 +1,7 @@
+
+d=$(hostname -d)
+echo Network information for $d
+host -t soa $d
+host -t ns $d
+host -t mx $d
+whois $(host $(hostname -d) | awk '{print $NF}'|head -1)|grep CIDR
