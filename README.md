@@ -1,5 +1,5 @@
 # internet
-The Internet
+[The Internet](https://twitter.com/SeanMcC1970/status/1500085009021124616?s=20&t=dbP3QpHZI3nL86EQt5lVxA), and how it's made.
 
 # The Internet between 1990-1999
 When IRC (try `dict IRC`) was hip. And people used mirc32 and some wrote, pressing "alt-f4" starts a hidden flightsimulator.
