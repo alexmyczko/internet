@@ -9,6 +9,10 @@ Yes you could simply get a zone transfer, dig them out and put them [here](dns),
 DNS was created 1983, before there was the hosts file, yes /etc/hosts.
 CEO short summary, try `dict DNS` and read the RFC. The important RRs are SOA, NS, MX, and the whois database.
 
+# DNS at Debian
+
+https://salsa.debian.org/dsa-team/mirror/domains
+
 # Broken
 - If you have MX records for a domain and you don't deliver mails to it, it is broken.
 - If you have the choice of a TLD .edu or some country specific .xy the .edu one is better and should be used, anything else is poor decision.
